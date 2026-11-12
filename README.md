@@ -1,7 +1,7 @@
 # Awesome Tools with stars
 
 我常用或收集的工具，持续更新，分享的同时也方便自己查找。\
-虽然已经有很多 [Awesome List](https://github.com/sindresorhus/awesome#readme) ⭐ 535,215 | 🐛 103 | 📅 2026-09-02，但是太多了，找起来很不方便，还是整理一份自己的。
+虽然已经有很多 [Awesome List](https://github.com/sindresorhus/awesome#readme) ⭐ 535,828 | 🐛 103 | 📅 2026-09-02，但是太多了，找起来很不方便，还是整理一份自己的。
 
 ## Table of Contents
 
@@ -123,29 +123,29 @@ TODO: 待补充。
 
 ## Authentication
 
-* [keycloak/keycloak](https://github.com/keycloak/keycloak) ⭐ 37,821 | 🐛 3,546 | 🌐 Java | 📅 2026-11-11 - Open Source Identity and Access Management For Modern Applications and Services
-* [authelia/authelia](https://github.com/authelia/authelia) ⭐ 29,626 | 🐛 116 | 🌐 Go | 📅 2026-11-11 - The Single Sign-On Multi-Factor portal for web apps
-* [goauthentik/authentik](https://github.com/goauthentik/authentik) ⭐ 26,310 | 🐛 937 | 🌐 Python | 📅 2026-11-11 - The authentication glue you need.
-* [ory/hydra](https://github.com/ory/hydra#what-is-ory-hydra) ⭐ 17,659 | 🐛 91 | 🌐 Go | 📅 2026-07-29 - OpenID Certified™ OpenID Connect and OAuth Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language. Works with Hardware Security Modules. Compatible with MITREid.
-* [zitadel/zitadel](https://github.com/zitadel/zitadel) ⭐ 15,560 | 🐛 1,364 | 🌐 Go | 📅 2026-11-11 - ZITADEL - The best of Auth0 and Keycloak combined. Built for the serverless era.
-* [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) ⭐ 15,358 | 🐛 284 | 🌐 Go | 📅 2026-11-08 - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
-* [logto-io/logto](https://github.com/logto-io/logto) ⭐ 14,906 | 🐛 142 | 🌐 TypeScript | 📅 2026-11-11 - Logto helps you build the sign-in, auth, and user identity within minutes. We provide an OIDC-based identity service and the end-user experience with username, phone number, email, and social sign-in, for web and native apps.
-* [casdoor/casdoor](https://github.com/casdoor/casdoor) ⭐ 14,829 | 🐛 95 | 🌐 Go | 📅 2026-11-11 - An open-source Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML and CAS
+* [keycloak/keycloak](https://github.com/keycloak/keycloak) ⭐ 37,836 | 🐛 3,534 | 🌐 Java | 📅 2026-11-12 - Open Source Identity and Access Management For Modern Applications and Services
+* [authelia/authelia](https://github.com/authelia/authelia) ⭐ 29,636 | 🐛 119 | 🌐 Go | 📅 2026-11-12 - The Single Sign-On Multi-Factor portal for web apps
+* [goauthentik/authentik](https://github.com/goauthentik/authentik) ⭐ 26,322 | 🐛 926 | 🌐 Python | 📅 2026-11-12 - The authentication glue you need.
+* [ory/hydra](https://github.com/ory/hydra#what-is-ory-hydra) ⭐ 17,663 | 🐛 91 | 🌐 Go | 📅 2026-07-29 - OpenID Certified™ OpenID Connect and OAuth Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language. Works with Hardware Security Modules. Compatible with MITREid.
+* [zitadel/zitadel](https://github.com/zitadel/zitadel) ⭐ 15,569 | 🐛 1,372 | 🌐 Go | 📅 2026-11-12 - ZITADEL - The best of Auth0 and Keycloak combined. Built for the serverless era.
+* [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) ⭐ 15,365 | 🐛 286 | 🌐 Go | 📅 2026-11-08 - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
+* [logto-io/logto](https://github.com/logto-io/logto) ⭐ 14,916 | 🐛 130 | 🌐 TypeScript | 📅 2026-11-12 - Logto helps you build the sign-in, auth, and user identity within minutes. We provide an OIDC-based identity service and the end-user experience with username, phone number, email, and social sign-in, for web and native apps.
+* [casdoor/casdoor](https://github.com/casdoor/casdoor) ⭐ 14,843 | 🐛 98 | 🌐 Go | 📅 2026-11-11 - An open-source Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML and CAS
 * [ory/kratos](https://github.com/ory/kratos) ⭐ 13,956 | 🐛 242 | 🌐 Go | 📅 2026-07-29 - Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication.
-* [dexidp/dex](https://github.com/dexidp/dex) ⭐ 11,249 | 🐛 535 | 🌐 Go | 📅 2026-11-11 - OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
-* [pomerium/pomerium](https://github.com/pomerium/pomerium) ⭐ 5,100 | 🐛 163 | 🌐 Go | 📅 2026-11-11 - Pomerium is an identity and context-aware access proxy.
+* [dexidp/dex](https://github.com/dexidp/dex) ⭐ 11,252 | 🐛 536 | 🌐 Go | 📅 2026-11-12 - OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
+* [pomerium/pomerium](https://github.com/pomerium/pomerium) ⭐ 5,103 | 🐛 168 | 🌐 Go | 📅 2026-11-12 - Pomerium is an identity and context-aware access proxy.
 * [netlify/gotrue](https://github.com/netlify/gotrue) ⭐ 4,504 | 🐛 12 | 🌐 Go | 📅 2026-10-27 - An SWT based API for managing users and issuing SWT tokens
-* [volatiletech/authboss](https://github.com/volatiletech/authboss) ⭐ 4,204 | 🐛 41 | 🌐 Go | 📅 2026-07-10 - The boss of http auth.
+* [volatiletech/authboss](https://github.com/volatiletech/authboss) ⭐ 4,203 | 🐛 41 | 🌐 Go | 📅 2026-07-10 - The boss of http auth.
 * [vouch/vouch-proxy](https://github.com/vouch/vouch-proxy) ⭐ 3,289 | 🐛 62 | 🌐 Go | 📅 2026-09-27 - an SSO and OAuth / OIDC login solution for Nginx using the auth\_request module
 * [thomseddon/traefik-forward-auth](https://github.com/thomseddon/traefik-forward-auth) ⭐ 2,396 | 🐛 131 | 🌐 Go | 📅 2026-04-03 - Minimal forward authentication service that provides Google/OpenID oauth based login and authentication for the traefik reverse proxy
-* [cloudfoundry/uaa](https://github.com/cloudfoundry/uaa) ⭐ 1,637 | 🐛 58 | 🌐 Java | 📅 2026-11-11 - CloudFoundry User Account and Authentication (UAA) Server
+* [cloudfoundry/uaa](https://github.com/cloudfoundry/uaa) ⭐ 1,637 | 🐛 58 | 🌐 Java | 📅 2026-11-12 - CloudFoundry User Account and Authentication (UAA) Server
 * [keratin/authn-server](https://github.com/keratin/authn-server) ⭐ 1,284 | 🐛 33 | 🌐 Go | 📅 2024-08-09 - Authentication service that keeps you in control without forcing you to be an expert in web security.
 * [forward\_auth (Caddyfile directive)](https://caddyserver.com/docs/caddyfile/directives/forward_auth)
 * [Traefik ForwardAuth Documentation](https://doc.traefik.io/traefik/middlewares/http/forwardauth/)
 
 ## Automation
 
-* [just](https://github.com/casey/just) ⭐ 36,668 | 🐛 172 | 🌐 Rust | 📅 2026-11-11 - 类似 make。
+* [just](https://github.com/casey/just) ⭐ 36,694 | 🐛 172 | 🌐 Rust | 📅 2026-11-11 - 类似 make。
 * [invoke](https://github.com/pyinvoke/invoke) ⭐ 4,782 | 🐛 471 | 🌐 Python | 📅 2026-04-07 - Pythonic task management & command execution.
 * [mage](https://github.com/magefile/mage) ⭐ 4,704 | 🐛 124 | 🌐 Go | 📅 2026-10-01 - a Make/rake-like dev tool using Go
 * [mmake](https://github.com/tj/mmake) ⭐ 1,737 | 🐛 11 | 🌐 Go | 📅 2023-07-01 - Modern Make
@@ -159,16 +159,16 @@ TODO: 待补充。
 ## Backup
 
 * [Mackup](https://github.com/lra/mackup) ⭐ 15,360 | 🐛 292 | 🌐 Python | 📅 2026-11-10 - macOS 下应用设备备份/同步工具。
-* [kopia/kopia](https://github.com/kopia/kopia) ⭐ 14,646 | 🐛 941 | 🌐 Go | 📅 2026-11-10 - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
-* [BorgBackup](https://www.borgbackup.org/) - [开源](https://github.com/borgbackup/borg) ⭐ 13,917 | 🐛 179 | 🌐 Python | 📅 2026-11-10 备份软件，强烈推荐。
-* [bup/bup](https://github.com/bup/bup) ⭐ 7,369 | 🐛 18 | 🌐 Python | 📅 2026-11-07 - Very efficient backup system based on the git packfile format, providing fast incremental saves and global deduplication (among and within files, including virtual machine images).
+* [kopia/kopia](https://github.com/kopia/kopia) ⭐ 14,661 | 🐛 948 | 🌐 Go | 📅 2026-11-10 - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
+* [BorgBackup](https://www.borgbackup.org/) - [开源](https://github.com/borgbackup/borg) ⭐ 13,919 | 🐛 179 | 🌐 Python | 📅 2026-11-10 备份软件，强烈推荐。
+* [bup/bup](https://github.com/bup/bup) ⭐ 7,370 | 🐛 18 | 🌐 Python | 📅 2026-11-07 - Very efficient backup system based on the git packfile format, providing fast incremental saves and global deduplication (among and within files, including virtual machine images).
 * [rsnapshot/rsnapshot](https://github.com/rsnapshot/rsnapshot) ⭐ 3,690 | 🐛 55 | 🌐 Perl | 📅 2026-10-10 - a tool for backing up your data using rsync
-* [Vorta](https://vorta.borgbase.com/) - Borg Backup 的图形化客户端，[开源](https://github.com/borgbase/vorta) ⭐ 2,528 | 🐛 187 | 🌐 Python | 📅 2026-11-03。
+* [Vorta](https://vorta.borgbase.com/) - Borg Backup 的图形化客户端，[开源](https://github.com/borgbase/vorta) ⭐ 2,528 | 🐛 181 | 🌐 Python | 📅 2026-11-12。
 * [borgmatic](https://github.com/witten/borgmatic) ⭐ 2,364 | 🐛 0 | 🌐 Python | 📅 2026-11-06 - BorgBackup 简化工具。
-* [cupcakearmy/autorestic](https://github.com/cupcakearmy/autorestic) ⭐ 1,883 | 🐛 105 | 🌐 Go | 📅 2026-04-05 - Config driven, easy backup cli for restic.
-* [restic/rest-server](https://github.com/restic/rest-server) ⭐ 1,544 | 🐛 61 | 🌐 Go | 📅 2026-11-05 - Rest Server is a high performance HTTP server that implements restic's REST backend API.
+* [cupcakearmy/autorestic](https://github.com/cupcakearmy/autorestic) ⭐ 1,884 | 🐛 105 | 🌐 Go | 📅 2026-04-05 - Config driven, easy backup cli for restic.
+* [restic/rest-server](https://github.com/restic/rest-server) ⭐ 1,544 | 🐛 62 | 🌐 Go | 📅 2026-11-05 - Rest Server is a high performance HTTP server that implements restic's REST backend API.
 * [creativeprojects/resticprofile](https://github.com/creativeprojects/resticprofile) ⭐ 1,458 | 🐛 107 | 🌐 Go | 📅 2026-11-10 - Configuration profiles manager and scheduler for restic backup
-* [rdiff-backup/rdiff-backup](https://github.com/rdiff-backup/rdiff-backup) ⭐ 1,273 | 🐛 84 | 🌐 Python | 📅 2026-11-10 - Reverse differential backup tool, over a network or locally.
+* [rdiff-backup/rdiff-backup](https://github.com/rdiff-backup/rdiff-backup) ⭐ 1,273 | 🐛 85 | 🌐 Python | 📅 2026-11-10 - Reverse differential backup tool, over a network or locally.
 * [deajan/osync](https://github.com/deajan/osync) ⭐ 999 | 🐛 42 | 🌐 Shell | 📅 2026-10-28 - A robust two way (bidirectional) file sync script based on rsync with fault tolerance, POSIX ACL support, time control and near realtime sync
 * [dpc/rdedup](https://github.com/dpc/rdedup) ⭐ 858 | 🐛 51 | 🌐 Rust | 📅 2022-08-25 - Data deduplication engine, supporting optional compression and public key encryption.
 * [restic/others](https://github.com/restic/others) ⭐ 761 | 🐛 13 | 📅 2023-11-05 - Exhaustive list of backup solutions for Linux
@@ -186,12 +186,12 @@ TODO: 待补充。
 
 ## Bastion Host
 
-* [Teleport](https://goteleport.com/) - [开源](https://github.com/gravitational/teleport) ⭐ 21,090 | 🐛 3,237 | 🌐 Go | 📅 2026-11-06。
-* [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub) ⭐ 2,247 | 🐛 19 | 🌐 Go | 📅 2026-11-11 - Get seamless remote access to any Linux device. Centralized SSH for the edge and cloud computing
-* [ovh/the-bastion](https://github.com/ovh/the-bastion) ⭐ 2,203 | 🐛 47 | 🌐 Perl | 📅 2026-11-10 - Authentication, authorization, traceability and auditability for SSH accesses.
+* [Teleport](https://goteleport.com/) - [开源](https://github.com/gravitational/teleport) ⭐ 21,092 | 🐛 3,235 | 🌐 Go | 📅 2026-11-06。
+* [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub) ⭐ 2,247 | 🐛 18 | 🌐 Go | 📅 2026-11-12 - Get seamless remote access to any Linux device. Centralized SSH for the edge and cloud computing
+* [ovh/the-bastion](https://github.com/ovh/the-bastion) ⭐ 2,203 | 🐛 47 | 🌐 Perl | 📅 2026-11-12 - Authentication, authorization, traceability and auditability for SSH accesses.
 * [moul/sshportal](https://github.com/moul/sshportal) ⭐ 1,945 | 🐛 81 | 🌐 Go | 📅 2026-09-19 - simple, fun and transparent SSH (and telnet) bastion server
 * [cloudposse/bastion](https://github.com/cloudposse/bastion) ⭐ 672 | 🐛 3 | 🌐 Shell | 📅 2026-11-08 - 🔒Secure Bastion implemented as Docker Container running Alpine Linux with Google Authenticator & DUO MFA support
-* [aker-gateway/Aker](https://github.com/aker-gateway/Aker) ⭐ 572 | 🐛 51 | 🌐 Python | 📅 2021-01-26 - SSH bastion/jump host/jumpserver
+* [aker-gateway/Aker](https://github.com/aker-gateway/Aker) ⭐ 573 | 🐛 51 | 🌐 Python | 📅 2021-01-26 - SSH bastion/jump host/jumpserver
 * [AnalogJ/drawbridge](https://github.com/AnalogJ/drawbridge) ⭐ 223 | 🐛 12 | 🌐 Go | 📅 2024-07-26 - manage SSH access to multiple applications/environments protected by bastion servers
 * [AWS Systems Manager Session Manager - AWS Systems Manager](https://docs.aws.amazon.com/zh_cn/systems-manager/latest/userguide/session-manager.html)
 * [Bastillion](https://www.bastillion.io/) - Web-Based Bastion Host and SSH Key Management
@@ -201,8 +201,8 @@ TODO: 待补充。
 
 ## BitTorrent
 
-* [rTorrent](https://github.com/rakshasa/rtorrent) ⭐ 4,888 | 🐛 389 | 🌐 C++ | 📅 2026-11-11
-* [rutorrent](https://github.com/Novik/ruTorrent) ⭐ 2,194 | 🐛 21 | 🌐 PHP | 📅 2026-11-10 - rTorrent 的 Web 管理界面，配合 RSS 插件挂 PT。
+* [rTorrent](https://github.com/rakshasa/rtorrent) ⭐ 4,889 | 🐛 387 | 🌐 C++ | 📅 2026-11-12
+* [rutorrent](https://github.com/Novik/ruTorrent) ⭐ 2,194 | 🐛 11 | 🌐 PHP | 📅 2026-11-12 - rTorrent 的 Web 管理界面，配合 RSS 插件挂 PT。
 * [Deluge](https://deluge-torrent.org/)
 * [qBittorrent](https://www.qbittorrent.org/)
 * [Transmission](https://transmissionbt.com/)
@@ -248,11 +248,11 @@ TODO: 待补充。
 
 ## Cheat Sheet
 
-* [tldr](https://github.com/tldr-pages/tldr) ⭐ 64,194 | 🐛 294 | 🌐 Markdown | 📅 2026-11-11
-* [cheat.sh](https://cheat.sh) - [开源](https://github.com/chubin/cheat.sh) ⭐ 41,854 | 🐛 150 | 🌐 Python | 📅 2026-09-22。
-* [navi](https://github.com/denisidoro/navi) ⭐ 17,852 | 🐛 130 | 🌐 Rust | 📅 2026-10-16 - Rust 写的。
-* [cheat](https://github.com/cheat/cheat) ⭐ 13,493 | 🐛 32 | 🌐 Go | 📅 2026-05-19
-* [tealdeer](https://github.com/dbrgn/tealdeer) ⭐ 6,664 | 🐛 21 | 🌐 Rust | 📅 2026-10-24 - [tldr](https://github.com/tldr-pages/tldr) ⭐ 64,194 | 🐛 294 | 🌐 Markdown | 📅 2026-11-11 的 Rust 实现。
+* [tldr](https://github.com/tldr-pages/tldr) ⭐ 64,197 | 🐛 298 | 🌐 Markdown | 📅 2026-11-12
+* [cheat.sh](https://cheat.sh) - [开源](https://github.com/chubin/cheat.sh) ⭐ 41,857 | 🐛 150 | 🌐 Python | 📅 2026-09-22。
+* [navi](https://github.com/denisidoro/navi) ⭐ 17,853 | 🐛 130 | 🌐 Rust | 📅 2026-10-16 - Rust 写的。
+* [cheat](https://github.com/cheat/cheat) ⭐ 13,492 | 🐛 32 | 🌐 Go | 📅 2026-05-19
+* [tealdeer](https://github.com/dbrgn/tealdeer) ⭐ 6,666 | 🐛 21 | 🌐 Rust | 📅 2026-10-24 - [tldr](https://github.com/tldr-pages/tldr) ⭐ 64,197 | 🐛 298 | 🌐 Markdown | 📅 2026-11-12 的 Rust 实现。
 
 ## Chrome Extensions
 
@@ -295,7 +295,7 @@ TODO: 待补充说明。
 
 ## CI/CD
 
-* [semantic-release](https://github.com/semantic-release/semantic-release) ⭐ 24,167 | 🐛 414 | 🌐 JavaScript | 📅 2026-11-06
+* [semantic-release](https://github.com/semantic-release/semantic-release) ⭐ 24,166 | 🐛 413 | 🌐 JavaScript | 📅 2026-11-06
 * [GitLab Runner](https://docs.gitlab.com/runner/) - 公司所有项目的 CI/CD 全靠这个。
 * [Homu](https://bors.tech/homu-io/) - Merge bot for GitHub，公司内部添加了 GitLab 的支持，使用了几年，现在已被自己完全实现的另外一只 merge-bot 替代。
   * [bors-ng/bors-ng](https://github.com/bors-ng/bors-ng) ⚠️ Archived
@@ -305,14 +305,14 @@ TODO: 待补充说明。
 
 ### Dependency Management
 
-* [renovate](https://github.com/renovatebot/renovate) ⭐ 23,085 | 🐛 1,534 | 🌐 TypeScript | 📅 2026-11-11 - 很强大，公司内部的项目基本都在用这个做依赖的升级管理。
+* [renovate](https://github.com/renovatebot/renovate) ⭐ 23,102 | 🐛 1,533 | 🌐 TypeScript | 📅 2026-11-12 - 很强大，公司内部的项目基本都在用这个做依赖的升级管理。
 * [bundlesize](https://github.com/siddharthkp/bundlesize) ⭐ 4,463 | 🐛 81 | 🌐 JavaScript | 📅 2026-07-29
-* [retire.js](https://github.com/RetireJS/retire.js) ⭐ 4,208 | 🐛 3 | 🌐 JavaScript | 📅 2026-11-11
+* [retire.js](https://github.com/RetireJS/retire.js) ⭐ 4,210 | 🐛 2 | 🌐 JavaScript | 📅 2026-11-11
 * [bundler-audit](https://github.com/rubysec/bundler-audit) ⭐ 2,763 | 🐛 49 | 🌐 Ruby | 📅 2026-11-11
 * [BundleWatch](https://bundlewatch.io/)
 * [david-dm](https://david-dm.org/)
 * [Dependabot](https://dependabot.com/) - 被 Github 收购了。
-  * [dependabot-core](https://github.com/dependabot/dependabot-core) ⭐ 5,843 | 🐛 1,644 | 🌐 Ruby | 📅 2026-11-11
+  * [dependabot-core](https://github.com/dependabot/dependabot-core) ⭐ 5,844 | 🐛 1,651 | 🌐 Ruby | 📅 2026-11-12
   * [dependabot-script](https://github.com/dependabot/dependabot-script) ⚠️ Archived
 * [Dependency Scanning | GitLab](https://docs.gitlab.com/ee/user/application_security/dependency_scanning/)
 * [gemnasium · GitLab](https://gitlab.com/gitlab-org/security-products/analyzers/gemnasium)
@@ -321,9 +321,9 @@ TODO: 待补充说明。
 
 ## Cloud Storage
 
-* [Rclone browser](https://github.com/kapitainsky/RcloneBrowser) ⭐ 2,964 | 🐛 139 | 🌐 C++ | 📅 2024-03-11 - [Rclone](https://rclone.org/) GUI.
+* [Rclone browser](https://github.com/kapitainsky/RcloneBrowser) ⭐ 2,965 | 🐛 139 | 🌐 C++ | 📅 2024-03-11 - [Rclone](https://rclone.org/) GUI.
 * [MEGAcmd](https://mega.nz/cmd) - Mega.nz 的官方 CLI，[开源](https://github.com/meganz/MEGAcmd) ⭐ 2,234 | 🐛 711 | 🌐 C++ | 📅 2026-10-29。
-* [RsyncOSX](https://github.com/rsyncOSX/RsyncOSX) ⭐ 201 | 🐛 0 | 📅 2026-11-05 - rsync GUI.
+* [RsyncOSX](https://github.com/rsyncOSX/RsyncOSX) ⭐ 201 | 🐛 0 | 📅 2026-11-12 - rsync GUI.
 * [CloudMounter](https://cloudmounter.net/) - 云盘挂载工具，但没有 Mountain Duck 好用。
 * [Megatools](https://megatools.megous.com/) - Mega.nz 的命令行工具。
 * [Mountain Duck](https://mountainduck.io/) - 云盘挂载工具。
@@ -341,66 +341,66 @@ TODO: 待补充说明。
 ## Command Line
 
 * [The Fuck](https://github.com/nvbn/thefuck) ⭐ 97,955 | 🐛 470 | 🌐 Python | 📅 2024-07-19 - 帮你纠正命令的同时还能发泄下。
-* [fzf](https://github.com/junegunn/fzf) ⭐ 84,159 | 🐛 335 | 🌐 Go | 📅 2026-11-11 - 命令行下的模糊搜索工具，神器，我基于 fzf 写了 zsh 的 SSH [插件(zsh-ssh)](https://github.com/sunlei/zsh-ssh) ⭐ 223 | 🐛 0 | 🌐 Shell | 📅 2026-11-10。A command-line fuzzy finder.
-* [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) ⭐ 69,893 | 🐛 225 | 🌐 Rust | 📅 2026-11-09 - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
-* [ripgrep](https://github.com/BurntSushi/ripgrep) ⭐ 69,893 | 🐛 225 | 🌐 Rust | 📅 2026-11-09 - 比 grep 更好用。
-* [bat](https://github.com/sharkdp/bat) ⭐ 61,216 | 🐛 566 | 🌐 Rust | 📅 2026-11-10 - 支持高亮的 cat，我已经用来替换 cat。
-* [sharkdp/bat](https://github.com/sharkdp/bat) ⭐ 61,216 | 🐛 566 | 🌐 Rust | 📅 2026-11-10 - A cat(1) clone with wings.
-* [starship/starship](https://github.com/starship/starship) ⭐ 60,700 | 🐛 1,066 | 🌐 Rust | 📅 2026-11-10 - ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-* [fd](https://github.com/sharkdp/fd) ⭐ 45,053 | 🐛 205 | 🌐 Rust | 📅 2026-11-09 - 加强版 find。
-* [sharkdp/fd](https://github.com/sharkdp/fd) ⭐ 45,053 | 🐛 205 | 🌐 Rust | 📅 2026-11-09 - A simple, fast and user-friendly alternative to 'find'
-* [nushell/nushell](https://github.com/nushell/nushell) ⭐ 40,992 | 🐛 1,481 | 🌐 Rust | 📅 2026-11-11 - A new type of shell
-* [zoxide](https://github.com/ajeetdsouza/zoxide) ⭐ 40,564 | 🐛 157 | 🌐 Rust | 📅 2026-11-08 - 智能化 cd。
-* [casey/just](https://github.com/casey/just) ⭐ 36,668 | 🐛 172 | 🌐 Rust | 📅 2026-11-11 - 🤖 Just a command runner
-* [zellij-org/zellij](https://github.com/zellij-org/zellij) ⭐ 36,007 | 🐛 1,944 | 🌐 Rust | 📅 2026-11-11 - A terminal workspace with batteries included
-* [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) ⭐ 29,252 | 🐛 78 | 🌐 Rust | 📅 2026-11-01 - A command-line benchmarking tool
-* [charmbracelet/glow](https://github.com/charmbracelet/glow) ⭐ 28,019 | 🐛 269 | 🌐 Go | 📅 2026-11-04 - Render markdown on the CLI, with pizzazz! 💅🏻
+* [fzf](https://github.com/junegunn/fzf) ⭐ 84,178 | 🐛 333 | 🌐 Go | 📅 2026-11-12 - 命令行下的模糊搜索工具，神器，我基于 fzf 写了 zsh 的 SSH [插件(zsh-ssh)](https://github.com/sunlei/zsh-ssh) ⭐ 223 | 🐛 0 | 🌐 Shell | 📅 2026-11-10。A command-line fuzzy finder.
+* [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) ⭐ 69,917 | 🐛 226 | 🌐 Rust | 📅 2026-11-09 - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
+* [ripgrep](https://github.com/BurntSushi/ripgrep) ⭐ 69,917 | 🐛 226 | 🌐 Rust | 📅 2026-11-09 - 比 grep 更好用。
+* [bat](https://github.com/sharkdp/bat) ⭐ 61,239 | 🐛 566 | 🌐 Rust | 📅 2026-11-10 - 支持高亮的 cat，我已经用来替换 cat。
+* [sharkdp/bat](https://github.com/sharkdp/bat) ⭐ 61,239 | 🐛 566 | 🌐 Rust | 📅 2026-11-10 - A cat(1) clone with wings.
+* [starship/starship](https://github.com/starship/starship) ⭐ 60,715 | 🐛 1,068 | 🌐 Rust | 📅 2026-11-12 - ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+* [fd](https://github.com/sharkdp/fd) ⭐ 45,058 | 🐛 206 | 🌐 Rust | 📅 2026-11-12 - 加强版 find。
+* [sharkdp/fd](https://github.com/sharkdp/fd) ⭐ 45,058 | 🐛 206 | 🌐 Rust | 📅 2026-11-12 - A simple, fast and user-friendly alternative to 'find'
+* [nushell/nushell](https://github.com/nushell/nushell) ⭐ 41,007 | 🐛 1,452 | 🌐 Rust | 📅 2026-11-12 - A new type of shell
+* [zoxide](https://github.com/ajeetdsouza/zoxide) ⭐ 40,582 | 🐛 157 | 🌐 Rust | 📅 2026-11-08 - 智能化 cd。
+* [casey/just](https://github.com/casey/just) ⭐ 36,694 | 🐛 172 | 🌐 Rust | 📅 2026-11-11 - 🤖 Just a command runner
+* [zellij-org/zellij](https://github.com/zellij-org/zellij) ⭐ 36,036 | 🐛 1,950 | 🌐 Rust | 📅 2026-11-12 - A terminal workspace with batteries included
+* [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) ⭐ 29,266 | 🐛 78 | 🌐 Rust | 📅 2026-11-01 - A command-line benchmarking tool
+* [charmbracelet/glow](https://github.com/charmbracelet/glow) ⭐ 28,041 | 🐛 268 | 🌐 Go | 📅 2026-11-04 - Render markdown on the CLI, with pizzazz! 💅🏻
 * [ogham/exa](https://github.com/ogham/exa) ⭐ 24,453 | 🐛 214 | 🌐 Rust | 📅 2024-09-24 - A modern replacement for ‘ls’.
-* [uutils/coreutils](https://github.com/uutils/coreutils) ⭐ 24,355 | 🐛 1,341 | 🌐 Rust | 📅 2026-11-11 - Cross-platform Rust rewrite of the GNU coreutils
-* [eza-community/eza](https://github.com/eza-community/eza) ⭐ 23,875 | 🐛 481 | 🌐 Rust | 📅 2026-08-06 - A modern, maintained replacement for ls
+* [uutils/coreutils](https://github.com/uutils/coreutils) ⭐ 24,360 | 🐛 1,349 | 🌐 Rust | 📅 2026-11-12 - Cross-platform Rust rewrite of the GNU coreutils
+* [eza-community/eza](https://github.com/eza-community/eza) ⭐ 23,893 | 🐛 483 | 🌐 Rust | 📅 2026-08-06 - A modern, maintained replacement for ls
 * [neofetch](https://github.com/dylanaraps/neofetch) ⚠️ Archived - 漂亮的系统信息获取工具。
-* [rust-lang/mdBook](https://github.com/rust-lang/mdBook) ⭐ 22,288 | 🐛 650 | 🌐 Rust | 📅 2026-11-11 - Create book from markdown files. Like Gitbook but implemented in Rust
-* [fx](https://github.com/antonmedv/fx) ⭐ 20,713 | 🐛 11 | 🌐 Go | 📅 2026-10-22 - JSON 处理工具。
-* [RustScan/RustScan](https://github.com/RustScan/RustScan) ⭐ 20,698 | 🐛 20 | 🌐 Rust | 📅 2026-11-04 - 🤖 The Modern Port Scanner 🤖
-* [denisidoro/navi](https://github.com/denisidoro/navi) ⭐ 17,852 | 🐛 130 | 🌐 Rust | 📅 2026-10-16 - An interactive cheatsheet tool for the command-line
-* [awscli](https://github.com/aws/aws-cli) ⭐ 17,350 | 🐛 764 | 🌐 Python | 📅 2026-11-11 - AWS 命令行工具。
-* [z](https://github.com/rupa/z) ⭐ 17,071 | 🐛 109 | 🌐 Shell | 📅 2024-06-19 - 智能化 cd。
+* [rust-lang/mdBook](https://github.com/rust-lang/mdBook) ⭐ 22,289 | 🐛 645 | 🌐 Rust | 📅 2026-11-12 - Create book from markdown files. Like Gitbook but implemented in Rust
+* [fx](https://github.com/antonmedv/fx) ⭐ 20,713 | 🐛 12 | 🌐 Go | 📅 2026-10-22 - JSON 处理工具。
+* [RustScan/RustScan](https://github.com/RustScan/RustScan) ⭐ 20,707 | 🐛 20 | 🌐 Rust | 📅 2026-11-04 - 🤖 The Modern Port Scanner 🤖
+* [denisidoro/navi](https://github.com/denisidoro/navi) ⭐ 17,853 | 🐛 130 | 🌐 Rust | 📅 2026-10-16 - An interactive cheatsheet tool for the command-line
+* [awscli](https://github.com/aws/aws-cli) ⭐ 17,353 | 🐛 769 | 🌐 Python | 📅 2026-11-12 - AWS 命令行工具。
+* [z](https://github.com/rupa/z) ⭐ 17,072 | 🐛 109 | 🌐 Shell | 📅 2024-06-19 - 智能化 cd。
 * [autojump](https://github.com/wting/autojump) ⭐ 16,961 | 🐛 231 | 🌐 Python | 📅 2025-02-27 - 加强 cd 命令。
-* [Peltoche/lsd](https://github.com/Peltoche/lsd) ⭐ 16,292 | 🐛 218 | 🌐 Rust | 📅 2026-08-17 - The next gen ls command
-* [duf](https://github.com/muesli/duf) ⭐ 15,381 | 🐛 86 | 🌐 Go | 📅 2026-11-06 - 加强版 du。
-* [muesli/duf](https://github.com/muesli/duf) ⭐ 15,381 | 🐛 86 | 🌐 Go | 📅 2026-11-06 - Disk Usage/Free Utility - a better 'df' alternative
-* [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) ⭐ 15,069 | 🐛 259 | 🌐 Rust | 📅 2026-09-06 - Count your code, quickly.
-* [gron](https://github.com/tomnomnom/gron) ⭐ 14,540 | 🐛 57 | 🌐 Go | 📅 2025-05-31 - JSON 查看工具。
-* [Canop/broot](https://github.com/Canop/broot) ⭐ 13,156 | 🐛 103 | 🌐 Rust | 📅 2026-11-01 - A new way to see and navigate directory trees
-* [gping](https://github.com/orf/gping) ⭐ 12,737 | 🐛 44 | 🌐 Rust | 📅 2026-11-05 - 可视化的 ping。
-* [bootandy/dust](https://github.com/bootandy/dust) ⭐ 12,620 | 🐛 13 | 🌐 Rust | 📅 2026-11-01 - A more intuitive version of du in rust
-* [dust](https://github.com/bootandy/dust) ⭐ 12,620 | 🐛 13 | 🌐 Rust | 📅 2026-11-01 - 加强版 du，但我还是更喜欢 [ncdu](https://dev.yorhel.nl/ncdu)。
-* [mas](https://github.com/mas-cli/mas) ⭐ 12,426 | 🐛 89 | 🌐 Swift | 📅 2026-11-09 - Mac App Store CLI.
+* [Peltoche/lsd](https://github.com/Peltoche/lsd) ⭐ 16,301 | 🐛 218 | 🌐 Rust | 📅 2026-08-17 - The next gen ls command
+* [duf](https://github.com/muesli/duf) ⭐ 15,384 | 🐛 86 | 🌐 Go | 📅 2026-11-06 - 加强版 du。
+* [muesli/duf](https://github.com/muesli/duf) ⭐ 15,384 | 🐛 86 | 🌐 Go | 📅 2026-11-06 - Disk Usage/Free Utility - a better 'df' alternative
+* [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) ⭐ 15,081 | 🐛 259 | 🌐 Rust | 📅 2026-09-06 - Count your code, quickly.
+* [gron](https://github.com/tomnomnom/gron) ⭐ 14,542 | 🐛 57 | 🌐 Go | 📅 2025-05-31 - JSON 查看工具。
+* [Canop/broot](https://github.com/Canop/broot) ⭐ 13,170 | 🐛 104 | 🌐 Rust | 📅 2026-11-12 - A new way to see and navigate directory trees
+* [gping](https://github.com/orf/gping) ⭐ 12,740 | 🐛 44 | 🌐 Rust | 📅 2026-11-05 - 可视化的 ping。
+* [bootandy/dust](https://github.com/bootandy/dust) ⭐ 12,638 | 🐛 13 | 🌐 Rust | 📅 2026-11-01 - A more intuitive version of du in rust
+* [dust](https://github.com/bootandy/dust) ⭐ 12,638 | 🐛 13 | 🌐 Rust | 📅 2026-11-01 - 加强版 du，但我还是更喜欢 [ncdu](https://dev.yorhel.nl/ncdu)。
+* [mas](https://github.com/mas-cli/mas) ⭐ 12,426 | 🐛 90 | 🌐 Swift | 📅 2026-11-09 - Mac App Store CLI.
 * [BurntSushi/xsv](https://github.com/BurntSushi/xsv) ⚠️ Archived - A fast CSV command line toolkit written in Rust.
 * [xsv](https://github.com/BurntSushi/xsv) ⚠️ Archived - Rust 写的 CSV 处理工具。
-* [sharkdp/hexyl](https://github.com/sharkdp/hexyl) ⭐ 10,313 | 🐛 43 | 🌐 Rust | 📅 2026-04-30 - A command-line hex viewer
-* [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) ⭐ 8,703 | 🐛 47 | 🌐 Python | 📅 2026-11-09 - CLI tool and python library that converts the output of popular command-line tools and file-types to JSON or Dictionaries. This allows piping of output to tools like jq and simplifying automation scripts.
-* [pemistahl/grex](https://github.com/pemistahl/grex) ⭐ 8,304 | 🐛 24 | 🌐 Rust | 📅 2026-02-27 - A command-line tool and library for generating regular expressions from user-provided test cases
-* [ducaale/xh](https://github.com/ducaale/xh) ⭐ 8,190 | 🐛 39 | 🌐 Rust | 📅 2026-11-06 - Friendly and fast tool for sending HTTP requests
-* [Dotbot](https://github.com/anishathalye/dotbot) ⭐ 8,036 | 🐛 17 | 🌐 Python | 📅 2026-10-31 - dotfiles 管理工具，好用。
+* [sharkdp/hexyl](https://github.com/sharkdp/hexyl) ⭐ 10,318 | 🐛 43 | 🌐 Rust | 📅 2026-04-30 - A command-line hex viewer
+* [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) ⭐ 8,703 | 🐛 45 | 🌐 Python | 📅 2026-11-11 - CLI tool and python library that converts the output of popular command-line tools and file-types to JSON or Dictionaries. This allows piping of output to tools like jq and simplifying automation scripts.
+* [pemistahl/grex](https://github.com/pemistahl/grex) ⭐ 8,307 | 🐛 24 | 🌐 Rust | 📅 2026-02-27 - A command-line tool and library for generating regular expressions from user-provided test cases
+* [ducaale/xh](https://github.com/ducaale/xh) ⭐ 8,198 | 🐛 39 | 🌐 Rust | 📅 2026-11-06 - Friendly and fast tool for sending HTTP requests
+* [Dotbot](https://github.com/anishathalye/dotbot) ⭐ 8,035 | 🐛 17 | 🌐 Python | 📅 2026-10-31 - dotfiles 管理工具，好用。
 * [peco](https://github.com/peco/peco) ⭐ 7,908 | 🐛 2 | 🌐 Go | 📅 2026-11-09 - Simplistic interactive filtering tool
-* [McFly](https://github.com/cantino/mcfly) ⭐ 7,828 | 🐛 137 | 🌐 Rust | 📅 2026-09-01 - Rust 写的 ctrl-r 加强工具。
-* [chmln/sd](https://github.com/chmln/sd) ⭐ 7,429 | 🐛 87 | 🌐 Rust | 📅 2026-02-25 - Intuitive find & replace CLI (sed alternative)
-* [sd](https://github.com/chmln/sd) ⭐ 7,429 | 🐛 87 | 🌐 Rust | 📅 2026-02-25 - 加强版 sed。
-* [terminal-notifier](https://github.com/julienXX/terminal-notifier) ⭐ 7,377 | 🐛 14 | 🌐 Objective-C | 📅 2026-08-30 - 从终端发送通知，例如当耗时命令执行完毕后。
+* [McFly](https://github.com/cantino/mcfly) ⭐ 7,827 | 🐛 137 | 🌐 Rust | 📅 2026-09-01 - Rust 写的 ctrl-r 加强工具。
+* [chmln/sd](https://github.com/chmln/sd) ⭐ 7,450 | 🐛 87 | 🌐 Rust | 📅 2026-02-25 - Intuitive find & replace CLI (sed alternative)
+* [sd](https://github.com/chmln/sd) ⭐ 7,450 | 🐛 87 | 🌐 Rust | 📅 2026-02-25 - 加强版 sed。
+* [terminal-notifier](https://github.com/julienXX/terminal-notifier) ⭐ 7,378 | 🐛 14 | 🌐 Objective-C | 📅 2026-08-30 - 从终端发送通知，例如当耗时命令执行完毕后。
 * [aws-shell](https://aws.amazon.com/cli/) - AWS 命令行工具，[开源](https://github.com/awslabs/aws-shell) ⭐ 7,333 | 🐛 98 | 🌐 Python | 📅 2024-12-16。
-* [watchexec/watchexec](https://github.com/watchexec/watchexec) ⭐ 7,284 | 🐛 39 | 🌐 Rust | 📅 2026-11-06 - Executes commands in response to file modifications
-* [dbohdan/structured-text-tools](https://github.com/dbohdan/structured-text-tools/) ⭐ 7,148 | 🐛 10 | 📅 2026-10-16 - A list of command line tools for manipulating structured text data
-* [lotabout/skim](https://github.com/lotabout/skim) ⭐ 7,011 | 🐛 10 | 🌐 Rust | 📅 2026-11-10 - Fuzzy Finder in rust!
-* [sk](https://github.com/lotabout/skim) ⭐ 7,011 | 🐛 10 | 🌐 Rust | 📅 2026-11-10 - 终端下的模糊查找工具，类似 fzf。
+* [watchexec/watchexec](https://github.com/watchexec/watchexec) ⭐ 7,291 | 🐛 39 | 🌐 Rust | 📅 2026-11-06 - Executes commands in response to file modifications
+* [dbohdan/structured-text-tools](https://github.com/dbohdan/structured-text-tools/) ⭐ 7,149 | 🐛 10 | 📅 2026-10-16 - A list of command line tools for manipulating structured text data
+* [lotabout/skim](https://github.com/lotabout/skim) ⭐ 7,011 | 🐛 11 | 🌐 Rust | 📅 2026-11-12 - Fuzzy Finder in rust!
+* [sk](https://github.com/lotabout/skim) ⭐ 7,011 | 🐛 11 | 🌐 Rust | 📅 2026-11-12 - 终端下的模糊查找工具，类似 fzf。
 * [dog](https://dns.lookup.dog/) - 加强版的 dig，[开源](https://github.com/ogham/dog) ⭐ 6,693 | 🐛 79 | 🌐 Rust | 📅 2024-05-29。
-* [dbrgn/tealdeer](https://github.com/dbrgn/tealdeer) ⭐ 6,664 | 🐛 21 | 🌐 Rust | 📅 2026-10-24 - A very fast implementation of tldr in Rust.
-* [sharkdp/pastel](https://github.com/sharkdp/pastel) ⭐ 6,549 | 🐛 42 | 🌐 Rust | 📅 2026-05-01 - A command-line tool to generate, analyze, convert and manipulate colors
-* [Byron/dua-cli](https://github.com/Byron/dua-cli) ⭐ 6,445 | 🐛 0 | 🌐 Rust | 📅 2026-11-09 - View disk space usage and delete unwanted data, fast.
-* [dalance/procs](https://github.com/dalance/procs) ⭐ 6,227 | 🐛 44 | 🌐 Rust | 📅 2026-11-09 - A modern replacement for ps written in Rust
-* [procs](https://github.com/dalance/procs) ⭐ 6,227 | 🐛 44 | 🌐 Rust | 📅 2026-11-09 - 加强版 ps。
+* [dbrgn/tealdeer](https://github.com/dbrgn/tealdeer) ⭐ 6,666 | 🐛 21 | 🌐 Rust | 📅 2026-10-24 - A very fast implementation of tldr in Rust.
+* [sharkdp/pastel](https://github.com/sharkdp/pastel) ⭐ 6,559 | 🐛 42 | 🌐 Rust | 📅 2026-05-01 - A command-line tool to generate, analyze, convert and manipulate colors
+* [Byron/dua-cli](https://github.com/Byron/dua-cli) ⭐ 6,456 | 🐛 0 | 🌐 Rust | 📅 2026-11-12 - View disk space usage and delete unwanted data, fast.
+* [dalance/procs](https://github.com/dalance/procs) ⭐ 6,237 | 🐛 44 | 🌐 Rust | 📅 2026-11-09 - A modern replacement for ps written in Rust
+* [procs](https://github.com/dalance/procs) ⭐ 6,237 | 🐛 44 | 🌐 Rust | 📅 2026-11-09 - 加强版 ps。
 * [fasd](https://github.com/clvv/fasd) ⚠️ Archived - 目录快速跳转。
-* [nghttp2](https://github.com/nghttp2/nghttp2) ⭐ 5,076 | 🐛 58 | 🌐 C++ | 📅 2026-11-11 - HTTP/2 C Library，也包含几个实用的 HTTP/2 工具。
+* [nghttp2](https://github.com/nghttp2/nghttp2) ⭐ 5,078 | 🐛 59 | 🌐 C++ | 📅 2026-11-11 - HTTP/2 C Library，也包含几个实用的 HTTP/2 工具。
 * [ntfy](https://github.com/dschep/ntfy) ⭐ 4,987 | 🐛 103 | 🌐 Python | 📅 2025-10-27 - 🖥️📱🔔 A utility for sending notifications, on demand and when commands finish.
 * [pidcat](https://github.com/JakeWharton/pidcat) ⭐ 4,953 | 🐛 67 | 🌐 Python | 📅 2024-05-10 - Android logcat 的加强版。
 * [noti](https://github.com/variadico/noti) ⚠️ Archived - 从终端发送通知，例如当耗时命令执行完毕后，支持丰富的通知方式和众多服务。
@@ -409,29 +409,29 @@ TODO: 待补充说明。
 * [Aloxaf/silicon](https://github.com/Aloxaf/silicon) ⭐ 3,593 | 🐛 49 | 🌐 Rust | 📅 2024-09-26 - Create beautiful image of your source code.
 * [TheWaWaR/simple-http-server](https://github.com/TheWaWaR/simple-http-server) ⭐ 3,471 | 🐛 46 | 🌐 Rust | 📅 2026-08-27 - Simple http server in Rust (Windows/Mac/Linux)
 * [percol](https://github.com/mooz/percol) ⭐ 3,320 | 🐛 51 | 🌐 Python | 📅 2023-12-30 - adds flavor of interactive filtering to the traditional pipe concept of UNIX shell
-* [fzy](https://github.com/jhawthorn/fzy) ⭐ 3,311 | 🐛 59 | 🌐 C | 📅 2025-07-29 - 类似 fzf。A simple, fast fuzzy finder for the terminal.
+* [fzy](https://github.com/jhawthorn/fzy) ⭐ 3,313 | 🐛 59 | 🌐 C | 📅 2025-07-29 - 类似 fzf。A simple, fast fuzzy finder for the terminal.
 * [r-darwish/topgrade](https://github.com/r-darwish/topgrade) ⚠️ Archived - Upgrade everything
-* [ccat](https://github.com/owenthereal/ccat) ⭐ 3,208 | 🐛 41 | 🌐 Go | 📅 2022-09-05 - 支持高亮的 cat，更推荐 [bat](https://github.com/sharkdp/bat) ⭐ 61,216 | 🐛 566 | 🌐 Rust | 📅 2026-11-10。
+* [ccat](https://github.com/owenthereal/ccat) ⭐ 3,208 | 🐛 41 | 🌐 Go | 📅 2022-09-05 - 支持高亮的 cat，更推荐 [bat](https://github.com/sharkdp/bat) ⭐ 61,239 | 🐛 566 | 🌐 Rust | 📅 2026-11-10。
 * [z.lua](https://github.com/skywind3000/z.lua) ⭐ 3,148 | 🐛 75 | 🌐 Lua | 📅 2026-10-28 - 智能化 cd。
-* [bvaisvil/zenith](https://github.com/bvaisvil/zenith) ⭐ 3,070 | 🐛 40 | 🌐 Rust | 📅 2026-10-01 - Zenith - sort of like top or htop but with zoom-able charts, CPU, GPU, network, and disk usage
-* [tbillington/kondo](https://github.com/tbillington/kondo) ⭐ 2,586 | 🐛 50 | 🌐 Rust | 📅 2026-04-24 - Save disk space by cleaning non-essential files from software projects.
-* [rune-rs/rune](https://github.com/rune-rs/rune) ⭐ 2,412 | 🐛 73 | 🌐 Rust | 📅 2026-11-11 - An embeddable dynamic programming language for Rust.
+* [bvaisvil/zenith](https://github.com/bvaisvil/zenith) ⭐ 3,071 | 🐛 40 | 🌐 Rust | 📅 2026-10-01 - Zenith - sort of like top or htop but with zoom-able charts, CPU, GPU, network, and disk usage
+* [tbillington/kondo](https://github.com/tbillington/kondo) ⭐ 2,587 | 🐛 50 | 🌐 Rust | 📅 2026-04-24 - Save disk space by cleaning non-essential files from software projects.
+* [rune-rs/rune](https://github.com/rune-rs/rune) ⭐ 2,416 | 🐛 73 | 🌐 Rust | 📅 2026-11-12 - An embeddable dynamic programming language for Rust.
 * [lunaryorn/mdcat](https://github.com/lunaryorn/mdcat) ⚠️ Archived - cat for markdown
-* [theryangeary/choose](https://github.com/theryangeary/choose) ⭐ 2,291 | 🐛 5 | 🌐 Rust | 📅 2026-06-11 - A human-friendly and fast alternative to cut and (sometimes) awk
+* [theryangeary/choose](https://github.com/theryangeary/choose) ⭐ 2,293 | 🐛 5 | 🌐 Rust | 📅 2026-06-11 - A human-friendly and fast alternative to cut and (sometimes) awk
 * [grc](https://github.com/garabik/grc) ⭐ 2,205 | 🐛 95 | 🌐 Python | 📅 2024-08-18 - 让一些命令的输出变为彩色。
 * [PaddiM8/kalker](https://github.com/PaddiM8/kalker) ⭐ 1,936 | 🐛 44 | 🌐 Rust | 📅 2026-09-18 - Kalker/kalk is a calculator with math syntax that supports user-defined variables and functions, complex numbers, and estimation of derivatives and integrals
-* [bat-extras](https://github.com/eth-p/bat-extras) ⭐ 1,644 | 🐛 67 | 🌐 Shell | 📅 2025-02-22 - 基于 [bat](https://github.com/sharkdp/bat) ⭐ 61,216 | 🐛 566 | 🌐 Rust | 📅 2026-11-10 的几个工具。
+* [bat-extras](https://github.com/eth-p/bat-extras) ⭐ 1,645 | 🐛 67 | 🌐 Shell | 📅 2025-02-22 - 基于 [bat](https://github.com/sharkdp/bat) ⭐ 61,239 | 🐛 566 | 🌐 Rust | 📅 2026-11-10 的几个工具。
 * [stepchowfun/toast](https://github.com/stepchowfun/toast) ⭐ 1,635 | 🐛 9 | 🌐 Rust | 📅 2026-11-07 - Containerize your development and continuous integration environments. 🥂
 * [selecta](https://github.com/garybernhardt/selecta/) ⭐ 1,359 | 🐛 6 | 🌐 Ruby | 📅 2026-03-31 - A fuzzy text selector for files and anything else you need to select.
 * [alerter](https://github.com/vjeantet/alerter) ⭐ 1,246 | 🐛 18 | 🌐 HTML | 📅 2026-07-22 - Send User Alert Notification on Mac OS X from the command-line.
-* [aliyun-cli](https://github.com/aliyun/aliyun-cli) ⭐ 1,134 | 🐛 54 | 🌐 Go | 📅 2026-11-11 - 阿里云 CLI。
-* [sentry-cli](https://github.com/getsentry/sentry-cli) ⭐ 1,044 | 🐛 4 | 🌐 Rust | 📅 2026-11-09 - [Sentry](https://sentry.io/) 的 CLI 工具。
+* [aliyun-cli](https://github.com/aliyun/aliyun-cli) ⭐ 1,135 | 🐛 53 | 🌐 Go | 📅 2026-11-12 - 阿里云 CLI。
+* [sentry-cli](https://github.com/getsentry/sentry-cli) ⭐ 1,045 | 🐛 4 | 🌐 Rust | 📅 2026-11-09 - [Sentry](https://sentry.io/) 的 CLI 工具。
 * [pick](https://github.com/mptre/pick) ⭐ 844 | 🐛 10 | 🌐 C | 📅 2023-05-17 - A fuzzy search tool for the command-line
 * [sstadick/hck](https://github.com/sstadick/hck) ⭐ 746 | 🐛 7 | 🌐 Rust | 📅 2026-06-15 - A sharp cut(1) clone.
 * [mobiledevice](https://github.com/imkira/mobiledevice) ⭐ 682 | 🐛 7 | 🌐 C++ | 📅 2018-09-11 - 命令行下的 iOS 设备管理工具，很久没更新了，不知道现在还好不好用。
 * [tiffany352/rink-rs](https://github.com/tiffany352/rink-rs) ⭐ 586 | 🐛 26 | 🌐 Rust | 📅 2026-08-31 - Unit conversion tool and library written in rust
-* [nvchecker](https://github.com/lilydjwg/nvchecker) ⭐ 582 | 🐛 15 | 🌐 Python | 📅 2026-11-11 - 检查各种软件更新的工具，我 [添加](https://github.com/lilydjwg/nvchecker/pull/126) ⭐ 582 | 🐛 15 | 🌐 Python | 📅 2026-11-11 了 [Sparkle](https://sparkle-project.org/) 的支持后，配合 GitHub Actions 实现了 [更新通知服务](https://github.com/sunlei/nvchecker) ⭐ 10 | 🐛 1 | 🌐 Dockerfile | 📅 2026-11-11。
-* [zsh-notify](https://github.com/marzocchi/zsh-notify) ⭐ 554 | 🐛 7 | 🌐 Shell | 📅 2023-09-26 - Desktop notifications for long-running commands in zsh.
+* [nvchecker](https://github.com/lilydjwg/nvchecker) ⭐ 582 | 🐛 15 | 🌐 Python | 📅 2026-11-12 - 检查各种软件更新的工具，我 [添加](https://github.com/lilydjwg/nvchecker/pull/126) ⭐ 582 | 🐛 15 | 🌐 Python | 📅 2026-11-12 了 [Sparkle](https://sparkle-project.org/) 的支持后，配合 GitHub Actions 实现了 [更新通知服务](https://github.com/sunlei/nvchecker) ⭐ 10 | 🐛 1 | 🌐 Dockerfile | 📅 2026-11-12。
+* [zsh-notify](https://github.com/marzocchi/zsh-notify) ⭐ 553 | 🐛 7 | 🌐 Shell | 📅 2023-09-26 - Desktop notifications for long-running commands in zsh.
 * [ossutil](https://github.com/aliyun/ossutil) ⭐ 516 | 🐛 67 | 🌐 Go | 📅 2024-12-11 - 阿里云 OSS 命令行工具。
 * [dmerejkowsky/ruplacer](https://github.com/dmerejkowsky/ruplacer) ⚠️ Archived - Find and replace text in source files
 * [zsh-auto-notify](https://github.com/MichaelAquilina/zsh-auto-notify) ⭐ 483 | 🐛 31 | 🌐 Shell | 📅 2025-06-23 - ZSH plugin that automatically sends out a notification when a long running task has completed.
@@ -467,9 +467,9 @@ TODO: 待补充说明。
 
 ### Like jq
 
-* [jhy/jsoup](https://github.com/jhy/jsoup/) ⭐ 11,415 | 🐛 10 | 🌐 Java | 📅 2026-11-04 - the Java HTML parser, built for HTML editing, cleaning, scraping, and XSS safety.
+* [jhy/jsoup](https://github.com/jhy/jsoup/) ⭐ 11,415 | 🐛 11 | 🌐 Java | 📅 2026-11-11 - the Java HTML parser, built for HTML editing, cleaning, scraping, and XSS safety.
 * [pup](https://github.com/EricChiang/pup) ⭐ 8,429 | 🐛 106 | 🌐 HTML | 📅 2024-05-02 - Parsing HTML at the command line
-* [mgdm/htmlq](https://github.com/mgdm/htmlq) ⭐ 7,587 | 🐛 44 | 🌐 Rust | 📅 2026-05-27 - Like jq, but for HTML.
+* [mgdm/htmlq](https://github.com/mgdm/htmlq) ⭐ 7,586 | 🐛 44 | 🌐 Rust | 📅 2026-05-27 - Like jq, but for HTML.
 * [kislyuk/yq](https://github.com/kislyuk/yq) ⭐ 3,004 | 🐛 20 | 🌐 Python | 📅 2026-10-11 - Command-line YAML, XML, TOML processor - jq wrapper for YAML/XML/TOML documents
 * [benibela/xidel](https://github.com/benibela/xidel) ⭐ 851 | 🐛 26 | 🌐 Pascal | 📅 2025-02-22 - Command line tool to download and extract data from HTML/XML pages or JSON-APIs, using CSS, XPath 3.0, XQuery 3.0, JSONiq or pattern matching. It can also create new or transformed XML/HTML/JSON documents.
 * [osener/wring](https://github.com/osener/wring) ⭐ 452 | 🐛 0 | 🌐 PureScript | 📅 2016-02-28 - Extract content from webpages using CSS Selectors, XPath, and JS expressions
@@ -489,10 +489,10 @@ TODO: 待补充。
 ### Terminal Dashboard
 
 * [wtfutil/wtf](https://github.com/wtfutil/wtf) ⭐ 17,147 | 🐛 105 | 🌐 Go | 📅 2026-10-21 - The personal information dashboard for your terminal
-* [sqshq/sampler](https://github.com/sqshq/sampler) ⭐ 14,815 | 🐛 69 | 🌐 Go | 📅 2024-02-22 - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
+* [sqshq/sampler](https://github.com/sqshq/sampler) ⭐ 14,817 | 🐛 69 | 🌐 Go | 📅 2024-02-22 - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
 * [gizak/termui](https://github.com/gizak/termui) ⭐ 13,585 | 🐛 106 | 🌐 Go | 📅 2025-07-10 - Golang terminal dashboard
-* [notwaldorf/tiny-care-terminal](https://github.com/notwaldorf/tiny-care-terminal) ⭐ 5,977 | 🐛 37 | 🌐 JavaScript | 📅 2024-08-10 - A little dashboard that tries to take care of you when you're using your terminal.
-* [mum4k/termdash](https://github.com/mum4k/termdash) ⭐ 3,045 | 🐛 49 | 🌐 Go | 📅 2026-09-14 - Terminal based dashboard.
+* [notwaldorf/tiny-care-terminal](https://github.com/notwaldorf/tiny-care-terminal) ⭐ 5,976 | 🐛 37 | 🌐 JavaScript | 📅 2024-08-10 - A little dashboard that tries to take care of you when you're using your terminal.
+* [mum4k/termdash](https://github.com/mum4k/termdash) ⭐ 3,046 | 🐛 49 | 🌐 Go | 📅 2026-09-14 - Terminal based dashboard.
 * [Phantas0s/devdash](https://github.com/Phantas0s/devdash) ⚠️ Archived - Highly Configurable Terminal Dashboard for Developers and Creators
 * [FedericoCeratto/dashing](https://github.com/FedericoCeratto/dashing) ⭐ 537 | 🐛 7 | 🌐 Python | 📅 2026-11-08 - Terminal dashboards for Python
 
@@ -537,13 +537,13 @@ TODO: 待补充。
 
 * [Commento](https://commento.io/)
   * [Introduction](https://docs.commento.io/)
-* [Flarum](https://flarum.org/) - 用 PHP 实现的 [开源](https://github.com/flarum/flarum) ⭐ 16,443 | 🐛 0 | 🌐 PHP | 📅 2026-11-06 论坛程序。
+* [Flarum](https://flarum.org/) - 用 PHP 实现的 [开源](https://github.com/flarum/flarum) ⭐ 16,441 | 🐛 0 | 🌐 PHP | 📅 2026-11-06 论坛程序。
 
 ## Cron Job
 
-* [uber/cadence](https://github.com/uber/cadence) ⭐ 9,548 | 🐛 227 | 🌐 Go | 📅 2026-11-10 - Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.
-* [gocron](https://github.com/ouqiang/gocron) ⭐ 6,258 | 🐛 166 | 🌐 Go | 📅 2024-03-27
-* [Cronicle](https://github.com/jhuckaby/Cronicle) ⭐ 5,875 | 🐛 332 | 🌐 JavaScript | 📅 2026-11-07 - A simple, distributed task scheduler and runner with a web based UI.
+* [uber/cadence](https://github.com/uber/cadence) ⭐ 9,548 | 🐛 228 | 🌐 Go | 📅 2026-11-12 - Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.
+* [gocron](https://github.com/ouqiang/gocron) ⭐ 6,259 | 🐛 166 | 🌐 Go | 📅 2024-03-27
+* [Cronicle](https://github.com/jhuckaby/Cronicle) ⭐ 5,876 | 🐛 332 | 🌐 JavaScript | 📅 2026-11-07 - A simple, distributed task scheduler and runner with a web based UI.
 * [dkron](https://github.com/distribworks/dkron) ⭐ 4,741 | 🐛 52 | 🌐 Go | 📅 2026-11-03 - Dkron - Distributed, fault tolerant job scheduling system <https://dkron.io>
 * [crontab-ui](https://github.com/alseambusher/crontab-ui) ⭐ 3,282 | 🐛 21 | 🌐 JavaScript | 📅 2026-07-31 - Easy and safe way to manage your crontab file
 * [cronsun](https://github.com/shunfei/cronsun) ⭐ 2,907 | 🐛 87 | 🌐 Go | 📅 2024-06-06 - A Distributed, Fault-Tolerant Cron-Style Job System.
@@ -554,23 +554,23 @@ TODO: 待补充。
 * [Cronly](https://cronly.app/)
 * [Dead Man's Snitch](https://deadmanssnitch.com/)
 * [Free Cron Job Monitoring - Healthchecks.io](https://healthchecks.io/) - 开源。
-  * [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks/) ⭐ 10,518 | 🐛 55 | 🌐 Python | 📅 2026-11-10 - A cron monitoring tool written in Python & Django
+  * [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks/) ⭐ 10,517 | 🐛 55 | 🌐 Python | 📅 2026-11-10 - A cron monitoring tool written in Python & Django
 * [Power Cron](https://powercron.eu/)
 * [Pulse](https://www.webgazer.io/pulse)
 * [Script, Job, App, Batch & Cron Job Monitoring – PushMon](https://www.pushmon.com/)
 
 ## Data Visualization and Analytics
 
-* [Superset](https://superset.apache.org/) - [开源](https://github.com/apache/incubator-superset) ⭐ 75,479 | 🐛 672 | 🌐 Python | 📅 2026-11-11。
-* [Metabase](https://metabase.com/) - [开源](https://github.com/metabase/metabase) ⭐ 50,283 | 🐛 4,730 | 🌐 Clojure | 📅 2026-11-11，跟 Redash、Superset 对比后，选用了这个。
-* [Redash](https://redash.io/) - [开源](https://github.com/getredash/redash) ⭐ 28,880 | 🐛 773 | 🌐 TypeScript | 📅 2026-11-10。
+* [Superset](https://superset.apache.org/) - [开源](https://github.com/apache/incubator-superset) ⭐ 75,501 | 🐛 671 | 🌐 Python | 📅 2026-11-12。
+* [Metabase](https://metabase.com/) - [开源](https://github.com/metabase/metabase) ⭐ 50,301 | 🐛 4,702 | 🌐 Clojure | 📅 2026-11-12，跟 Redash、Superset 对比后，选用了这个。
+* [Redash](https://redash.io/) - [开源](https://github.com/getredash/redash) ⭐ 28,880 | 🐛 774 | 🌐 TypeScript | 📅 2026-11-10。
 * [Grafana](https://grafana.com/)
 
 ## Databases
 
 ### Management Tool
 
-* [Medis](https://github.com/luin/medis) ⭐ 11,714 | 🐛 72 | 🌐 JavaScript | 📅 2024-02-21 - 基于 Electron 的 redis 可视化客户端。
+* [Medis](https://github.com/luin/medis) ⭐ 11,713 | 🐛 72 | 🌐 JavaScript | 📅 2024-02-21 - 基于 Electron 的 redis 可视化客户端。
 * [Sequel Pro](https://www.sequelpro.com/) - MySQL/MariaDB 图形工具，[开源](https://github.com/sequelpro/sequelpro) ⭐ 9,189 | 🐛 530 | 🌐 Objective-C | 📅 2023-02-25，可惜不维护了，推荐用 Sequel Ace 替代。
 * [Sequel Ace](https://sequel-ace.com/) - MySQL/MariaDB 图形工具，Sequel Pro 停止维护后， fork 出来继续维护的版本，[开源](https://github.com/Sequel-Ace/Sequel-Ace) ⭐ 7,563 | 🐛 201 | 🌐 Objective-C | 📅 2026-11-09。
 * [IRedis](https://github.com/laixintao/iredis) ⭐ 2,763 | 🐛 49 | 🌐 Python | 📅 2026-11-02 - 交互式 redis 命令行客户端。
@@ -583,8 +583,8 @@ TODO: 待补充。
 
 ### Time Series
 
-* [man-group/arctic](https://github.com/man-group/arctic) ⭐ 3,089 | 🐛 97 | 🌐 Python | 📅 2024-04-08 - High performance datastore for time series and tick data
-* [man-group/ArcticDB](https://github.com/man-group/arcticdb) ⭐ 2,621 | 🐛 394 | 🌐 C++ | 📅 2026-11-11
+* [man-group/arctic](https://github.com/man-group/arctic) ⭐ 3,090 | 🐛 97 | 🌐 Python | 📅 2024-04-08 - High performance datastore for time series and tick data
+* [man-group/ArcticDB](https://github.com/man-group/arcticdb) ⭐ 2,622 | 🐛 382 | 🌐 C++ | 📅 2026-11-12
 * [Amazon Timestream](https://aws.amazon.com/timestream/)
 * [DB-Engines Ranking](https://db-engines.com/en/ranking/time+series+dbms) - popularity ranking of time Series DBMS
 * [Grafana Mimir OSS](https://grafana.com/oss/mimir/)
@@ -609,53 +609,53 @@ TODO: 待补充。
 
 ## Development
 
-* [scrcpy](https://github.com/Genymobile/scrcpy) ⭐ 154,573 | 🐛 2,948 | 🌐 C | 📅 2026-11-10 - Android 设备管理工具。
-* [nvm](https://github.com/nvm-sh/nvm) ⭐ 95,858 | 🐛 375 | 🌐 Shell | 📅 2026-11-04 - Node.js 版本管理工具。
-* [starship](https://starship.rs/) - 不错的 shell 提示符，用过一段时间，后来换到了 [Powerlevel10k](https://github.com/romkatv/powerlevel10k) ⭐ 55,359 | 🐛 152 | 🌐 Shell | 📅 2026-11-09。
+* [scrcpy](https://github.com/Genymobile/scrcpy) ⭐ 154,671 | 🐛 2,950 | 🌐 C | 📅 2026-11-10 - Android 设备管理工具。
+* [nvm](https://github.com/nvm-sh/nvm) ⭐ 95,975 | 🐛 373 | 🌐 Shell | 📅 2026-11-12 - Node.js 版本管理工具。
+* [starship](https://starship.rs/) - 不错的 shell 提示符，用过一段时间，后来换到了 [Powerlevel10k](https://github.com/romkatv/powerlevel10k) ⭐ 55,368 | 🐛 152 | 🌐 Shell | 📅 2026-11-09。
 * [wrk](https://github.com/wg/wrk) ⭐ 40,426 | 🐛 203 | 🌐 C | 📅 2023-12-30 - HTTP 压力测试。
-* [DevDocs](https://devdocs.io/) - API 文档查看工具，[开源](https://github.com/freeCodeCamp/devdocs) ⭐ 39,621 | 🐛 196 | 🌐 Ruby | 📅 2026-11-11。
-* [hyperfine](https://github.com/sharkdp/hyperfine) ⭐ 29,252 | 🐛 78 | 🌐 Rust | 📅 2026-11-01 - 命令行基准测试工具，测试不同命令的性能。
+* [DevDocs](https://devdocs.io/) - API 文档查看工具，[开源](https://github.com/freeCodeCamp/devdocs) ⭐ 39,630 | 🐛 196 | 🌐 Ruby | 📅 2026-11-12。
+* [hyperfine](https://github.com/sharkdp/hyperfine) ⭐ 29,266 | 🐛 78 | 🌐 Rust | 📅 2026-11-01 - 命令行基准测试工具，测试不同命令的性能。
 * [The Silver Searcher](https://github.com/ggreer/the_silver_searcher) ⭐ 27,124 | 🐛 564 | 🌐 C | 📅 2024-06-16 - 代码搜索工具，类似 [ack](https://beyondgrep.com/)。
 * [asdf](https://github.com/asdf-vm/asdf) ⭐ 25,621 | 🐛 151 | 🌐 Go | 📅 2026-11-11 - 支持多种语言的版本管理工具。
-* [Cookiecutter](https://github.com/cookiecutter/cookiecutter) ⭐ 25,184 | 🐛 336 | 🌐 Python | 📅 2026-04-01 - 根据模板创建新项目。
+* [Cookiecutter](https://github.com/cookiecutter/cookiecutter) ⭐ 25,182 | 🐛 336 | 🌐 Python | 📅 2026-04-01 - 根据模板创建新项目。
   * [cruft](https://github.com/cruft/cruft/) ⭐ 1,593 | 🐛 96 | 🌐 Python | 📅 2024-12-25 - Allows you to maintain all the necessary cruft for packaging and building projects separate from the code you intentionally write. Built on-top of, and full compatible with, CookieCutter.
   * [scaraplate](https://github.com/rambler-digital-solutions/scaraplate) ⭐ 63 | 🐛 5 | 🌐 Python | 📅 2023-07-23 - Scaraplate is a wrapper around cookiecutter which allows to repeatedly rollup project templates onto concrete projects.
   * [cupper](https://github.com/senseyeio/cupper) ⭐ 25 | 🐛 1 | 🌐 Python | 📅 2020-10-01 - Update cookiecutter projects
   * [python-cookiepatcher](https://github.com/ionelmc/python-cookiepatcher) ⭐ 19 | 🐛 0 | 🌐 Python | 📅 2022-09-09 - Just a small shim around cookiecutter that alters a bit the CLI to work better when reapplying templates to existing projects.
   * [battenberg](https://github.com/zillow/battenberg) ⭐ 13 | 🐛 8 | 🌐 Python | 📅 2024-11-14 - Providing updates to cookiecutter projects.
-* [cloc](https://github.com/AlDanial/cloc) ⭐ 23,660 | 🐛 26 | 🌐 Perl | 📅 2026-10-26 - 代码统计工具。
-* [hey](https://github.com/rakyll/hey) ⭐ 20,780 | 🐛 192 | 🌐 Go | 📅 2026-01-10 - HTTP 压力测试工具。
-* [SwiftLint](https://github.com/realm/SwiftLint) ⭐ 19,788 | 🐛 540 | 🌐 Swift | 📅 2026-11-05 - Swift lint 工具。
-* [golangci-lint](https://github.com/golangci/golangci-lint) ⭐ 19,523 | 🐛 120 | 🌐 Go | 📅 2026-11-11 - Go lint 工具。
+* [cloc](https://github.com/AlDanial/cloc) ⭐ 23,667 | 🐛 26 | 🌐 Perl | 📅 2026-11-12 - 代码统计工具。
+* [hey](https://github.com/rakyll/hey) ⭐ 20,781 | 🐛 192 | 🌐 Go | 📅 2026-01-10 - HTTP 压力测试工具。
+* [SwiftLint](https://github.com/realm/SwiftLint) ⭐ 19,787 | 🐛 540 | 🌐 Swift | 📅 2026-11-05 - Swift lint 工具。
+* [golangci-lint](https://github.com/golangci/golangci-lint) ⭐ 19,527 | 🐛 119 | 🌐 Go | 📅 2026-11-12 - Go lint 工具。
 * [n](https://github.com/tj/n) ⭐ 19,516 | 🐛 2 | 🌐 Shell | 📅 2026-10-18 - Node.js 版本管理工具。
-* [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) ⭐ 18,116 | 🐛 2 | 🌐 Perl | 📅 2026-10-18 - diff 加强工具。
+* [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) ⭐ 18,118 | 🐛 2 | 🌐 Perl | 📅 2026-10-18 - diff 加强工具。
 * [rbenv](https://github.com/rbenv/rbenv) ⭐ 16,743 | 🐛 20 | 🌐 Shell | 📅 2026-07-14 - Ruby 版本管理工具。
-* [direnv](https://github.com/direnv/direnv) ⭐ 15,544 | 🐛 349 | 🌐 Go | 📅 2026-10-26 - 根据目录自动设置环境变量。
+* [direnv](https://github.com/direnv/direnv) ⭐ 15,545 | 🐛 349 | 🌐 Go | 📅 2026-10-26 - 根据目录自动设置环境变量。
 * [Carthage](https://github.com/Carthage/Carthage) ⭐ 15,137 | 🐛 219 | 🌐 Swift | 📅 2025-09-10 - Objective-C 和 Swift 的依赖管理。
-* [Tokei](https://github.com/XAMPPRocky/tokei) ⭐ 15,069 | 🐛 259 | 🌐 Rust | 📅 2026-09-06 - 代码统计工具。
-* [webhook](https://github.com/adnanh/webhook) ⭐ 12,211 | 🐛 129 | 🌐 Go | 📅 2026-09-04 - 方便的创建 webhook endpoints，自己基于这个实现了 GitLab 和 Jira 的 bot。
-* [npm-check-updates](https://github.com/raineorshine/npm-check-updates) ⭐ 10,327 | 🐛 47 | 🌐 TypeScript | 📅 2026-11-10 - npm 依赖更新检查工具。
-* [scc](https://github.com/boyter/scc/) ⭐ 8,869 | 🐛 26 | 🌐 Go | 📅 2026-11-08 - 代码统计工具。
-* [stow](https://www.gnu.org/software/stow/) - 文件链接管理工具，常用来管理 dotfiles，不过我更喜欢 [Dotbot](https://github.com/anishathalye/dotbot) ⭐ 8,036 | 🐛 17 | 🌐 Python | 📅 2026-10-31。
+* [Tokei](https://github.com/XAMPPRocky/tokei) ⭐ 15,081 | 🐛 259 | 🌐 Rust | 📅 2026-09-06 - 代码统计工具。
+* [webhook](https://github.com/adnanh/webhook) ⭐ 12,213 | 🐛 130 | 🌐 Go | 📅 2026-09-04 - 方便的创建 webhook endpoints，自己基于这个实现了 GitLab 和 Jira 的 bot。
+* [npm-check-updates](https://github.com/raineorshine/npm-check-updates) ⭐ 10,328 | 🐛 47 | 🌐 TypeScript | 📅 2026-11-10 - npm 依赖更新检查工具。
+* [scc](https://github.com/boyter/scc/) ⭐ 8,871 | 🐛 27 | 🌐 Go | 📅 2026-11-08 - 代码统计工具。
+* [stow](https://www.gnu.org/software/stow/) - 文件链接管理工具，常用来管理 dotfiles，不过我更喜欢 [Dotbot](https://github.com/anishathalye/dotbot) ⭐ 8,035 | 🐛 17 | 🌐 Python | 📅 2026-10-31。
 * [npm-check](https://github.com/dylang/npm-check) ⭐ 6,633 | 🐛 232 | 🌐 JavaScript | 📅 2026-11-07 - npm 依赖检查工具。
 * [rdbtools](https://github.com/sripathikrishnan/redis-rdb-tools) ⭐ 5,200 | 🐛 96 | 🌐 Python | 📅 2026-01-21 - redis rdb 文件解析工具。
 * [awslogs](https://github.com/jorgebastida/awslogs) ⭐ 4,992 | 🐛 169 | 🌐 Python | 📅 2024-05-17 - AWS CloudWatch 日志查看工具。
-* [hstr](https://github.com/dvorka/hstr) ⭐ 4,466 | 🐛 182 | 🌐 C | 📅 2026-11-10 - 模糊查找 history 的工具，应该用 fzf 替代。
-* [Ansible Molecule](https://github.com/ansible-community/molecule) ⭐ 4,166 | 🐛 70 | 🌐 Python | 📅 2026-11-11 - Ansible 开发/测试工具，非常好用。
-* [Ansible Lint](https://github.com/ansible/ansible-lint) ⭐ 3,935 | 🐛 127 | 🌐 Python | 📅 2026-11-10 - Ansible playbook lint 工具。
+* [hstr](https://github.com/dvorka/hstr) ⭐ 4,465 | 🐛 182 | 🌐 C | 📅 2026-11-10 - 模糊查找 history 的工具，应该用 fzf 替代。
+* [Ansible Molecule](https://github.com/ansible-community/molecule) ⭐ 4,166 | 🐛 70 | 🌐 Python | 📅 2026-11-12 - Ansible 开发/测试工具，非常好用。
+* [Ansible Lint](https://github.com/ansible/ansible-lint) ⭐ 3,938 | 🐛 128 | 🌐 Python | 📅 2026-11-10 - Ansible playbook lint 工具。
 * [copier](https://github.com/copier-org/copier) ⭐ 3,696 | 🐛 150 | 🌐 Python | 📅 2026-11-06 - Library and command-line utility for rendering projects templates. `Jinja2`
 * [git-subrepo](https://github.com/ingydotnet/git-subrepo) ⭐ 3,621 | 🐛 207 | 🌐 Shell | 📅 2026-02-09
-* [Conftest](https://github.com/open-policy-agent/conftest) ⭐ 3,297 | 🐛 49 | 🌐 Go | 📅 2026-11-11 - 配置检测工具，还未深入使用，参考 [Open Policy Agent](https://www.openpolicyagent.org/)。
+* [Conftest](https://github.com/open-policy-agent/conftest) ⭐ 3,297 | 🐛 46 | 🌐 Go | 📅 2026-11-12 - 配置检测工具，还未深入使用，参考 [Open Policy Agent](https://www.openpolicyagent.org/)。
 * [yq](https://github.com/kislyuk/yq) ⭐ 3,004 | 🐛 20 | 🌐 Python | 📅 2026-10-11 - 命令行下的 YAML 和 XML 解析工具。
 * [python-language-server](https://github.com/palantir/python-language-server) ⭐ 2,702 | 🐛 186 | 🌐 Python | 📅 2026-10-14 - Python 的 [Language Server Protocol](https://github.com/Microsoft/language-server-protocol) ⭐ 13,081 | 🐛 298 | 🌐 TypeScript | 📅 2026-11-11 实现。
 * [loc](https://github.com/cgag/loc) ⭐ 2,457 | 🐛 64 | 🌐 Rust | 📅 2024-04-21 - 代码统计工具。
-* [codespell](https://github.com/codespell-project/codespell) ⭐ 2,433 | 🐛 269 | 🌐 Python | 📅 2026-11-10 - 代码拼写检查。
+* [codespell](https://github.com/codespell-project/codespell) ⭐ 2,435 | 🐛 269 | 🌐 Python | 📅 2026-11-10 - 代码拼写检查。
 * [nodenv](https://github.com/nodenv/nodenv) ⭐ 2,417 | 🐛 13 | 🌐 Shell | 📅 2026-11-10 - Node.js 版本管理工具。
 * [pyscaffold](https://github.com/pyscaffold/pyscaffold) ⭐ 2,259 | 🐛 37 | 🌐 Python | 📅 2026-11-02 - Python project template generator with batteries included. 类似 Cookiecutter，但可以 `Easy Updating`。
 * [hr](https://github.com/LuRsT/hr) ⭐ 1,305 | 🐛 2 | 🌐 Roff | 📅 2025-03-08 - 终端下的 `<hr />`，在终端下输出水平分割线。
 * [bump2version](https://github.com/c4urself/bump2version) ⭐ 1,120 | 🐛 115 | 🌐 Python | 📅 2025-02-20 - Version-bump your software with a single command.
 * [Funcraft](https://github.com/alibaba/funcraft) ⭐ 925 | 🐛 158 | 🌐 JavaScript | 📅 2023-01-23 - 阿里云函数计算开发工具。
-* [pacparser](https://github.com/manugarg/pacparser) ⭐ 535 | 🐛 7 | 🌐 C | 📅 2026-11-11 - PAC 解析工具。
+* [pacparser](https://github.com/manugarg/pacparser) ⭐ 536 | 🐛 7 | 🌐 C | 📅 2026-11-11 - PAC 解析工具。
 * [rstcheck](https://github.com/myint/rstcheck) ⭐ 259 | 🐛 7 | 🌐 Python | 📅 2026-11-11 - reStructuredText lint 工具。
 * [doc8](https://github.com/pycqa/doc8) ⭐ 178 | 🐛 32 | 🌐 Python | 📅 2026-11-09 - reStructuredText 文档 lint 工具。
 * [modulesync](https://github.com/voxpupuli/modulesync) ⭐ 107 | 🐛 36 | 🌐 Ruby | 📅 2026-11-09 - Synchronize common files across your Git repositories.
@@ -696,10 +696,10 @@ TODO: 待补充。
 
 ### Developer Toolbox
 
-* [gchq/CyberChef](https://github.com/gchq/CyberChef) ⭐ 36,372 | 🐛 590 | 🌐 JavaScript | 📅 2026-11-07 - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
-* [veler/DevToys](https://github.com/veler/DevToys) ⭐ 32,253 | 🐛 339 | 🌐 C# | 📅 2026-09-29 - A Swiss Army knife for developers.
+* [gchq/CyberChef](https://github.com/gchq/CyberChef) ⭐ 36,391 | 🐛 590 | 🌐 JavaScript | 📅 2026-11-07 - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
+* [veler/DevToys](https://github.com/veler/DevToys) ⭐ 32,265 | 🐛 339 | 🌐 C# | 📅 2026-09-29 - A Swiss Army knife for developers.
 * [ObuchiYuki/DevToysMac](https://github.com/ObuchiYuki/DevToysMac) ⚠️ Archived - DevToys For mac
-* [IvanMathy/Boop](https://github.com/IvanMathy/Boop) ⭐ 4,217 | 🐛 200 | 🌐 JavaScript | 📅 2024-06-30 - A scriptable scratchpad for developers. In slow yet steady progress.
+* [IvanMathy/Boop](https://github.com/IvanMathy/Boop) ⭐ 4,216 | 🐛 200 | 🌐 JavaScript | 📅 2024-06-30 - A scriptable scratchpad for developers. In slow yet steady progress.
 * [liferooter/textpieces](https://github.com/liferooter/textpieces) ⚠️ Archived - Quick text processing
 * [KeJunMao/vscode-devtoys](https://github.com/KeJunMao/vscode-devtoys) ⭐ 148 | 🐛 4 | 🌐 TypeScript | 📅 2022-03-05 - DevToys for VScode
 * [felixse/Woop](https://github.com/felixse/Woop) ⭐ 135 | 🐛 6 | 🌐 C# | 📅 2024-01-06 - Woop is a scriptable scratchpad that allows you to run any transformations on your text using the built-in or your self-written .js scripts.
@@ -710,14 +710,14 @@ TODO: 待补充。
 
 ### Snippets Manager
 
-* [hackjutsu/Lepton](https://github.com/hackjutsu/Lepton) ⭐ 10,347 | 🐛 31 | 🌐 JavaScript | 📅 2026-11-09 - 💻 Democratizing Snippet Management (macOS/Win/Linux)
-* [massCodeIO/massCode](https://github.com/massCodeIO/massCode) ⭐ 7,109 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-02 - A free and open source code snippets manager for developers
+* [hackjutsu/Lepton](https://github.com/hackjutsu/Lepton) ⭐ 10,346 | 🐛 31 | 🌐 JavaScript | 📅 2026-11-09 - 💻 Democratizing Snippet Management (macOS/Win/Linux)
+* [massCodeIO/massCode](https://github.com/massCodeIO/massCode) ⭐ 7,110 | 🐛 3 | 🌐 TypeScript | 📅 2026-11-02 - A free and open source code snippets manager for developers
 * [knqyf263/pet](https://github.com/knqyf263/pet) ⭐ 5,383 | 🐛 30 | 🌐 Go | 📅 2026-03-13 - Simple command-line snippet manager, written in Go.
-* [joaotavora/yasnippet](https://github.com/joaotavora/yasnippet) ⭐ 2,963 | 🐛 161 | 🌐 Emacs Lisp | 📅 2025-06-04 - A template system for Emacs
+* [joaotavora/yasnippet](https://github.com/joaotavora/yasnippet) ⭐ 2,964 | 🐛 161 | 🌐 Emacs Lisp | 📅 2025-06-04 - A template system for Emacs
 * [snibox/snibox](https://github.com/snibox/snibox) ⭐ 1,808 | 🐛 43 | 🌐 Ruby | 📅 2022-12-12 - Self-hosted snippet manager
 * [ok-borg/borg](https://github.com/ok-borg/borg) ⚠️ Archived - Search and save shell snippets without leaving your terminal
-* [xmichelo/Beeftext](https://github.com/xmichelo/Beeftext) ⭐ 1,332 | 🐛 140 | 🌐 C++ | 📅 2024-06-15 - A text snippet tool for Windows.
-* [xmichelo/Beeftext](https://github.com/xmichelo/Beeftext) ⭐ 1,332 | 🐛 140 | 🌐 C++ | 📅 2024-06-15 - A text snippet tool for Windows.
+* [xmichelo/Beeftext](https://github.com/xmichelo/Beeftext) ⭐ 1,336 | 🐛 140 | 🌐 C++ | 📅 2024-06-15 - A text snippet tool for Windows.
+* [xmichelo/Beeftext](https://github.com/xmichelo/Beeftext) ⭐ 1,336 | 🐛 140 | 🌐 C++ | 📅 2024-06-15 - A text snippet tool for Windows.
 * [lostintangent/gistpad](https://github.com/lostintangent/gistpad) ⭐ 1,059 | 🐛 22 | 🌐 TypeScript | 📅 2026-02-13 - VS Code extension for managing and sharing code snippets, notes and interactive samples using GitHub Gists
 * [ZeroX-DG/SnippetStore](https://github.com/ZeroX-DG/SnippetStore) ⚠️ Archived - A snippet management app for developers
 * [k1LoW/frgm](https://github.com/k1LoW/frgm) ⭐ 28 | 🐛 1 | 🌐 Go | 📅 2025-10-23 - frgm is a meta snippet (fragment) manager.
@@ -728,20 +728,20 @@ TODO: 待补充。
 
 ## Docker
 
-* [dive](https://github.com/wagoodman/dive) ⭐ 54,719 | 🐛 205 | 🌐 Go | 📅 2026-11-02 - Docker 镜像分析工具，查看各层的信息。
-* [lazydocker](https://github.com/jesseduffield/lazydocker) ⭐ 53,319 | 🐛 311 | 🌐 Go | 📅 2026-04-19 - 终端下的 Docker GUI。
-* [trivy](https://github.com/aquasecurity/trivy) ⭐ 39,238 | 🐛 317 | 🌐 Go | 📅 2026-11-11 - Docker 镜像安全检测工具。
+* [dive](https://github.com/wagoodman/dive) ⭐ 54,722 | 🐛 205 | 🌐 Go | 📅 2026-11-02 - Docker 镜像分析工具，查看各层的信息。
+* [lazydocker](https://github.com/jesseduffield/lazydocker) ⭐ 53,335 | 🐛 311 | 🌐 Go | 📅 2026-04-19 - 终端下的 Docker GUI。
+* [trivy](https://github.com/aquasecurity/trivy) ⭐ 39,271 | 🐛 322 | 🌐 Go | 📅 2026-11-12 - Docker 镜像安全检测工具。
 * [Watchtower](https://github.com/containrrr/watchtower) ⚠️ Archived - Docker 镜像自动升级工具。
 * [ctop](https://github.com/bcicen/ctop) ⭐ 17,851 | 🐛 122 | 🌐 Go | 📅 2024-07-08 - 面向 Docker 的 top。
 * [hadolint](https://github.com/hadolint/hadolint) ⭐ 12,525 | 🐛 196 | 🌐 Haskell | 📅 2026-10-19 - Dockerfile lint 工具。
 * [Kitematic](https://kitematic.com/) - Docker GUI，[开源](https://github.com/docker/kitematic) ⚠️ Archived。
-* [Dockle](https://github.com/goodwithtech/dockle) ⭐ 3,296 | 🐛 53 | 🌐 Go | 📅 2026-08-10 - Docker 镜像 lint 工具。
+* [Dockle](https://github.com/goodwithtech/dockle) ⭐ 3,297 | 🐛 53 | 🌐 Go | 📅 2026-08-10 - Docker 镜像 lint 工具。
 * [Docker Compose](https://docs.docker.com/compose/) - Docker 编排工具。
 * [Portainer](https://www.portainer.io/) - Docker Web 管理工具。
 
 ## Documentation Generator
 
-* [sphinx-autobuild](https://github.com/executablebooks/sphinx-autobuild) ⭐ 612 | 🐛 34 | 🌐 Python | 📅 2026-10-23 - Sphinx 的实时预览工具。
+* [sphinx-autobuild](https://github.com/executablebooks/sphinx-autobuild) ⭐ 612 | 🐛 35 | 🌐 Python | 📅 2026-10-23 - Sphinx 的实时预览工具。
 * [hugo](https://gohugo.io/) - 静态网站生成器，一直想把我的 [huaidan.org](https://huaidan.org/) 从 WordPress 转过来。
 * [mdbook](https://rust-lang.github.io/mdBook/) - 文档生成工具，适合拿来代替 [GitBook](https://www.gitbook.com/)。
 * [MkDocs](https://www.mkdocs.org/) - 公司内部很多文档都用这个生成的。
@@ -750,7 +750,7 @@ TODO: 待补充。
 
 ## Editors / IDEs
 
-* [CotEditor](https://coteditor.com/) - 文本编辑器，[开源](https://github.com/coteditor/CotEditor) ⭐ 8,678 | 🐛 11 | 🌐 Swift | 📅 2026-11-10。
+* [CotEditor](https://coteditor.com/) - 文本编辑器，[开源](https://github.com/coteditor/CotEditor) ⭐ 8,679 | 🐛 11 | 🌐 Swift | 📅 2026-11-12。
 * [BBEdit](https://www.barebones.com/products/bbedit/) - 偶尔会用的编辑器。
 * [Monodraw](https://monodraw.helftone.com/) - ASCII 编辑器。
 * [Nova](https://nova.app/) - 代码编辑器，[Panic](https://panic.com/) 出品。
@@ -769,11 +769,11 @@ TODO: 待补充。
 
 ## File Encryption
 
-* [age](https://github.com/FiloSottile/age) ⭐ 24,296 | 🐛 29 | 🌐 Go | 📅 2026-08-29 - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
-* [gocryptfs](https://github.com/rfjakob/gocryptfs) ⭐ 4,768 | 🐛 68 | 🌐 Go | 📅 2026-11-08 - Encrypted overlay filesystem written in Go
+* [age](https://github.com/FiloSottile/age) ⭐ 24,318 | 🐛 29 | 🌐 Go | 📅 2026-08-29 - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
+* [gocryptfs](https://github.com/rfjakob/gocryptfs) ⭐ 4,769 | 🐛 70 | 🌐 Go | 📅 2026-11-11 - Encrypted overlay filesystem written in Go
   * [Comparison with Other Projects - gocryptfs](https://nuetzlich.net/gocryptfs/comparison/)
   * [gocryptfs-cryptography-design-audit.pdf](https://defuse.ca/downloads/audits/gocryptfs-cryptography-design-audit.pdf)
-* [EncFS](https://github.com/vgough/encfs) ⭐ 2,161 | 🐛 23 | 🌐 Rust | 📅 2026-11-09 - an Encrypted Filesystem for FUSE.
+* [EncFS](https://github.com/vgough/encfs) ⭐ 2,161 | 🐛 24 | 🌐 Rust | 📅 2026-11-12 - an Encrypted Filesystem for FUSE.
   * [EncFS Security Audit](https://defuse.ca/audits/encfs.htm)
 * [fscrypt](https://github.com/google/fscrypt) ⭐ 1,040 | 🐛 44 | 🌐 Go | 📅 2026-09-10 - Go tool for managing Linux filesystem encryption
 * [securefs](https://github.com/netheril96/securefs) ⭐ 841 | 🐛 26 | 🌐 C++ | 📅 2026-10-05 - Filesystem in userspace (FUSE) with transparent authenticated encryption
@@ -800,7 +800,7 @@ TODO: 待补充。
 * [duck](https://duck.sh/) - Cyberduck 的命令行版。
 * [ForkLift](https://binarynights.com/) - 文件管理/传输工具。
 * [Gemini](https://macpaw.com/gemini) - 重复文件查找。
-* [nnn](https://github.com/jarun/nnn) ⭐ 22,120 | 🐛 1 | 🌐 C | 📅 2026-11-01 - 终端下的文件管理器。
+* [nnn](https://github.com/jarun/nnn) ⭐ 22,119 | 🐛 1 | 🌐 C | 📅 2026-11-01 - 终端下的文件管理器。
 * [QSpace](https://qspace.awehunt.com/en-us/index.html) - 文件管理工具。
 * [Transmit](https://panic.com/transmit/) - 文件管理/传输工具。
 
@@ -808,7 +808,7 @@ TODO: 待补充。
 
 根据规则对文件进行整理。
 
-* [organize](https://github.com/tfeldmann/organize) ⭐ 3,192 | 🐛 82 | 🌐 Python | 📅 2026-11-09 - 文件自动处理工具，类似 Hazel，我已经逐渐拿来替换 Hazel。
+* [organize](https://github.com/tfeldmann/organize) ⭐ 3,194 | 🐛 82 | 🌐 Python | 📅 2026-11-12 - 文件自动处理工具，类似 Hazel，我已经逐渐拿来替换 Hazel。
 * [Maid](https://github.com/benjaminoakes/maid) ⭐ 1,912 | 🐛 47 | 🌐 Ruby | 📅 2026-10-23
 * [Easy File Organizer](https://qiplex.com/software/easy-file-organizer/)
 * [File Juggler](https://www.filejuggler.com/)
@@ -818,7 +818,7 @@ TODO: 待补充。
 
 ## File Sharing and Synchronization
 
-* [croc](https://github.com/schollz/croc) ⭐ 40,910 | 🐛 6 | 🌐 Go | 📅 2026-11-10 - 非常方便的临时文件传输工具，推荐。
+* [croc](https://github.com/schollz/croc) ⭐ 40,924 | 🐛 3 | 🌐 Go | 📅 2026-11-12 - 非常方便的临时文件传输工具，推荐。
 * [Magic Wormhole](https://github.com/warner/magic-wormhole) ⭐ 23,096 | 🐛 182 | 🌐 Python | 📅 2026-11-06 - 文件传输，类似的还有 croc。
 * [lsyncd](https://github.com/axkibe/lsyncd) ⭐ 6,077 | 🐛 181 | 🌐 Lua | 📅 2024-11-27 - 文件同步。
 * [Dropbox](https://www.dropbox.com/)
@@ -832,29 +832,29 @@ TODO: 待补充。
 
 ## File System Events Monitoring
 
-* [Watchman](https://github.com/facebook/watchman) ⭐ 13,764 | 🐛 262 | 🌐 C++ | 📅 2026-11-11
-* [watchdog](https://github.com/gorakhargosh/watchdog) ⭐ 7,444 | 🐛 196 | 🌐 Python | 📅 2026-11-11 - Python 实现的，开源当包用，同时提供一个 watchmedo 的命令行工具。
-* [watchexec](https://github.com/watchexec/watchexec) ⭐ 7,284 | 🐛 39 | 🌐 Rust | 📅 2026-11-06
-* [entr](http://eradman.com/entrproject/) - 文件变化监控工具，[开源](https://github.com/eradman/entr) ⭐ 5,729 | 🐛 0 | 🌐 C | 📅 2026-10-16。
-* [fswatch](https://github.com/emcrisostomo/fswatch) ⭐ 5,614 | 🐛 46 | 🌐 C++ | 📅 2026-07-22 - 文件变更时，触发命令。
+* [Watchman](https://github.com/facebook/watchman) ⭐ 13,765 | 🐛 264 | 🌐 C++ | 📅 2026-11-12
+* [watchdog](https://github.com/gorakhargosh/watchdog) ⭐ 7,451 | 🐛 197 | 🌐 Python | 📅 2026-11-12 - Python 实现的，开源当包用，同时提供一个 watchmedo 的命令行工具。
+* [watchexec](https://github.com/watchexec/watchexec) ⭐ 7,291 | 🐛 39 | 🌐 Rust | 📅 2026-11-06
+* [entr](http://eradman.com/entrproject/) - 文件变化监控工具，[开源](https://github.com/eradman/entr) ⭐ 5,730 | 🐛 0 | 🌐 C | 📅 2026-10-16。
+* [fswatch](https://github.com/emcrisostomo/fswatch) ⭐ 5,615 | 🐛 46 | 🌐 C++ | 📅 2026-07-22 - 文件变更时，触发命令。
 * [Reflex](https://github.com/cespare/reflex) ⭐ 3,551 | 🐛 29 | 🌐 Go | 📅 2026-02-26
 * [nodemon](https://nodemon.io/)
 
 ## Finance
 
-* [Beancount](http://furius.ca/beancount/) - [开源](https://github.com/beancount/beancount) ⭐ 6,166 | 🐛 248 | 🌐 Python | 📅 2026-08-23 复式记账软件，强烈推荐。
+* [Beancount](http://furius.ca/beancount/) - [开源](https://github.com/beancount/beancount) ⭐ 6,170 | 🐛 248 | 🌐 Python | 📅 2026-08-23 复式记账软件，强烈推荐。
 * [cointop](https://github.com/miguelmota/cointop) ⚠️ Archived - 终端下的数字货币行情查看工具。
-* [Fava](https://github.com/beancount/fava) ⭐ 2,601 | 🐛 95 | 🌐 Python | 📅 2026-11-11 - Beancount 的 Web 界面。
+* [Fava](https://github.com/beancount/fava) ⭐ 2,602 | 🐛 93 | 🌐 Python | 📅 2026-11-12 - Beancount 的 Web 界面。
 * [MoneyWiz](https://wiz.money/) - 财务管理/记账软件。
 * [Receipts](https://www.receipts-app.com/) - 发票/收据管理。
 
 ## Fonts
 
-* [Fira Code](https://github.com/tonsky/FiraCode) ⭐ 82,187 | 🐛 430 | 🌐 Clojure | 📅 2026-07-28
-* [Fira Code Nerd Font](https://github.com/ryanoasis/nerd-fonts) ⭐ 65,191 | 🐛 32 | 🌐 CSS | 📅 2026-10-17
-* [Hack Nerd Font](https://github.com/ryanoasis/nerd-fonts) ⭐ 65,191 | 🐛 32 | 🌐 CSS | 📅 2026-10-17
-* [Meslo Nerd Font](https://github.com/ryanoasis/nerd-fonts) ⭐ 65,191 | 🐛 32 | 🌐 CSS | 📅 2026-10-17
-* [Source Code Pro for Powerline](https://github.com/powerline/fonts/tree/master/SourceCodePro) ⭐ 26,320 | 🐛 183 | 🌐 Shell | 📅 2024-03-22
+* [Fira Code](https://github.com/tonsky/FiraCode) ⭐ 82,192 | 🐛 431 | 🌐 Clojure | 📅 2026-07-28
+* [Fira Code Nerd Font](https://github.com/ryanoasis/nerd-fonts) ⭐ 65,201 | 🐛 33 | 🌐 CSS | 📅 2026-10-17
+* [Hack Nerd Font](https://github.com/ryanoasis/nerd-fonts) ⭐ 65,201 | 🐛 33 | 🌐 CSS | 📅 2026-10-17
+* [Meslo Nerd Font](https://github.com/ryanoasis/nerd-fonts) ⭐ 65,201 | 🐛 33 | 🌐 CSS | 📅 2026-10-17
+* [Source Code Pro for Powerline](https://github.com/powerline/fonts/tree/master/SourceCodePro) ⭐ 26,319 | 🐛 183 | 🌐 Shell | 📅 2024-03-22
 * [Source Code Pro](https://github.com/adobe-fonts/source-code-pro) ⭐ 20,458 | 🐛 88 | 🌐 CSS | 📅 2025-10-28
 
 ## Forex
@@ -888,7 +888,7 @@ TODO: 待补充。
 
 ## General Purpose Preprocessor
 
-* [gomplate](https://github.com/hairyhenderson/gomplate) ⭐ 3,218 | 🐛 21 | 🌐 Go | 📅 2026-11-11 - A flexible commandline tool for template rendering. Supports lots of local and remote datasources.
+* [gomplate](https://github.com/hairyhenderson/gomplate) ⭐ 3,218 | 🐛 24 | 🌐 Go | 📅 2026-11-12 - A flexible commandline tool for template rendering. Supports lots of local and remote datasources.
 * [hero](https://github.com/shiyanhui/hero) ⭐ 1,568 | 🐛 28 | 🌐 Go | 📅 2020-01-09 - A handy, fast and powerful go template engine.
 * [j2cli](https://github.com/kolypto/j2cli) ⚠️ Archived - Jinja2 Command-Line Tool, reworked
 * [jinja2-cli](https://github.com/mattrobenolt/jinja2-cli) ⭐ 615 | 🐛 16 | 🌐 Python | 📅 2026-08-12 - CLI for Jinja2
@@ -916,23 +916,23 @@ TODO: 待补充。
 
 ## Git
 
-* [lazygit](https://github.com/jesseduffield/lazygit) ⭐ 83,839 | 🐛 1,075 | 🌐 Go | 📅 2026-11-11 - 终端下的 Git GUI。
-* [git-delta](https://github.com/dandavison/delta) ⭐ 32,723 | 🐛 499 | 🌐 Rust | 📅 2026-11-11 - git diff 加强。
-* [GitUI](https://github.com/extrawurst/gitui) ⭐ 22,650 | 🐛 358 | 🌐 Rust | 📅 2026-10-06 - 终端下的 Git GUI。
+* [lazygit](https://github.com/jesseduffield/lazygit) ⭐ 83,872 | 🐛 1,074 | 🌐 Go | 📅 2026-11-12 - 终端下的 Git GUI。
+* [git-delta](https://github.com/dandavison/delta) ⭐ 32,736 | 🐛 500 | 🌐 Rust | 📅 2026-11-12 - git diff 加强。
+* [GitUI](https://github.com/extrawurst/gitui) ⭐ 22,653 | 🐛 358 | 🌐 Rust | 📅 2026-10-06 - 终端下的 Git GUI。
 * [git-extras](https://github.com/tj/git-extras) ⭐ 18,130 | 🐛 92 | 🌐 Shell | 📅 2026-11-11 - Git 的一些加强。
 * [git-secrets](https://github.com/awslabs/git-secrets) ⭐ 13,441 | 🐛 131 | 🌐 Shell | 📅 2025-09-17 - Git 文件加密。
-* [Tig](https://github.com/jonas/tig) ⭐ 13,378 | 🐛 235 | 🌐 C | 📅 2026-11-11 - 终端下的 Git GUI。
+* [Tig](https://github.com/jonas/tig) ⭐ 13,378 | 🐛 237 | 🌐 C | 📅 2026-11-11 - 终端下的 Git GUI。
 * [bfg](https://rtyley.github.io/bfg-repo-cleaner/) - Git 仓库历史清理工具，[开源](https://github.com/rtyley/bfg-repo-cleaner) ⭐ 12,205 | 🐛 274 | 🌐 Scala | 📅 2025-01-19。
 * [GitUp](https://gitup.co/) - Git GUI，[开源](https://github.com/git-up/GitUp) ⭐ 12,160 | 🐛 367 | 🌐 Objective-C | 📅 2026-10-08。
 * [onefetch](https://github.com/o2sh/onefetch) ⭐ 12,088 | 🐛 66 | 🌐 Rust | 📅 2026-11-09 - 漂亮的 Git 仓库信息统计。
-* [git-crypt](https://github.com/AGWA/git-crypt) ⭐ 9,987 | 🐛 131 | 🌐 C++ | 📅 2025-09-24 - Git 文件加密。
-* [git-quick-stats](https://github.com/arzzen/git-quick-stats) ⭐ 7,009 | 🐛 3 | 🌐 Shell | 📅 2026-04-18 - Git 统计工具。
+* [git-crypt](https://github.com/AGWA/git-crypt) ⭐ 9,991 | 🐛 131 | 🌐 C++ | 📅 2025-09-24 - Git 文件加密。
+* [git-quick-stats](https://github.com/arzzen/git-quick-stats) ⭐ 7,010 | 🐛 3 | 🌐 Shell | 📅 2026-04-18 - Git 统计工具。
 * [Legit](https://github.com/frostming/legit) ⭐ 5,679 | 🐛 8 | 🌐 Python | 📅 2023-10-09 - Git for Humans.
-* [git-sizer](https://github.com/github/git-sizer) ⭐ 4,102 | 🐛 22 | 🌐 Go | 📅 2026-11-11 - Git 仓库分析工具，例如查找大文件。
+* [git-sizer](https://github.com/github/git-sizer) ⭐ 4,102 | 🐛 19 | 🌐 Go | 📅 2026-11-12 - Git 仓库分析工具，例如查找大文件。
 * [git-secret](https://github.com/sobolevn/git-secret) ⭐ 4,057 | 🐛 152 | 🌐 Shell | 📅 2026-09-28 - Git 文件加密。
-* [ghq](https://github.com/x-motemen/ghq) ⭐ 3,808 | 🐛 43 | 🌐 Go | 📅 2026-11-09 - Git 仓库管理工具，仓库多时很好用。
+* [ghq](https://github.com/x-motemen/ghq) ⭐ 3,810 | 🐛 43 | 🌐 Go | 📅 2026-11-09 - Git 仓库管理工具，仓库多时很好用。
 * [git-chglog](https://github.com/git-chglog/git-chglog) ⚠️ Archived - 基于 Git 的 CHANGELOG 生成工具。
-* [Gita](https://github.com/nosarthur/gita) ⭐ 1,963 | 🐛 41 | 🌐 Python | 📅 2026-10-21 - 多 Git 仓库管理工具。
+* [Gita](https://github.com/nosarthur/gita) ⭐ 1,965 | 🐛 41 | 🌐 Python | 📅 2026-10-21 - 多 Git 仓库管理工具。
 * [gitbatch](https://github.com/isacikgoz/gitbatch) ⭐ 1,562 | 🐛 22 | 🌐 Go | 📅 2026-09-29 - 多 Git 仓库管理工具。
 * [Fork](https://fork.dev/) - Git GUI。
 * [pre-commit](https://pre-commit.com/) - Git pre-commit 管理工具。
@@ -943,24 +943,24 @@ TODO: 待补充。
 
 ## Github
 
-* [act](https://github.com/nektos/act) ⭐ 72,646 | 🐛 387 | 🌐 Go | 📅 2026-11-04 - 在本地执行 GitHub Actions，我之前用来开发 GitHub Actions。
-* [gh](https://github.com/cli/cli) ⭐ 46,963 | 🐛 1,132 | 🌐 Go | 📅 2026-11-11 - GitHub CLI.
+* [act](https://github.com/nektos/act) ⭐ 72,669 | 🐛 387 | 🌐 Go | 📅 2026-11-04 - 在本地执行 GitHub Actions，我之前用来开发 GitHub Actions。
+* [gh](https://github.com/cli/cli) ⭐ 46,990 | 🐛 1,132 | 🌐 Go | 📅 2026-11-12 - GitHub CLI.
 * [grip](https://github.com/joeyespo/grip) ⭐ 6,850 | 🐛 125 | 🌐 Python | 📅 2024-07-10 - GitHub Readme 预览工具。
-* [Gitify](https://www.gitify.io/) - GitHub 通知工具，[开源](https://github.com/manosim/gitify) ⭐ 5,397 | 🐛 20 | 🌐 TypeScript | 📅 2026-11-11。
+* [Gitify](https://www.gitify.io/) - GitHub 通知工具，[开源](https://github.com/manosim/gitify) ⭐ 5,399 | 🐛 20 | 🌐 TypeScript | 📅 2026-11-11。
 * [git-cal](https://github.com/k4rthik/git-cal) ⭐ 1,123 | 🐛 18 | 🌐 Perl | 📅 2017-02-01 - 命令行下生成类似 GitHub 的日历。
 * [Lepton](http://hackjutsu.com/Lepton/) - GitHub Gist 桌面管理工具。
 
 ## GUI Automation
 
-* [puppeteer](https://github.com/puppeteer/puppeteer) ⭐ 95,821 | 🐛 194 | 🌐 TypeScript | 📅 2026-11-11 - Headless Chrome Node.js API
+* [puppeteer](https://github.com/puppeteer/puppeteer) ⭐ 95,827 | 🐛 200 | 🌐 TypeScript | 📅 2026-11-12 - Headless Chrome Node.js API
 * [phantomjs](https://github.com/ariya/phantomjs) ⚠️ Archived - Scriptable Headless Browser
-* [appium](https://github.com/appium/appium) ⭐ 22,209 | 🐛 53 | 🌐 TypeScript | 📅 2026-11-11 - Automation for iOS, Android, and Windows Apps.
-* [AutoHotkey\_L](https://github.com/Lexikos/AutoHotkey_L) ⭐ 13,466 | 🐛 18 | 🌐 C++ | 📅 2026-11-08 - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
+* [appium](https://github.com/appium/appium) ⭐ 22,210 | 🐛 59 | 🌐 TypeScript | 📅 2026-11-12 - Automation for iOS, Android, and Windows Apps.
+* [AutoHotkey\_L](https://github.com/Lexikos/AutoHotkey_L) ⭐ 13,468 | 🐛 13 | 🌐 C++ | 📅 2026-11-12 - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
 * [Auto.js](https://github.com/hyb1996/Auto.js) ⚠️ Archived - A UiAutomator on android, does not need root access(安卓平台上的JavaScript自动化工具)
-* [pyautogui](https://github.com/asweigart/pyautogui) ⭐ 12,754 | 🐛 582 | 🌐 Python | 📅 2024-08-20 - A cross-platform GUI automation Python module for human beings.
-* [robotgo](https://github.com/go-vgo/robotgo) ⭐ 10,905 | 🐛 4 | 🌐 Go | 📅 2026-11-04 - RobotGo, Go Native cross-platform GUI automation @vcaesar
+* [pyautogui](https://github.com/asweigart/pyautogui) ⭐ 12,753 | 🐛 582 | 🌐 Python | 📅 2024-08-20 - A cross-platform GUI automation Python module for human beings.
+* [robotgo](https://github.com/go-vgo/robotgo) ⭐ 10,906 | 🐛 4 | 🌐 Go | 📅 2026-11-04 - RobotGo, Go Native cross-platform GUI automation @vcaesar
 * [casperjs](https://github.com/casperjs/casperjs) ⚠️ Archived - 停止维护了。
-* [pywinauto](https://github.com/pywinauto/pywinauto) ⭐ 6,404 | 🐛 521 | 🌐 Python | 📅 2026-11-08 - Windows GUI Automation with Python (based on text properties)
+* [pywinauto](https://github.com/pywinauto/pywinauto) ⭐ 6,410 | 🐛 521 | 🌐 Python | 📅 2026-11-08 - Windows GUI Automation with Python (based on text properties)
 * [autopy](https://github.com/autopilot-rs/autopy) ⭐ 981 | 🐛 26 | 🌐 Rust | 📅 2026-09-28 - A simple, cross-platform GUI automation module for Python and Rust.
 * [autopilot-rs](https://github.com/autopilot-rs/autopilot-rs) ⭐ 429 | 🐛 16 | 🌐 Rust | 📅 2026-11-11 - A simple, cross-platform GUI automation module for Rust.
 * [pyatom](https://github.com/pyatom/pyatom) ⭐ 393 | 🐛 93 | 🌐 Python | 📅 2020-09-25 - Python Automated Testing on Mac
@@ -993,9 +993,9 @@ TODO: 待补充。
 
 各种图片压缩工具。
 
-* [ImageOptim](https://imageoptim.com/) - [开源](https://github.com/ImageOptim/ImageOptim) ⭐ 10,036 | 🐛 213 | 🌐 HTML | 📅 2026-07-13。
-* [TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac) ⭐ 4,000 | 🐛 16 | 🌐 Swift | 📅 2026-04-13 - [TinyPNG](https://tinypng.com/) 客户端。
-* [Crunch](https://github.com/chrissimpkins/Crunch) ⭐ 3,426 | 🐛 11 | 🌐 Python | 📅 2022-06-18 - 开源。
+* [ImageOptim](https://imageoptim.com/) - [开源](https://github.com/ImageOptim/ImageOptim) ⭐ 10,037 | 🐛 213 | 🌐 HTML | 📅 2026-07-13。
+* [TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac) ⭐ 3,999 | 🐛 16 | 🌐 Swift | 📅 2026-04-13 - [TinyPNG](https://tinypng.com/) 客户端。
+* [Crunch](https://github.com/chrissimpkins/Crunch) ⭐ 3,427 | 🐛 11 | 🌐 Python | 📅 2022-06-18 - 开源。
 * [ImageAlpha](https://pngmini.com/) - [开源](https://github.com/kornelski/ImageAlpha) ⚠️ Archived。
 * [JPEGmini](https://www.jpegmini.com/)
 * [Optimage](https://optimage.app/)
@@ -1005,23 +1005,23 @@ TODO: 待补充。
 
 ## Image Processing
 
-* [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) ⭐ 11,189 | 🐛 68 | 🌐 Go | 📅 2026-11-09 - Fast and secure standalone server for resizing and converting remote images
+* [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) ⭐ 11,194 | 🐛 68 | 🌐 Go | 📅 2026-11-12 - Fast and secure standalone server for resizing and converting remote images
   * [agschwender/pilbox](https://github.com/agschwender/pilbox) ⭐ 605 | 🐛 4 | 🌐 Python | 📅 2023-08-14 - An image resize application server
-  * [benchmark](https://github.com/imgproxy/imgproxy/blob/master/BENCHMARK.md) ⭐ 11,189 | 🐛 68 | 🌐 Go | 📅 2026-11-09
-  * [cshum/imagor](https://github.com/cshum/imagor) ⭐ 4,060 | 🐛 0 | 🌐 Go | 📅 2026-11-10 - Fast, secure image processing server and Go library, using libvips
+  * [benchmark](https://github.com/imgproxy/imgproxy/blob/master/BENCHMARK.md) ⭐ 11,194 | 🐛 68 | 🌐 Go | 📅 2026-11-12
+  * [cshum/imagor](https://github.com/cshum/imagor) ⭐ 4,060 | 🐛 0 | 🌐 Go | 📅 2026-11-12 - Fast, secure image processing server and Go library, using libvips
   * [h2non/imaginary](https://github.com/h2non/imaginary) ⭐ 6,091 | 🐛 136 | 🌐 Go | 📅 2025-11-08 - Fast, simple, scalable, Docker-ready HTTP microservice for high-level image processing
-  * [imazen/imageflow](https://github.com/imazen/imageflow) ⭐ 4,468 | 🐛 25 | 🌐 Rust | 📅 2026-11-07 - High-performance image manipulation for web servers. Includes imageflow\_server, imageflow\_tool, and libimageflow
+  * [imazen/imageflow](https://github.com/imazen/imageflow) ⭐ 4,469 | 🐛 25 | 🌐 Rust | 📅 2026-11-07 - High-performance image manipulation for web servers. Includes imageflow\_server, imageflow\_tool, and libimageflow
   * [pierrre/imageserver](https://github.com/pierrre/imageserver) ⭐ 2,025 | 🐛 7 | 🌐 Go | 📅 2026-07-03 - Image server toolkit in Go
   * [thoas/picfit](https://github.com/thoas/picfit) ⭐ 2,343 | 🐛 13 | 🌐 Go | 📅 2026-11-02 - An image resizing server written in Go
   * [thumbor/thumbor](https://github.com/thumbor/thumbor) ⭐ 10,533 | 🐛 11 | 🌐 Python | 📅 2026-11-11 - thumbor is an open-source photo thumbnail service by globo.com
-  * [webp-sh/webp\_server\_go](https://github.com/webp-sh/webp_server_go) ⭐ 2,006 | 🐛 6 | 🌐 Go | 📅 2026-11-10 - A tool that will serve your JPG/PNG/BMP/SVGs as WebP/AVIF format with compression, on-the-fly.
+  * [webp-sh/webp\_server\_go](https://github.com/webp-sh/webp_server_go) ⭐ 2,005 | 🐛 6 | 🌐 Go | 📅 2026-11-10 - A tool that will serve your JPG/PNG/BMP/SVGs as WebP/AVIF format with compression, on-the-fly.
   * [willnorris/imageproxy](https://github.com/willnorris/imageproxy) ⭐ 3,989 | 🐛 62 | 🌐 Go | 📅 2026-08-10 - A caching, resizing image proxy written in Go
 
 ## IP Info
 
-* [sjlleo/nexttrace](https://github.com/sjlleo/nexttrace) ⭐ 8,288 | 🐛 1 | 🌐 Go | 📅 2026-11-02 - An open source visual route tracking CLI tool
-* [zu1k/nali](https://github.com/zu1k/nali) ⭐ 4,108 | 🐛 12 | 🌐 Go | 📅 2026-11-01 - 一个查询IP地理信息和CDN服务提供商的离线终端工具.An offline tool for querying IP geographic information and CDN provider.
-* [nitefood/asn](https://github.com/nitefood/asn) ⭐ 1,951 | 🐛 4 | 🌐 Shell | 📅 2026-10-02 - ASN / RPKI validity / BGP stats / IPv4v6 / Prefix / URL / ASPath / Organization / IP reputation / IP geolocation / IP fingerprinting / Network recon / lookup API server / Web traceroute server
+* [sjlleo/nexttrace](https://github.com/sjlleo/nexttrace) ⭐ 8,296 | 🐛 1 | 🌐 Go | 📅 2026-11-02 - An open source visual route tracking CLI tool
+* [zu1k/nali](https://github.com/zu1k/nali) ⭐ 4,109 | 🐛 12 | 🌐 Go | 📅 2026-11-01 - 一个查询IP地理信息和CDN服务提供商的离线终端工具.An offline tool for querying IP geographic information and CDN provider.
+* [nitefood/asn](https://github.com/nitefood/asn) ⭐ 1,952 | 🐛 4 | 🌐 Shell | 📅 2026-10-02 - ASN / RPKI validity / BGP stats / IPv4v6 / Prefix / URL / ASPath / Organization / IP reputation / IP geolocation / IP fingerprinting / Network recon / lookup API server / Web traceroute server
 * [OwO-Network/nexttrace-experiment](https://github.com/OwO-Network/nexttrace-experiment) ⚠️ Archived - An open source visual route tracking CLI tool (experiment field)
 * [missdeer/ifconfig](https://github.com/missdeer/ifconfig) ⭐ 48 | 🐛 1 | 🌐 Go | 📅 2026-08-16 - Yet Another ifconfig inspired by ifconfig.me
 * `dig -4 TXT +short o-o.myaddr.l.google.com @ns1.google.com | sed 's/"//g'`
@@ -1094,17 +1094,17 @@ TODO: 待补充。
 
 ### Distributions
 
-* [Kubernetes](https://github.com/kubernetes/kubernetes) ⭐ 128,950 | 🐛 3,268 | 🌐 Go | 📅 2026-11-11
-* [k3s](https://github.com/k3s-io/k3s) ⭐ 34,391 | 🐛 80 | 🌐 Go | 📅 2026-11-10
-* [Minikube](https://github.com/kubernetes/minikube) ⭐ 32,236 | 🐛 628 | 🌐 Go | 📅 2026-11-10
-* [kind](https://github.com/kubernetes-sigs/kind) ⭐ 15,613 | 🐛 253 | 🌐 Go | 📅 2026-10-29 - Kubernetes IN Docker - local clusters for testing Kubernetes
-* [MicroK8s](https://github.com/canonical/microk8s) ⭐ 9,382 | 🐛 158 | 🌐 Python | 📅 2026-11-09
-* [k0s](https://github.com/k0sproject/k0s) ⭐ 6,587 | 🐛 266 | 🌐 Go | 📅 2026-11-11
+* [Kubernetes](https://github.com/kubernetes/kubernetes) ⭐ 129,028 | 🐛 3,272 | 🌐 Go | 📅 2026-11-12
+* [k3s](https://github.com/k3s-io/k3s) ⭐ 34,404 | 🐛 89 | 🌐 Go | 📅 2026-11-12
+* [Minikube](https://github.com/kubernetes/minikube) ⭐ 32,242 | 🐛 632 | 🌐 Go | 📅 2026-11-11
+* [kind](https://github.com/kubernetes-sigs/kind) ⭐ 15,616 | 🐛 253 | 🌐 Go | 📅 2026-10-29 - Kubernetes IN Docker - local clusters for testing Kubernetes
+* [MicroK8s](https://github.com/canonical/microk8s) ⭐ 9,384 | 🐛 158 | 🌐 Python | 📅 2026-11-09
+* [k0s](https://github.com/k0sproject/k0s) ⭐ 6,592 | 🐛 269 | 🌐 Go | 📅 2026-11-12
 * [KubeOperator](https://kubeoperator.io/)
 
 ### Utils
 
-* [derailed/k9s](https://github.com/derailed/k9s) ⭐ 34,971 | 🐛 106 | 🌐 Go | 📅 2026-11-10 - Kubernetes CLI To Manage Your Clusters In Style!
+* [derailed/k9s](https://github.com/derailed/k9s) ⭐ 34,984 | 🐛 106 | 🌐 Go | 📅 2026-11-12 - Kubernetes CLI To Manage Your Clusters In Style!
 * [k3sup](https://github.com/alexellis/k3sup) ⭐ 7,460 | 🐛 34 | 🌐 Go | 📅 2026-10-23 - bootstrap K3s over SSH in < 60s 🚀
 * [stern](https://github.com/stern/stern) ⭐ 4,922 | 🐛 29 | 🌐 Go | 📅 2026-11-11 - Kubernetes 日志查看工具。
 * [Kubetail](https://github.com/johanhaleby/kubetail) ⭐ 3,485 | 🐛 37 | 🌐 Shell | 📅 2026-09-08 - Kubernetes 日志查看工具。
@@ -1117,14 +1117,14 @@ TODO: 待补充。
 
 ## Let's Encrypt
 
-* [acme.sh](https://github.com/acmesh-official/acme.sh) ⭐ 47,945 | 🐛 111 | 🌐 Shell | 📅 2026-11-07
+* [acme.sh](https://github.com/acmesh-official/acme.sh) ⭐ 47,950 | 🐛 119 | 🌐 Shell | 📅 2026-11-12
 * [dehydrated](https://github.com/dehydrated-io/dehydrated) ⭐ 6,268 | 🐛 84 | 🌐 Shell | 📅 2026-04-30
 * [Let's Encrypt](https://letsencrypt.org/)
 
 ## Linux/VPS Benchmarking
 
-* [masonr/yet-another-bench-script](https://github.com/masonr/yet-another-bench-script) ⭐ 6,816 | 🐛 2 | 🌐 Shell | 📅 2026-11-04
-* [teddysun/across/unixbench.sh](https://github.com/teddysun/across/blob/master/unixbench.sh) ⭐ 5,372 | 🐛 36 | 🌐 Shell | 📅 2026-04-04
+* [masonr/yet-another-bench-script](https://github.com/masonr/yet-another-bench-script) ⭐ 6,818 | 🐛 2 | 🌐 Shell | 📅 2026-11-04
+* [teddysun/across/unixbench.sh](https://github.com/teddysun/across/blob/master/unixbench.sh) ⭐ 5,373 | 🐛 36 | 🌐 Shell | 📅 2026-04-04
 * [oooldking/script](https://github.com/oooldking/script) ⭐ 1,499 | 🐛 26 | 🌐 Shell | 📅 2025-07-13 - 包含测试到中国的网络速度脚本。
   * [superbench.sh](https://github.com/oooldking/script/blob/master/superbench.sh) ⭐ 1,499 | 🐛 26 | 🌐 Shell | 📅 2025-07-13
   * [superspeed.sh](https://github.com/oooldking/script/blob/master/superspeed.sh) ⭐ 1,499 | 🐛 26 | 🌐 Shell | 📅 2025-07-13
@@ -1151,20 +1151,20 @@ TODO: 待补充。
 
 ## Markdown
 
-* [Glow](https://github.com/charmbracelet/glow) ⭐ 28,019 | 🐛 269 | 🌐 Go | 📅 2026-11-04 - 命令行下的 Markdown 查看/渲染工具。
-* [Turndown](https://domchristie.github.io/turndown/) - HTML to Markdown 转换工具，[开源](https://github.com/domchristie/turndown) ⭐ 11,508 | 🐛 155 | 🌐 JavaScript | 📅 2026-11-04。
-* [Mark](https://github.com/kovetskiy/mark) ⭐ 1,614 | 🐛 99 | 🌐 Go | 📅 2026-11-11 - 将 Markdown 转换为 Confluence 的格式，并发布到 Confluence 中。
+* [Glow](https://github.com/charmbracelet/glow) ⭐ 28,041 | 🐛 268 | 🌐 Go | 📅 2026-11-04 - 命令行下的 Markdown 查看/渲染工具。
+* [Turndown](https://domchristie.github.io/turndown/) - HTML to Markdown 转换工具，[开源](https://github.com/domchristie/turndown) ⭐ 11,510 | 🐛 156 | 🌐 JavaScript | 📅 2026-11-04。
+* [Mark](https://github.com/kovetskiy/mark) ⭐ 1,614 | 🐛 113 | 🌐 Go | 📅 2026-11-12 - 将 Markdown 转换为 Confluence 的格式，并发布到 Confluence 中。
 * [Marked](https://marked2app.com/) - Markdown 预览。
 * [Typora](https://typora.io/) - Markdown 编辑/管理工具。
 
 ## Media
 
-* [Downie](https://software.charliemonroe.net/downie/) - 视频下载工具，类似 [youtube-dl](https://github.com/ytdl-org/youtube-dl) ⭐ 141,536 | 🐛 4,116 | 🌐 Python | 📅 2026-11-06。
-* [You-Get](https://github.com/soimort/you-get) ⭐ 56,861 | 🐛 382 | 🌐 Python | 📅 2026-10-06 - 视频下载工具。
-* [IINA](https://iina.io/) - 视频播放器，[开源](https://github.com/iina/iina) ⭐ 47,092 | 🐛 1,986 | 🌐 Swift | 📅 2026-11-10，我记得是基于 mpv 的。
-* [mpv](https://mpv.io/) - 视频播放器，[开源](https://github.com/mpv-player/mpv) ⭐ 38,070 | 🐛 1,173 | 🌐 C | 📅 2026-11-10，曾经花了很大精力去配置，后来换到了 IINA。
-* [Annie](https://github.com/iawia002/annie) ⭐ 31,838 | 🐛 546 | 🌐 Go | 📅 2026-03-29 - 视频下载工具。
-* [gallery-dl](https://github.com/mikf/gallery-dl) ⭐ 20,474 | 🐛 1,090 | 🌐 Python | 📅 2026-10-31 - 相册服务下载工具。
+* [Downie](https://software.charliemonroe.net/downie/) - 视频下载工具，类似 [youtube-dl](https://github.com/ytdl-org/youtube-dl) ⭐ 141,545 | 🐛 4,115 | 🌐 Python | 📅 2026-11-06。
+* [You-Get](https://github.com/soimort/you-get) ⭐ 56,855 | 🐛 382 | 🌐 Python | 📅 2026-10-06 - 视频下载工具。
+* [IINA](https://iina.io/) - 视频播放器，[开源](https://github.com/iina/iina) ⭐ 47,101 | 🐛 1,987 | 🌐 Swift | 📅 2026-11-12，我记得是基于 mpv 的。
+* [mpv](https://mpv.io/) - 视频播放器，[开源](https://github.com/mpv-player/mpv) ⭐ 38,087 | 🐛 1,177 | 🌐 C | 📅 2026-11-10，曾经花了很大精力去配置，后来换到了 IINA。
+* [Annie](https://github.com/iawia002/annie) ⭐ 31,837 | 🐛 546 | 🌐 Go | 📅 2026-03-29 - 视频下载工具。
+* [gallery-dl](https://github.com/mikf/gallery-dl) ⭐ 20,484 | 🐛 1,090 | 🌐 Python | 📅 2026-10-31 - 相册服务下载工具。
 * [emby](https://emby.media/) - 媒体服务器。
 * [HandBrake](https://handbrake.fr/) - 视频转码。
 * [Movie Explorer Pro](https://betamagic.nl/products/movieexplorerpro.html) - 电影管理软件。
@@ -1188,10 +1188,10 @@ TODO: 待补充。
 
 ## Monitoring
 
-* [Netdata](https://www.netdata.cloud/) - [开源](https://github.com/netdata/netdata) ⭐ 81,369 | 🐛 459 | 🌐 Go | 📅 2026-11-11 监控系统。
-* [Stats](https://github.com/exelban/stats) ⭐ 43,313 | 🐛 22 | 🌐 Swift | 📅 2026-11-10 - 开源的系统监控工具，类似 iStat Menus。
-* [bandwhich](https://github.com/imsnif/bandwhich) ⭐ 12,068 | 🐛 58 | 🌐 Rust | 📅 2026-08-01 - 流量查看工具。
-* [eul](https://github.com/gao-sun/eul) ⭐ 9,958 | 🐛 77 | 🌐 Swift | 📅 2024-05-25 - 开源的系统监控工具，类似 iStat Menus。
+* [Netdata](https://www.netdata.cloud/) - [开源](https://github.com/netdata/netdata) ⭐ 81,383 | 🐛 447 | 🌐 Go | 📅 2026-11-12 监控系统。
+* [Stats](https://github.com/exelban/stats) ⭐ 43,343 | 🐛 18 | 🌐 Swift | 📅 2026-11-12 - 开源的系统监控工具，类似 iStat Menus。
+* [bandwhich](https://github.com/imsnif/bandwhich) ⭐ 12,075 | 🐛 58 | 🌐 Rust | 📅 2026-08-01 - 流量查看工具。
+* [eul](https://github.com/gao-sun/eul) ⭐ 9,960 | 🐛 77 | 🌐 Swift | 📅 2024-05-25 - 开源的系统监控工具，类似 iStat Menus。
 * [iStat Menus](https://bjango.com/mac/istatmenus/) - 系统监控工具。
 * [Prometheus](https://prometheus.io/)
 * [SleepWatcher](https://www.bernhard-baehr.de/) - macOS 下的睡眠/唤醒监控工具，曾经拿来让电脑盒盖自动关闭 WiFi，解决唤醒六国问题。
@@ -1208,15 +1208,15 @@ TODO: 待补充。
 * [K-Phoen/grabana](https://github.com/K-Phoen/grabana) ⭐ 728 | 🐛 35 | 🌐 Go | 📅 2025-05-15 - User-friendly Go library for building Grafana dashboards
 * [uber/grafana-dash-gen](https://github.com/uber/grafana-dash-gen) ⭐ 528 | 🐛 7 | 🌐 TypeScript | 📅 2026-11-02 - grafana dash dash dash gen
 * [grafana-wizzy/wizzy](https://github.com/grafana-wizzy/wizzy) ⚠️ Archived - **Unmaintained.** Manage & automate Grafana with easy wizzy
-* [netsage-project/grafana-dashboard-manager](https://github.com/netsage-project/grafana-dashboard-manager) ⭐ 429 | 🐛 15 | 🌐 Go | 📅 2026-11-11 - Grafana Dashboard Manager
+* [netsage-project/grafana-dashboard-manager](https://github.com/netsage-project/grafana-dashboard-manager) ⭐ 429 | 🐛 15 | 🌐 Go | 📅 2026-11-12 - Grafana Dashboard Manager
 * [grafyaml](https://docs.openstack.org/infra/grafyaml/) - grafyaml takes descriptions of Grafana dashboards in YAML format, and uses them to produce JSON formatted output suitable for direct import into Grafana.
   * [opendev/grafyaml](https://opendev.org/opendev/grafyaml)
 * [Provision dashboards and data sources | Grafana Labs](https://grafana.com/tutorials/provision-dashboards-and-data-sources/)
 
 ### TOPs
 
-* [aristocratos/btop](https://github.com/aristocratos/btop) ⭐ 35,339 | 🐛 611 | 🌐 C++ | 📅 2026-11-11 - A monitor of resources
-* [ClementTsang/bottom](https://github.com/clementtsang/bottom) ⭐ 14,187 | 🐛 102 | 🌐 Rust | 📅 2026-11-11 - Yet another cross-platform graphical process/system monitor.
+* [aristocratos/btop](https://github.com/aristocratos/btop) ⭐ 35,364 | 🐛 613 | 🌐 C++ | 📅 2026-11-11 - A monitor of resources
+* [ClementTsang/bottom](https://github.com/clementtsang/bottom) ⭐ 14,195 | 🐛 102 | 🌐 Rust | 📅 2026-11-12 - Yet another cross-platform graphical process/system monitor.
 * [aristocratos/bashtop](https://github.com/aristocratos/bashtop) ⭐ 11,114 | 🐛 64 | 🌐 Shell | 📅 2023-08-21 - Linux/OSX/FreeBSD resource monitor
 * [aristocratos/bpytop](https://github.com/aristocratos/bpytop) ⭐ 10,931 | 🐛 99 | 🌐 Python | 📅 2025-06-01 - Linux/OSX/FreeBSD resource monitor
 * [aksakalli/gtop](https://github.com/aksakalli/gtop) ⭐ 9,938 | 🐛 41 | 🌐 JavaScript | 📅 2025-11-06 - System monitoring dashboard for terminal
@@ -1230,12 +1230,12 @@ TODO: 待补充。
 
 ## Music
 
-* [navidrome/navidrome](https://github.com/navidrome/navidrome) ⭐ 24,649 | 🐛 329 | 🌐 Go | 📅 2026-11-11 - 🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic
-* [Spotify TUI](https://github.com/Rigellute/spotify-tui) ⭐ 19,430 | 🐛 306 | 🌐 Rust | 📅 2024-04-04 - Rust 写的终端下的 Spotify 客户端。
-* [sonic-pi-net/sonic-pi](https://github.com/sonic-pi-net/sonic-pi) ⭐ 12,258 | 🐛 41 | 🌐 C++ | 📅 2026-11-10 - Code. Music. Live.
-* [mopidy/mopidy](https://github.com/mopidy/mopidy) ⭐ 8,610 | 🐛 175 | 🌐 Python | 📅 2026-11-02 - Mopidy is an extensible music server written in Python
-* [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) ⭐ 4,813 | 🐛 96 | 🌐 Dart | 📅 2026-11-09 - 🎵 Plays & manages your music library. Looks beautiful & juicy. Playlists, visuals, synced lyrics, pitch shift, volume boost & more.
-* [sentriz/gonic](https://github.com/sentriz/gonic) ⭐ 2,657 | 🐛 71 | 🌐 Go | 📅 2026-11-11 - music streaming server / subsonic server API implementation
+* [navidrome/navidrome](https://github.com/navidrome/navidrome) ⭐ 24,672 | 🐛 328 | 🌐 Go | 📅 2026-11-12 - 🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic
+* [Spotify TUI](https://github.com/Rigellute/spotify-tui) ⭐ 19,431 | 🐛 306 | 🌐 Rust | 📅 2024-04-04 - Rust 写的终端下的 Spotify 客户端。
+* [sonic-pi-net/sonic-pi](https://github.com/sonic-pi-net/sonic-pi) ⭐ 12,259 | 🐛 41 | 🌐 C++ | 📅 2026-11-12 - Code. Music. Live.
+* [mopidy/mopidy](https://github.com/mopidy/mopidy) ⭐ 8,611 | 🐛 175 | 🌐 Python | 📅 2026-11-02 - Mopidy is an extensible music server written in Python
+* [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) ⭐ 4,816 | 🐛 97 | 🌐 Dart | 📅 2026-11-12 - 🎵 Plays & manages your music library. Looks beautiful & juicy. Playlists, visuals, synced lyrics, pitch shift, volume boost & more.
+* [sentriz/gonic](https://github.com/sentriz/gonic) ⭐ 2,658 | 🐛 69 | 🌐 Go | 📅 2026-11-12 - music streaming server / subsonic server API implementation
 * [martpie/museeks](https://github.com/martpie/museeks) ⭐ 2,141 | 🐛 75 | 🌐 TypeScript | 📅 2026-07-03 - 🎵 A simple, clean and cross-platform music player
 * [jeffvli/sonixd](https://github.com/jeffvli/sonixd) ⚠️ Archived - A full-featured Subsonic/Jellyfin compatible desktop music player
 * [zonemeen/musicn](https://github.com/zonemeen/musicn) ⭐ 1,768 | 🐛 18 | 🌐 TypeScript | 📅 2024-03-15 - 🎵 一个可播放及下载高品质音乐的命令行工具
@@ -1256,18 +1256,18 @@ TODO: 待补充。
 
 ## Networking
 
-* [Motrix](https://motrix.app/) - 下载工具，基于 aria2，[开源](https://github.com/agalwood/Motrix) ⭐ 58,149 | 🐛 178 | 🌐 TypeScript | 📅 2026-11-09。
+* [Motrix](https://motrix.app/) - 下载工具，基于 aria2，[开源](https://github.com/agalwood/Motrix) ⭐ 58,186 | 🐛 180 | 🌐 TypeScript | 📅 2026-11-09。
 * [speedtest-cli](https://github.com/sivel/speedtest-cli) ⚠️ Archived - [Speedtest](https://www.speedtest.net/) 的命令行版。
 * [AriaNg](https://github.com/mayswind/AriaNg) ⭐ 13,275 | 🐛 14 | 🌐 JavaScript | 📅 2026-10-05 - aria2 的 Web 管理工具
-  * [AriaNg Native](https://github.com/mayswind/AriaNg-Native) ⭐ 2,731 | 🐛 5 | 🌐 JavaScript | 📅 2026-10-05 - 基于 [Electron](https://github.com/electron/electron) ⭐ 123,857 | 🐛 777 | 🌐 C++ | 📅 2026-11-11 实现的 AriaNg 桌面版。
-* [iperf3](https://github.com/esnet/iperf) ⭐ 8,875 | 🐛 248 | 🌐 C | 📅 2026-11-09 - 带宽测试工具。
+  * [AriaNg Native](https://github.com/mayswind/AriaNg-Native) ⭐ 2,731 | 🐛 5 | 🌐 JavaScript | 📅 2026-10-05 - 基于 [Electron](https://github.com/electron/electron) ⭐ 123,873 | 🐛 787 | 🌐 C++ | 📅 2026-11-12 实现的 AriaNg 桌面版。
+* [iperf3](https://github.com/esnet/iperf) ⭐ 8,878 | 🐛 248 | 🌐 C | 📅 2026-11-09 - 带宽测试工具。
 * [Hackl0us/GeoIP2-CN](https://github.com/Hackl0us/GeoIP2-CN) ⭐ 7,444 | 🐛 30 | 🌐 Go | 📅 2026-11-04 - 最小巧、最准确、最实用的 中国大陆 IP 段 + GeoIP2 数据库。
-* [Unbound](https://github.com/NLnetLabs/unbound) ⭐ 5,065 | 🐛 405 | 🌐 C | 📅 2026-11-11 - DNS 服务器，之前拿来在本机跑了一个优化的。
-* [17mon/china\_ip\_list](https://github.com/17mon/china_ip_list) ⭐ 4,088 | 🐛 19 | 📅 2025-03-04 - IPList for China by IPIP.NET。
-* [Aria2 Pro](https://github.com/P3TERX/Docker-Aria2-Pro) ⭐ 3,742 | 🐛 63 | 🌐 Dockerfile | 📅 2024-06-17 - 对 aria2 做了很多优化配置的 Docker 镜像，我在 seedbox 上跑了一个，本地通过 [AriaNg](https://github.com/mayswind/AriaNg) ⭐ 13,275 | 🐛 14 | 🌐 JavaScript | 📅 2026-10-05 来管理。
-* [axel](https://github.com/axel-download-accelerator/axel) ⭐ 3,426 | 🐛 87 | 🌐 C | 📅 2026-09-30 - 多线程下载工具。
+* [Unbound](https://github.com/NLnetLabs/unbound) ⭐ 5,066 | 🐛 408 | 🌐 C | 📅 2026-11-12 - DNS 服务器，之前拿来在本机跑了一个优化的。
+* [17mon/china\_ip\_list](https://github.com/17mon/china_ip_list) ⭐ 4,087 | 🐛 19 | 📅 2025-03-04 - IPList for China by IPIP.NET。
+* [Aria2 Pro](https://github.com/P3TERX/Docker-Aria2-Pro) ⭐ 3,743 | 🐛 63 | 🌐 Dockerfile | 📅 2024-06-17 - 对 aria2 做了很多优化配置的 Docker 镜像，我在 seedbox 上跑了一个，本地通过 [AriaNg](https://github.com/mayswind/AriaNg) ⭐ 13,275 | 🐛 14 | 🌐 JavaScript | 📅 2026-10-05 来管理。
+* [axel](https://github.com/axel-download-accelerator/axel) ⭐ 3,427 | 🐛 87 | 🌐 C | 📅 2026-09-30 - 多线程下载工具。
 * [ngrep](https://github.com/jpr5/ngrep) ⭐ 1,025 | 🐛 1 | 🌐 C | 📅 2026-02-08 - 网络 grep。
-* [waybackpy](https://github.com/akamhy/waybackpy) ⭐ 614 | 🐛 24 | 🌐 Python | 📅 2024-02-26 - Python 实现的 archive.org 包，同时提供一个命令行工具。
+* [waybackpy](https://github.com/akamhy/waybackpy) ⭐ 615 | 🐛 24 | 🌐 Python | 📅 2024-02-26 - Python 实现的 archive.org 包，同时提供一个命令行工具。
 * [tcping](https://github.com/mkirchner/tcping) ⭐ 69 | 🐛 0 | 🌐 C | 📅 2024-01-24 - TCP ping.
 * [aria2](https://aria2.github.io/) - 几乎全能的下载功能。
 * [chinaz ping](http://ping.chinaz.com/)
@@ -1288,8 +1288,8 @@ TODO: 待补充。
 
 ## Note-taking
 
-* [Joplin](https://joplinapp.org/) - 笔记工具，[开源](https://github.com/laurent22/joplin) ⭐ 57,138 | 🐛 680 | 🌐 TypeScript | 📅 2026-11-11。
-* [neuron](https://github.com/srid/neuron) ⭐ 1,561 | 🐛 23 | 🌐 Haskell | 📅 2026-09-28
+* [Joplin](https://joplinapp.org/) - 笔记工具，[开源](https://github.com/laurent22/joplin) ⭐ 57,154 | 🐛 667 | 🌐 TypeScript | 📅 2026-11-12。
+* [neuron](https://github.com/srid/neuron) ⭐ 1,562 | 🐛 23 | 🌐 Haskell | 📅 2026-09-28
 * [Craft](https://www.craft.do/) - 跟 notion.so 类似，但是原生实现。
 * [Day One](https://dayoneapp.com/) - 日记。
 * [DEVONthink](https://www.devontechnologies.com/apps/devonthink) - 文件/笔记/知识 管理工具，跟随升了两个大版本了。
@@ -1320,11 +1320,11 @@ TODO: 待补充。
 
 ### Selfhosted
 
-* [novuhq/novu](https://github.com/novuhq/novu) ⭐ 40,321 | 🐛 118 | 🌐 TypeScript | 📅 2026-11-11 - `支持众多服务` The open-source notifications infrastructure. A fully-featured microservice to send SMS, E-mail, Slack and Push notifications. Embeddable notification center for React with real-time updates, content management, and much more...
-* [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) ⭐ 35,485 | 🐛 376 | 🌐 Go | 📅 2026-11-11 - `支持 Web APP、iOS、macOS` Send push notifications to your phone or desktop using PUT/POST
-* [caronc/apprise](https://github.com/caronc/apprise) ⭐ 17,750 | 🐛 22 | 🌐 Python | 📅 2026-11-11 - `支持众多服务` Push Notifications that work with just about every platform!
-* [Finb/Bark](https://github.com/Finb/Bark) ⭐ 9,528 | 🐛 3 | 🌐 Swift | 📅 2026-11-11 - `支持 iOS` Bark is an iOS App which allows you to push custom notifications to your iPhone
-* [easychen/pushdeer](https://github.com/easychen/pushdeer) ⭐ 5,030 | 🐛 61 | 🌐 C | 📅 2026-10-28 - `全平台支持` 开放源码的无App推送服务，iOS14+扫码即用。亦支持快应用/iOS和Mac客户端、Android客户端、自制设备
+* [novuhq/novu](https://github.com/novuhq/novu) ⭐ 40,329 | 🐛 118 | 🌐 TypeScript | 📅 2026-11-12 - `支持众多服务` The open-source notifications infrastructure. A fully-featured microservice to send SMS, E-mail, Slack and Push notifications. Embeddable notification center for React with real-time updates, content management, and much more...
+* [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) ⭐ 35,501 | 🐛 377 | 🌐 Go | 📅 2026-11-11 - `支持 Web APP、iOS、macOS` Send push notifications to your phone or desktop using PUT/POST
+* [caronc/apprise](https://github.com/caronc/apprise) ⭐ 17,752 | 🐛 22 | 🌐 Python | 📅 2026-11-11 - `支持众多服务` Push Notifications that work with just about every platform!
+* [Finb/Bark](https://github.com/Finb/Bark) ⭐ 9,539 | 🐛 4 | 🌐 Swift | 📅 2026-11-11 - `支持 iOS` Bark is an iOS App which allows you to push custom notifications to your iPhone
+* [easychen/pushdeer](https://github.com/easychen/pushdeer) ⭐ 5,032 | 🐛 61 | 🌐 C | 📅 2026-10-28 - `全平台支持` 开放源码的无App推送服务，iOS14+扫码即用。亦支持快应用/iOS和Mac客户端、Android客户端、自制设备
 * [chanify/chanify](https://github.com/chanify/chanify) ⭐ 1,321 | 🐛 14 | 🌐 Go | 📅 2026-11-09 - `支持 iOS、macOS` Chanify is a safe and simple notification tools. This repository is command line tools for Chanify.
 * [pushbits/server](https://github.com/pushbits/server) ⭐ 371 | 🐛 8 | 🌐 Go | 📅 2026-01-10 - `支持 Matrix` A simple server for push notifications via Matrix (and a minimalistic alternative to Pushover and Gotify with a strong focus on security) 🚀📯
 * [tannercollin/Notica](https://github.com/tannercollin/Notica) ⭐ 361 | 🐛 10 | 🌐 JavaScript | 📅 2026-07-27 - `支持浏览器` Send browser notifications from your terminal. No installation. No registration.
@@ -1360,7 +1360,7 @@ TODO: 待补充。
 
 ## Password Managers
 
-* [gopass](https://github.com/gopasspw/gopass) ⭐ 7,319 | 🐛 78 | 🌐 Go | 📅 2026-11-09 - 命令行下的密码管理工具。
+* [gopass](https://github.com/gopasspw/gopass) ⭐ 7,320 | 🐛 78 | 🌐 Go | 📅 2026-11-09 - 命令行下的密码管理工具。
 * [1Password](https://1password.com/) - 使用了很多年的密码管理软件。
 * [Bitwarden](https://bitwarden.com/) - 开源密码管理软件。
 * [Elpass](https://elpass.app/) - Surge 作者出的密码管理软件。
@@ -1378,15 +1378,15 @@ TODO: 待补充。
 
 ## Privacy
 
-* [Etherpad](https://etherpad.org/) - [ether/etherpad-lite](https://github.com/ether/etherpad-lite) ⭐ 18,628 | 🐛 14 | 🌐 TypeScript | 📅 2026-11-11
-* [PrivateBin](https://privatebin.info/) - [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) ⭐ 8,740 | 🐛 200 | 🌐 PHP | 📅 2026-11-09
-* [CryptPad](https://cryptpad.fr/) - [xwiki-labs/cryptpad](https://github.com/xwiki-labs/cryptpad) ⭐ 8,067 | 🐛 369 | 🌐 JavaScript | 📅 2026-11-10
+* [Etherpad](https://etherpad.org/) - [ether/etherpad-lite](https://github.com/ether/etherpad-lite) ⭐ 18,626 | 🐛 14 | 🌐 TypeScript | 📅 2026-11-12
+* [PrivateBin](https://privatebin.info/) - [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) ⭐ 8,744 | 🐛 201 | 🌐 PHP | 📅 2026-11-12
+* [CryptPad](https://cryptpad.fr/) - [xwiki-labs/cryptpad](https://github.com/xwiki-labs/cryptpad) ⭐ 8,074 | 🐛 369 | 🌐 JavaScript | 📅 2026-11-12
 * [Privacy Guides](https://www.privacyguides.org/)
 
 ## Process Manager
 
 * [foreversd/forever](https://github.com/foreversd/forever) ⭐ 13,816 | 🐛 343 | 🌐 JavaScript | 📅 2023-05-21 - A simple CLI tool for ensuring that a given script runs continuously (i.e. forever)
-* [Nukesor/pueue](https://github.com/Nukesor/pueue) ⭐ 6,420 | 🐛 23 | 🌐 Rust | 📅 2026-10-27 - Manage your shell commands.
+* [Nukesor/pueue](https://github.com/Nukesor/pueue) ⭐ 6,421 | 🐛 23 | 🌐 Rust | 📅 2026-10-27 - Manage your shell commands.
 * [ochinchina/supervisord](https://github.com/ochinchina/supervisord) ⭐ 4,283 | 🐛 53 | 🌐 Go | 📅 2026-10-23 - a go-lang supervisor implementation
 * [leahneukirchen/nq](https://github.com/leahneukirchen/nq) ⭐ 3,135 | 🐛 4 | 🌐 C | 📅 2025-10-26 - Unix command line queue utility
 * [apenwarr/redo](https://github.com/apenwarr/redo) ⭐ 1,861 | 🐛 15 | 🌐 Python | 📅 2023-11-07 - Smaller, easier, more powerful, and more reliable than make. An implementation of djb's redo.
@@ -1410,27 +1410,27 @@ TODO: 待补充。
 ### Procfile
 
 * [ddollar/foreman](https://github.com/ddollar/foreman) ⭐ 6,166 | 🐛 72 | 🌐 Ruby | 📅 2025-07-27 - Manage Procfile-based applications
-* [DarthSim/overmind](https://github.com/DarthSim/overmind) ⭐ 3,758 | 🐛 62 | 🌐 Go | 📅 2025-04-04 - Process manager for Procfile-based applications and tmux
+* [DarthSim/overmind](https://github.com/DarthSim/overmind) ⭐ 3,759 | 🐛 62 | 🌐 Go | 📅 2025-04-04 - Process manager for Procfile-based applications and tmux
 * [mattn/goreman](https://github.com/mattn/goreman) ⭐ 2,651 | 🐛 13 | 🌐 Go | 📅 2026-07-08 - foreman clone written in go language
 * [nickstenning/honcho](https://github.com/nickstenning/honcho) ⭐ 1,718 | 🐛 28 | 🌐 Python | 📅 2025-06-03 - a python clone of Foreman. For managing Procfile-based applications.
 * [ddollar/forego](https://github.com/ddollar/forego) ⭐ 1,436 | 🐛 20 | 🌐 Go | 📅 2025-11-07 - Foreman in Go
-* [DarthSim/hivemind](https://github.com/DarthSim/hivemind) ⭐ 1,160 | 🐛 14 | 🌐 Go | 📅 2023-12-12 - Process manager for Procfile-based applications
+* [DarthSim/hivemind](https://github.com/DarthSim/hivemind) ⭐ 1,161 | 🐛 14 | 🌐 Go | 📅 2023-12-12 - Process manager for Procfile-based applications
 * [chrismytton/shoreman](https://github.com/chrismytton/shoreman) ⭐ 336 | 🐛 0 | 🌐 Shell | 📅 2025-01-30 - foreman in shell
 * [yukihirop/ultraman](https://github.com/yukihirop/ultraman) ⭐ 33 | 🐛 0 | 🌐 Rust | 📅 2025-06-29 - Manage Procfile-based applications. (Rust Foreman)⚙︎🔨
 
 ## Profiling
 
-* [brendangregg/FlameGraph](https://github.com/brendangregg/FlameGraph) ⭐ 19,825 | 🐛 174 | 🌐 Perl | 📅 2024-10-20 - Stack trace visualizer
+* [brendangregg/FlameGraph](https://github.com/brendangregg/FlameGraph) ⭐ 19,828 | 🐛 174 | 🌐 Perl | 📅 2024-10-20 - Stack trace visualizer
 * [Open Source Continuous Profiling Platform](https://pyroscope.io/)
 * [Perfetto](https://perfetto.dev/) - System profiling, app tracing and trace analysis
 * [speedscope](https://www.speedscope.app/)
 
 ### Python
 
-* [benfred/py-spy](https://github.com/benfred/py-spy) ⭐ 15,641 | 🐛 240 | 🌐 Rust | 📅 2026-11-10 - Sampling profiler for Python programs
-* [plasma-umass/scalene](https://github.com/plasma-umass/scalene) ⭐ 13,558 | 🐛 156 | 🌐 Python | 📅 2026-11-11 - a high-performance, high-precision CPU, GPU, and memory profiler for Python
-* [joerick/pyinstrument](https://github.com/joerick/pyinstrument) ⭐ 8,032 | 🐛 32 | 🌐 Python | 📅 2026-11-01 - 🚴 Call stack profiler for Python. Shows you why your code is slow!
-* [gaogaotiantian/viztracer](https://github.com/gaogaotiantian/viztracer) ⭐ 7,782 | 🐛 33 | 🌐 Python | 📅 2026-11-11 - VizTracer is a low-overhead logging/debugging/profiling tool that can trace and visualize your python code execution.
+* [benfred/py-spy](https://github.com/benfred/py-spy) ⭐ 15,643 | 🐛 240 | 🌐 Rust | 📅 2026-11-10 - Sampling profiler for Python programs
+* [plasma-umass/scalene](https://github.com/plasma-umass/scalene) ⭐ 13,558 | 🐛 157 | 🌐 Python | 📅 2026-11-12 - a high-performance, high-precision CPU, GPU, and memory profiler for Python
+* [joerick/pyinstrument](https://github.com/joerick/pyinstrument) ⭐ 8,031 | 🐛 32 | 🌐 Python | 📅 2026-11-01 - 🚴 Call stack profiler for Python. Shows you why your code is slow!
+* [gaogaotiantian/viztracer](https://github.com/gaogaotiantian/viztracer) ⭐ 7,786 | 🐛 33 | 🌐 Python | 📅 2026-11-12 - VizTracer is a low-overhead logging/debugging/profiling tool that can trace and visualize your python code execution.
 * [P403n1x87/austin](https://github.com/P403n1x87/austin) ⭐ 2,216 | 🐛 4 | 🌐 C | 📅 2026-10-28 - Python frame stack sampler for CPython
 * [FunctionTrace](https://functiontrace.com/) - human-oriented profiling for Python
 
@@ -1450,26 +1450,26 @@ TODO: 待补充。
 
 ## Proxy and VPN
 
-* [juanfont/headscale](https://github.com/juanfont/headscale) ⭐ 45,586 | 🐛 81 | 🌐 Go | 📅 2026-11-11 - An open source, self-hosted implementation of the Tailscale control server
-* [wiretrustee/wiretrustee](https://github.com/wiretrustee/wiretrustee) ⭐ 30,891 | 🐛 804 | 🌐 Go | 📅 2026-11-11 - Connect your devices into a single secure private WireGuard®-based mesh network.
-* [hwdsl2/setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) ⭐ 29,008 | 🐛 1 | 🌐 Shell | 📅 2026-11-08 - Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2
-* [slackhq/nebula](https://github.com/slackhq/nebula) ⭐ 18,521 | 🐛 117 | 🌐 Go | 📅 2026-11-10 - A scalable overlay networking tool with a focus on performance, simplicity and security
-* [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne) ⭐ 17,248 | 🐛 426 | 🌐 C++ | 📅 2026-09-03 - A Smart Ethernet Switch for Earth
-* [gravitl/netmaker](https://github.com/gravitl/netmaker/) ⭐ 11,867 | 🐛 222 | 🌐 Go | 📅 2026-11-11 - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
-* [firezone/firezone](https://github.com/firezone/firezone) ⭐ 9,181 | 🐛 411 | 🌐 Elixir | 📅 2026-11-11 - WireGuard-based VPN server and firewall
-* [ntop/n2n](https://github.com/ntop/n2n) ⭐ 7,053 | 🐛 152 | 🌐 C | 📅 2026-10-17 - Peer-to-peer VPN
-* [3proxy](https://github.com/z3APA3A/3proxy) ⭐ 5,587 | 🐛 29 | 🌐 C | 📅 2026-11-10
-* [tonarino/innernet](https://github.com/tonarino/innernet) ⭐ 5,577 | 🐛 85 | 🌐 Rust | 📅 2026-11-11 - A private network system that uses WireGuard under the hood.
+* [juanfont/headscale](https://github.com/juanfont/headscale) ⭐ 45,634 | 🐛 81 | 🌐 Go | 📅 2026-11-12 - An open source, self-hosted implementation of the Tailscale control server
+* [wiretrustee/wiretrustee](https://github.com/wiretrustee/wiretrustee) ⭐ 30,926 | 🐛 791 | 🌐 Go | 📅 2026-11-12 - Connect your devices into a single secure private WireGuard®-based mesh network.
+* [hwdsl2/setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) ⭐ 29,015 | 🐛 1 | 🌐 Shell | 📅 2026-11-08 - Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2
+* [slackhq/nebula](https://github.com/slackhq/nebula) ⭐ 18,525 | 🐛 118 | 🌐 Go | 📅 2026-11-12 - A scalable overlay networking tool with a focus on performance, simplicity and security
+* [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne) ⭐ 17,252 | 🐛 426 | 🌐 C++ | 📅 2026-09-03 - A Smart Ethernet Switch for Earth
+* [gravitl/netmaker](https://github.com/gravitl/netmaker/) ⭐ 11,870 | 🐛 224 | 🌐 Go | 📅 2026-11-12 - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
+* [firezone/firezone](https://github.com/firezone/firezone) ⭐ 9,182 | 🐛 420 | 🌐 Elixir | 📅 2026-11-12 - WireGuard-based VPN server and firewall
+* [ntop/n2n](https://github.com/ntop/n2n) ⭐ 7,054 | 🐛 151 | 🌐 C | 📅 2026-10-17 - Peer-to-peer VPN
+* [3proxy](https://github.com/z3APA3A/3proxy) ⭐ 5,592 | 🐛 29 | 🌐 C | 📅 2026-11-10
+* [tonarino/innernet](https://github.com/tonarino/innernet) ⭐ 5,578 | 🐛 85 | 🌐 Rust | 📅 2026-11-11 - A private network system that uses WireGuard under the hood.
 * [donaldzou/WGDashboard](https://github.com/donaldzou/WGDashboard) ⭐ 3,775 | 🐛 90 | 🌐 Vue | 📅 2026-11-09 - Simplest dashboard for WireGuard VPN written in Python w/ Flask
 * [dswd/vpncloud](https://github.com/dswd/vpncloud) ⭐ 1,981 | 🐛 43 | 🌐 Rust | 📅 2024-03-21 - Peer-to-peer VPN
 * [key-networks/ztncui](https://github.com/key-networks/ztncui) ⭐ 1,855 | 🐛 57 | 🌐 JavaScript | 📅 2023-08-31 - ZeroTier network controller UI
 * [Place1/wg-access-server](https://github.com/Place1/wg-access-server) ⭐ 1,848 | 🐛 75 | 🌐 TypeScript | 📅 2024-08-20 - An all-in-one WireGuard VPN solution with a web ui for connecting devices
-* [subspacecommunity/subspace](https://github.com/subspacecommunity/subspace) ⭐ 1,804 | 🐛 65 | 🌐 HTML | 📅 2024-06-13 - A fork of the simple WireGuard VPN server GUI community maintained
+* [subspacecommunity/subspace](https://github.com/subspacecommunity/subspace) ⭐ 1,803 | 🐛 65 | 🌐 HTML | 📅 2024-06-13 - A fork of the simple WireGuard VPN server GUI community maintained
 * [dec0dOS/zero-ui](https://github.com/dec0dOS/zero-ui) ⭐ 1,179 | 🐛 48 | 🌐 JavaScript | 📅 2026-04-03 - ZeroUI - ZeroTier Controller Web UI - is a web user interface for a self-hosted ZeroTier network controller.
 * [seashell/drago](https://github.com/seashell/drago) ⭐ 1,121 | 🐛 34 | 🌐 Go | 📅 2023-10-13 - Securely connect anything with WireGuard® and manage all your networks from a single place.
-* [aramperes/onetun](https://github.com/aramperes/onetun) ⭐ 1,044 | 🐛 18 | 🌐 Rust | 📅 2025-10-20 - Access your WireGuard network from anywhere
+* [aramperes/onetun](https://github.com/aramperes/onetun) ⭐ 1,045 | 🐛 18 | 🌐 Rust | 📅 2025-10-20 - Access your WireGuard network from anywhere
 * [costela/wesher](https://github.com/costela/wesher) ⭐ 991 | 🐛 21 | 🌐 Go | 📅 2025-02-17 - wireguard overlay mesh network manager
-* [jwhited/wgsd](https://github.com/jwhited/wgsd) ⭐ 901 | 🐛 19 | 🌐 Go | 📅 2023-12-26 - A CoreDNS plugin that provides WireGuard peer information via DNS-SD semantics
+* [jwhited/wgsd](https://github.com/jwhited/wgsd) ⭐ 900 | 🐛 19 | 🌐 Go | 📅 2023-12-26 - A CoreDNS plugin that provides WireGuard peer information via DNS-SD semantics
 * [WeeJeWel/wg-easy](https://github.com/weejewel/wg-easy) ⚠️ Archived - The easiest way to run WireGuard VPN + Web-based Admin UI.
 * [reddec/tinc-boot](https://github.com/reddec/tinc-boot) ⭐ 161 | 🐛 6 | 🌐 Go | 📅 2023-02-25 - Bootstrap your Tinc node quickly and easy
 * [clash](https://github.com/Dreamacro/clash) - 翻墙软件，有 [premium](https://github.com/Dreamacro/clash/releases/tag/premium) 版。
@@ -1487,10 +1487,10 @@ TODO: 待补充。
 
 包含 Surge/Quantumult X/Clash/Surfboard/Loon/Shadowrocket。
 
-* [blackmatrix7/ios\_rule\_script](https://github.com/blackmatrix7/ios_rule_script) ⭐ 28,607 | 🐛 105 | 🌐 JavaScript | 📅 2026-10-27 - 除了整合各个开源的规则/脚本，也有很多特有的，大而全。
-* [Hackl0us/SS-Rule-Snippet](https://github.com/Hackl0us/SS-Rule-Snippet) ⭐ 11,204 | 🐛 44 | 🌐 JavaScript | 📅 2024-03-19
-* [NobyDa/Script](https://github.com/NobyDa/Script/tree/master) ⭐ 8,448 | 🐛 3 | 🌐 JavaScript | 📅 2026-08-12 - 以各种签到脚本为主。
-* [Koolson/Qure](https://github.com/Koolson/Qure) ⭐ 3,531 | 🐛 43 | 📅 2026-06-30 - 专为 Quantumult X 内策略组而精心设计的图标组。
+* [blackmatrix7/ios\_rule\_script](https://github.com/blackmatrix7/ios_rule_script) ⭐ 28,622 | 🐛 105 | 🌐 JavaScript | 📅 2026-10-27 - 除了整合各个开源的规则/脚本，也有很多特有的，大而全。
+* [Hackl0us/SS-Rule-Snippet](https://github.com/Hackl0us/SS-Rule-Snippet) ⭐ 11,201 | 🐛 43 | 🌐 JavaScript | 📅 2024-03-19
+* [NobyDa/Script](https://github.com/NobyDa/Script/tree/master) ⭐ 8,449 | 🐛 3 | 🌐 JavaScript | 📅 2026-08-12 - 以各种签到脚本为主。
+* [Koolson/Qure](https://github.com/Koolson/Qure) ⭐ 3,532 | 🐛 43 | 📅 2026-06-30 - 专为 Quantumult X 内策略组而精心设计的图标组。
 * [KOP-XIAO/QuantumultX](https://github.com/KOP-XIAO/QuantumultX) ⭐ 3,013 | 🐛 1 | 🌐 JavaScript | 📅 2026-11-03
 * [yichahucha/surge](https://github.com/yichahucha/surge) ⭐ 2,458 | 🐛 4 | 🌐 JavaScript | 📅 2026-05-30
 * [scomper/Surge](https://github.com/scomper/Surge) ⭐ 470 | 🐛 1 | 🌐 JavaScript | 📅 2025-03-13
@@ -1500,15 +1500,15 @@ TODO: 待补充。
 
 ## Python
 
-* [pyenv](https://github.com/pyenv/pyenv) ⭐ 45,184 | 🐛 50 | 🌐 Shell | 📅 2026-11-11 - Python 版本管理工具。
-* [wtfpython](https://github.com/satwikkansal/wtfpython) ⭐ 37,142 | 🐛 73 | 🌐 Python | 📅 2026-01-13 - What the f\*ck Python!
-* [Pipenv](https://github.com/pypa/pipenv) ⭐ 25,023 | 🐛 3 | 🌐 Python | 📅 2026-11-11 - Python 虚拟环境管理工具。
-* [Mypy](https://github.com/python/mypy) ⭐ 20,719 | 🐛 3,234 | 🌐 Python | 📅 2026-11-11 - Python 静态类型检查工具。
-* [pipx](https://github.com/pipxproject/pipx) ⭐ 13,005 | 🐛 8 | 🌐 Python | 📅 2026-11-10 - 安装 Python 写的命令行工具的神器。
-* [Bandit](https://github.com/PyCQA/bandit) ⭐ 8,379 | 🐛 267 | 🌐 Python | 📅 2026-11-09 - Python 代码安全检查。
+* [pyenv](https://github.com/pyenv/pyenv) ⭐ 45,184 | 🐛 51 | 🌐 Shell | 📅 2026-11-11 - Python 版本管理工具。
+* [wtfpython](https://github.com/satwikkansal/wtfpython) ⭐ 37,143 | 🐛 73 | 🌐 Python | 📅 2026-01-13 - What the f\*ck Python!
+* [Pipenv](https://github.com/pypa/pipenv) ⭐ 25,023 | 🐛 4 | 🌐 Python | 📅 2026-11-11 - Python 虚拟环境管理工具。
+* [Mypy](https://github.com/python/mypy) ⭐ 20,721 | 🐛 3,233 | 🌐 Python | 📅 2026-11-12 - Python 静态类型检查工具。
+* [pipx](https://github.com/pipxproject/pipx) ⭐ 13,016 | 🐛 11 | 🌐 Python | 📅 2026-11-12 - 安装 Python 写的命令行工具的神器。
+* [Bandit](https://github.com/PyCQA/bandit) ⭐ 8,382 | 🐛 267 | 🌐 Python | 📅 2026-11-09 - Python 代码安全检查。
 * [Pyre](https://github.com/facebook/pyre-check) ⚠️ Archived - Python 静态类型检查工具。
 * [pytype](https://github.com/google/pytype) ⚠️ Archived - Python 静态类型检查工具。
-* [python-gitlab](https://github.com/python-gitlab/python-gitlab) ⭐ 2,482 | 🐛 39 | 🌐 Python | 📅 2026-11-09 - Python 封装的 GitLab API，同时也是 GitLab 的 CLI 工具。
+* [python-gitlab](https://github.com/python-gitlab/python-gitlab) ⭐ 2,482 | 🐛 38 | 🌐 Python | 📅 2026-11-09 - Python 封装的 GitLab API，同时也是 GitLab 的 CLI 工具。
 * [safety](https://github.com/pyupio/safety) ⭐ 2,000 | 🐛 98 | 🌐 Python | 📅 2026-11-05 - Python 依赖安全检查工具。
 * [pyp](https://github.com/hauntsaninja/pyp) ⭐ 1,536 | 🐛 13 | 🌐 Python | 📅 2026-10-25 - 在 shell 中直接执行 Python 代码。
 * [Pew](https://github.com/berdario/pew) ⭐ 1,161 | 🐛 58 | 🌐 Python | 📅 2024-05-28 - Python 虚拟环境管理工具。
@@ -1520,8 +1520,8 @@ TODO: 待补充。
 
 ### Formatter
 
-* [black](https://github.com/psf/black) ⭐ 42,158 | 🐛 272 | 🌐 Python | 📅 2026-11-09
-* [YAPF](https://github.com/google/yapf) ⭐ 13,987 | 🐛 440 | 🌐 Python | 📅 2026-11-06
+* [black](https://github.com/psf/black) ⭐ 42,165 | 🐛 264 | 🌐 Python | 📅 2026-11-12
+* [YAPF](https://github.com/google/yapf) ⭐ 13,985 | 🐛 440 | 🌐 Python | 📅 2026-11-06
 * [autopep8](https://github.com/hhatto/autopep8) ⭐ 4,654 | 🐛 144 | 🌐 Python | 📅 2026-07-20
 
 ### Linter
@@ -1533,14 +1533,14 @@ TODO: 待补充。
 
 ### Package Management
 
-* [pip-tools](https://github.com/jazzband/pip-tools) ⭐ 8,005 | 🐛 167 | 🌐 Python | 📅 2026-11-10
+* [pip-tools](https://github.com/jazzband/pip-tools) ⭐ 8,004 | 🐛 164 | 🌐 Python | 📅 2026-11-11
 * [DepHell](https://github.com/dephell/dephell) ⚠️ Archived
 * [pyflow](https://github.com/David-OConnor/pyflow) ⭐ 1,340 | 🐛 62 | 🌐 Rust | 📅 2026-03-21 - An installation and dependency system for Python
 * [PDM](https://pdm.fming.dev/)
 
 ### Packages
 
-* [GitPython](https://github.com/gitpython-developers/GitPython) ⭐ 5,190 | 🐛 1 | 🌐 Python | 📅 2026-11-10 - GitPython is a python library used to interact with Git repositories.
+* [GitPython](https://github.com/gitpython-developers/GitPython) ⭐ 5,192 | 🐛 1 | 🌐 Python | 📅 2026-11-12 - GitPython is a python library used to interact with Git repositories.
 * [dulwich](https://github.com/dulwich/dulwich) ⭐ 2,297 | 🐛 55 | 🌐 Python | 📅 2026-11-10 - Pure-Python Git implementation
 * [pycontribs/jira](https://github.com/pycontribs/jira) ⭐ 2,135 | 🐛 131 | 🌐 Python | 📅 2026-11-08
 * [pygit2](https://github.com/libgit2/pygit2) ⭐ 1,736 | 🐛 193 | 🌐 Python | 📅 2026-11-06 - Python bindings for libgit2
@@ -1550,7 +1550,7 @@ TODO: 待补充。
 ## Regular Expressions
 
 * [Expressions](https://www.apptorium.com/expressions) - 正则工具。
-* [grex](https://github.com/pemistahl/grex) ⭐ 8,304 | 🐛 24 | 🌐 Rust | 📅 2026-02-27 - 正则生成工具。
+* [grex](https://github.com/pemistahl/grex) ⭐ 8,307 | 🐛 24 | 🌐 Rust | 📅 2026-02-27 - 正则生成工具。
 * [Patterns](https://krillapps.com/patterns/) - 正则工具。
 * [regex101](https://regex101.com/) - 常用。
 
@@ -1562,14 +1562,14 @@ TODO: 待补充。
 
 ## Robotic Process Automation
 
-* [robotframework](https://github.com/robotframework/robotframework) ⭐ 11,986 | 🐛 319 | 🌐 Python | 📅 2026-11-11
-* [TagUI](https://github.com/kelaberetiv/TagUI) ⭐ 6,343 | 🐛 0 | 🌐 PHP | 📅 2026-11-08
+* [robotframework](https://github.com/robotframework/robotframework) ⭐ 11,987 | 🐛 319 | 🌐 Python | 📅 2026-11-11
+* [TagUI](https://github.com/kelaberetiv/TagUI) ⭐ 6,345 | 🐛 0 | 🌐 PHP | 📅 2026-11-08
 * [RPA-Python](https://github.com/tebelorg/RPA-Python) ⭐ 5,502 | 🐛 4 | 🌐 Python | 📅 2026-07-25
 
 ## RSS
 
-* [NetNewsWire](https://ranchero.com/netnewswire/) - 多平台 RSS 阅读工具，但是支持的服务比较少，[开源](https://github.com/Ranchero-Software/NetNewsWire) ⭐ 10,523 | 🐛 618 | 🌐 Swift | 📅 2026-11-11。
-* [Miniflux](https://miniflux.app/) - [开源](https://github.com/miniflux/v2) ⭐ 9,918 | 🐛 287 | 🌐 Go | 📅 2026-11-11 RSS 阅读服务。
+* [NetNewsWire](https://ranchero.com/netnewswire/) - 多平台 RSS 阅读工具，但是支持的服务比较少，[开源](https://github.com/Ranchero-Software/NetNewsWire) ⭐ 10,525 | 🐛 619 | 🌐 Swift | 📅 2026-11-12。
+* [Miniflux](https://miniflux.app/) - [开源](https://github.com/miniflux/v2) ⭐ 9,924 | 🐛 287 | 🌐 Go | 📅 2026-11-12 RSS 阅读服务。
 * [Inoreader](https://www.inoreader.com/) - 我是 RSS 的重度用户，从 04、05 年到现在，基本每天都会用，阅读器 [一路切换](https://huaidan.org/archives/917.html)，从 「[GeatNews](https://web.archive.org/web/20050222021701/http://www.curiostudio.com/) -> [抓虾](https://web.archive.org/web/20150811064809/http://www.zhuaxia.com/) -> Google Reader -> [Feedly](https://feedly.com/) -> [Inoreader](https://www.inoreader.com/)」，然后就一直订阅 Inoreader 的 Pro 版。
 * [News Explorer](https://betamagic.nl/products/newsexplorer.html) - RSS 客户端。
 * [Newsboat](https://newsboat.org/) - 终端下的 RSS 阅读器。
@@ -1586,14 +1586,14 @@ TODO: 待补充。
 
 ## Security
 
-* [MASSCAN](https://github.com/robertdavidgraham/masscan/) ⭐ 26,140 | 🐛 414 | 🌐 C | 📅 2026-10-05 - 端口快速扫描工具。
-* [Ciphey](https://github.com/Ciphey/Ciphey) ⭐ 21,756 | 🐛 73 | 🌐 Rust | 📅 2026-11-06 - 使用自然语言处理和人工智能以及一些全自动解密/解码/破解工具。
-* [OWASP Amass](https://github.com/OWASP/Amass) ⭐ 15,500 | 🐛 250 | 🌐 Go | 📅 2026-11-11 - 安全测试信息收集工具。
-* [JD-GUI](https://java-decompiler.github.io/) - Java 反编译工具，[开源](https://github.com/java-decompiler/jd-gui) ⭐ 15,226 | 🐛 248 | 🌐 Java | 📅 2024-07-08。
-* [hydra](https://github.com/vanhauser-thc/thc-hydra) ⭐ 12,490 | 🐛 48 | 🌐 C | 📅 2026-11-08 - 密码破解。
-* [YARA](https://github.com/VirusTotal/yara/) ⭐ 10,027 | 🐛 167 | 🌐 C | 📅 2026-10-27 - 恶意软件查找。
-* [objection](https://github.com/sensepost/objection) ⭐ 9,503 | 🐛 56 | 🌐 Python | 📅 2026-10-27 - 基于 [Frida](https://frida.re/) 实现的移动端安全测试辅助工具。
-* [h8mail](https://github.com/khast3x/h8mail) ⭐ 5,375 | 🐛 40 | 🌐 Python | 📅 2023-08-15 - Email OSINT 工具。
+* [MASSCAN](https://github.com/robertdavidgraham/masscan/) ⭐ 26,144 | 🐛 414 | 🌐 C | 📅 2026-10-05 - 端口快速扫描工具。
+* [Ciphey](https://github.com/Ciphey/Ciphey) ⭐ 21,758 | 🐛 73 | 🌐 Rust | 📅 2026-11-06 - 使用自然语言处理和人工智能以及一些全自动解密/解码/破解工具。
+* [OWASP Amass](https://github.com/OWASP/Amass) ⭐ 15,509 | 🐛 250 | 🌐 Go | 📅 2026-11-12 - 安全测试信息收集工具。
+* [JD-GUI](https://java-decompiler.github.io/) - Java 反编译工具，[开源](https://github.com/java-decompiler/jd-gui) ⭐ 15,228 | 🐛 248 | 🌐 Java | 📅 2024-07-08。
+* [hydra](https://github.com/vanhauser-thc/thc-hydra) ⭐ 12,497 | 🐛 48 | 🌐 C | 📅 2026-11-08 - 密码破解。
+* [YARA](https://github.com/VirusTotal/yara/) ⭐ 10,032 | 🐛 167 | 🌐 C | 📅 2026-10-27 - 恶意软件查找。
+* [objection](https://github.com/sensepost/objection) ⭐ 9,506 | 🐛 56 | 🌐 Python | 📅 2026-10-27 - 基于 [Frida](https://frida.re/) 实现的移动端安全测试辅助工具。
+* [h8mail](https://github.com/khast3x/h8mail) ⭐ 5,377 | 🐛 40 | 🌐 Python | 📅 2023-08-15 - Email OSINT 工具。
 * [sslscan](https://github.com/rbsec/sslscan) ⭐ 2,634 | 🐛 66 | 🌐 C | 📅 2026-11-07 - SSL/TLS 扫描工具。
 * [Burp Suite](https://portswigger.net/burp) - 用于 Web 安全测试的图形化工具。
 * [CFR](https://www.benf.org/other/cfr/) - Java 反编译。
@@ -1615,7 +1615,7 @@ TODO: 待补充。
 
 ## SSH
 
-* [xxh-xxh](https://github.com/xxh/xxh) ⭐ 6,128 | 🐛 30 | 🌐 Python | 📅 2026-06-02 - 把本地的 shell 通过 SSH 带到远程服务器。
+* [xxh-xxh](https://github.com/xxh/xxh) ⭐ 6,129 | 🐛 30 | 🌐 Python | 📅 2026-06-02 - 把本地的 shell 通过 SSH 带到远程服务器。
 * [assh](https://github.com/moul/assh) ⭐ 3,226 | 🐛 102 | 🌐 Go | 📅 2026-11-09 - SSH 客户端加强。
 * [ssh-audit](https://github.com/arthepsy/ssh-audit) ⭐ 2,993 | 🐛 29 | 🌐 Python | 📅 2024-06-28 - SSH Server 审计工具。
 * [cmc](https://github.com/TimidRobot/cmc) ⭐ 91 | 🐛 3 | 🌐 Shell | 📅 2024-06-28 - SSH ControlMaster 管理工具，但是在我这里不太好用，还是自己写了个脚本。
@@ -1632,12 +1632,12 @@ TODO: 待补充。
 
 ## Task Queues
 
-* [celery/celery](https://github.com/celery/celery) ⭐ 29,173 | 🐛 777 | 🌐 Python | 📅 2026-11-11 - Distributed Task Queue (development branch)
-* [rq/rq](https://github.com/rq/rq) ⭐ 10,704 | 🐛 277 | 🌐 Python | 📅 2026-11-09 - Simple job queues for Python
-* [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) ⭐ 8,265 | 🐛 148 | 🌐 Go | 📅 2026-11-11 - A distributed, fault-tolerant task queue
+* [celery/celery](https://github.com/celery/celery) ⭐ 29,177 | 🐛 796 | 🌐 Python | 📅 2026-11-11 - Distributed Task Queue (development branch)
+* [rq/rq](https://github.com/rq/rq) ⭐ 10,705 | 🐛 277 | 🌐 Python | 📅 2026-11-09 - Simple job queues for Python
+* [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) ⭐ 8,270 | 🐛 144 | 🌐 Go | 📅 2026-11-12 - A distributed, fault-tolerant task queue
 * [coleifer/huey](https://github.com/coleifer/huey) ⭐ 6,064 | 🐛 2 | 🌐 Python | 📅 2026-11-05 - a little task queue for python
-* [Bogdanp/dramatiq](https://github.com/Bogdanp/dramatiq) ⭐ 5,339 | 🐛 65 | 🌐 Python | 📅 2026-11-10 - A fast and reliable background task processing library for Python 3
-* [closeio/tasktiger](https://github.com/closeio/tasktiger) ⭐ 1,469 | 🐛 51 | 🌐 Python | 📅 2026-11-10 - Python task queue using Redis
+* [Bogdanp/dramatiq](https://github.com/Bogdanp/dramatiq) ⭐ 5,340 | 🐛 65 | 🌐 Python | 📅 2026-11-10 - A fast and reliable background task processing library for Python 3
+* [closeio/tasktiger](https://github.com/closeio/tasktiger) ⭐ 1,470 | 🐛 51 | 🌐 Python | 📅 2026-11-10 - Python task queue using Redis
 * [wakatime/wakaq](https://github.com/wakatime/wakaq) ⭐ 597 | 🐛 0 | 🌐 Python | 📅 2026-05-21 - Distributed background task queue for Python backed by Redis, a super minimal Celery
 * [NATS.io](https://nats.io/) - Cloud Native, Open Source, High-performance Messaging
 * [Task Queues](https://taskqueues.com/) - A list of task queue libraries and message brokers
@@ -1645,12 +1645,12 @@ TODO: 待补充。
 
 ## Terminal
 
-* [Terminus](https://eugeny.github.io/terminus/) - 终端模拟器，[开源](https://github.com/Eugeny/terminus) ⭐ 75,388 | 🐛 2,897 | 🌐 TypeScript | 📅 2026-11-06。
-* [alacritty](https://github.com/alacritty/alacritty) ⭐ 66,167 | 🐛 346 | 🌐 Rust | 📅 2026-11-06 - A cross-platform, OpenGL terminal emulator.
-* [tmux](https://github.com/tmux/tmux) ⭐ 50,259 | 🐛 60 | 🌐 C | 📅 2026-11-11 - 终端复用工具。
+* [Terminus](https://eugeny.github.io/terminus/) - 终端模拟器，[开源](https://github.com/Eugeny/terminus) ⭐ 75,402 | 🐛 2,898 | 🌐 TypeScript | 📅 2026-11-06。
+* [alacritty](https://github.com/alacritty/alacritty) ⭐ 66,183 | 🐛 347 | 🌐 Rust | 📅 2026-11-06 - A cross-platform, OpenGL terminal emulator.
+* [tmux](https://github.com/tmux/tmux) ⭐ 50,298 | 🐛 56 | 🌐 C | 📅 2026-11-12 - 终端复用工具。
 * [Hyper](https://hyper.is/) - 终端模拟器，基于 Electron，[开源](https://github.com/vercel/hyper) ⚠️ Archived。
-* [kitty](https://github.com/kovidgoyal/kitty) ⭐ 35,649 | 🐛 11 | 🌐 Python | 📅 2026-11-11 - Cross-platform, fast, feature-rich, GPU based terminal
-* [Swordfish90/cool-retro-term](https://github.com/Swordfish90/cool-retro-term) ⭐ 26,565 | 🐛 578 | 🌐 QML | 📅 2026-05-31 - A good looking terminal emulator which mimics the old cathode display...
+* [kitty](https://github.com/kovidgoyal/kitty) ⭐ 35,665 | 🐛 12 | 🌐 Python | 📅 2026-11-12 - Cross-platform, fast, feature-rich, GPU based terminal
+* [Swordfish90/cool-retro-term](https://github.com/Swordfish90/cool-retro-term) ⭐ 26,565 | 🐛 579 | 🌐 QML | 📅 2026-05-31 - A good looking terminal emulator which mimics the old cathode display...
 * [Tmuxinator](https://github.com/tmuxinator/tmuxinator) ⭐ 13,748 | 🐛 97 | 🌐 Ruby | 📅 2026-10-10 - tmux 辅助工具。
 * [reattach-to-user-namespace](https://github.com/ChrisJohnsen/tmux-MacOSX-pasteboard) ⭐ 2,395 | 🐛 13 | 🌐 C | 📅 2020-10-10 - 解决 macOS 下使用 tmux 时有些命令失效的问题。
 * [byobu](https://www.byobu.org/) - 终端复用工具。
@@ -1664,20 +1664,20 @@ TODO: 待补充。
 
 * [Alfred Snippets and Text Expansion](https://www.alfredapp.com/help/features/snippets/)
 * [aText](https://www.trankynam.com/atext/) - 支持 macOS 和 Windows 版，长期使用，Alfred 支持后就切换过去了。
-* [espanso](https://espanso.org/) - Rust 写的 [开源](https://github.com/federico-terzi/espanso) ⭐ 14,767 | 🐛 591 | 🌐 Rust | 📅 2026-11-08 跨平台文字快捷输入工具，类似 [aText](https://www.trankynam.com/atext/)、[TextExpander](https://textexpander.com/)。
+* [espanso](https://espanso.org/) - Rust 写的 [开源](https://github.com/federico-terzi/espanso) ⭐ 14,773 | 🐛 591 | 🌐 Rust | 📅 2026-11-08 跨平台文字快捷输入工具，类似 [aText](https://www.trankynam.com/atext/)、[TextExpander](https://textexpander.com/)。
 * [Rocket Typist](https://witt-software.com/rockettypist/)
 * [TextExpander](https://textexpander.com/) - 支持 macOS、Windows、iOS，短期使用，后被 aText 替代。
 
 ## Time Tracking
 
-* [kevinpapst/kimai2](https://github.com/kevinpapst/kimai2) ⭐ 5,148 | 🐛 94 | 🌐 PHP | 📅 2026-11-11 - 开源可自建。
-* [muety/wakapi](https://github.com/muety/wakapi) ⭐ 4,475 | 🐛 41 | 🌐 Go | 📅 2026-11-09 - 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics. 兼容 WakaTime，可自建。
+* [kevinpapst/kimai2](https://github.com/kevinpapst/kimai2) ⭐ 5,152 | 🐛 95 | 🌐 PHP | 📅 2026-11-12 - 开源可自建。
+* [muety/wakapi](https://github.com/muety/wakapi) ⭐ 4,476 | 🐛 41 | 🌐 Go | 📅 2026-11-09 - 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics. 兼容 WakaTime，可自建。
 * [selfspy/selfspy](https://github.com/selfspy/selfspy) ⭐ 2,501 | 🐛 73 | 🌐 Python | 📅 2019-03-06 - Log everything you do on the computer, for statistics, future reference and all-around fun!
-* [traggo/server](https://github.com/traggo/server) ⭐ 1,643 | 🐛 76 | 🌐 Go | 📅 2026-09-27 - 开源可自建。
+* [traggo/server](https://github.com/traggo/server) ⭐ 1,645 | 🐛 76 | 🌐 Go | 📅 2026-09-27 - 开源可自建。
 * [karpathy/ulogme](https://github.com/karpathy/ulogme) ⭐ 1,182 | 🐛 31 | 🌐 Python | 📅 2020-09-17 - Automatically collect and visualize usage statistics in Ubuntu/OSX environments.
 * [mujx/hakatime](https://github.com/mujx/hakatime) ⭐ 688 | 🐛 25 | 🌐 Haskell | 📅 2024-11-18 - Wakatime server implementation & analytics dashboard
 * [ActivityWatch](https://activitywatch.net/) - Open-source time tracker. 开源可自建。
-  * [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch) ⭐ 19,597 | 🐛 137 | 🌐 Python | 📅 2026-11-09 - The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.
+  * [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch) ⭐ 19,604 | 🐛 136 | 🌐 Python | 📅 2026-11-09 - The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.
 * [RescueTime](https://www.rescuetime.com/)
 * [Timing](https://timingapp.com/) - Automatic Mac Time Tracker – Manual Timers Optional
 * [WakaTime](https://wakatime.com/) - Dashboards for developers
@@ -1685,25 +1685,25 @@ TODO: 待补充。
 
 ## URL Shortener
 
-* [kutt](https://github.com/thedevs-network/kutt) ⭐ 11,203 | 🐛 97 | 🌐 JavaScript | 📅 2026-10-19 - Free Modern URL Shortener.
+* [kutt](https://github.com/thedevs-network/kutt) ⭐ 11,206 | 🐛 97 | 🌐 JavaScript | 📅 2026-10-19 - Free Modern URL Shortener.
 * [shlink](https://github.com/shlinkio/shlink) ⭐ 5,421 | 🐛 18 | 🌐 PHP | 📅 2026-11-11 - The definitive self-hosted URL shortener
-* [polr](https://github.com/cydrobolt/polr) ⭐ 5,088 | 🐛 216 | 🌐 PHP | 📅 2024-05-28 - A modern, powerful, and robust URL shortener
-* [zws](https://github.com/zws-im/zws) ⭐ 1,844 | 🐛 21 | 🌐 TypeScript | 📅 2026-11-11 - Shorten URLs using invisible spaces.
+* [polr](https://github.com/cydrobolt/polr) ⭐ 5,086 | 🐛 216 | 🌐 PHP | 📅 2024-05-28 - A modern, powerful, and robust URL shortener
+* [zws](https://github.com/zws-im/zws) ⭐ 1,843 | 🐛 4 | 🌐 TypeScript | 📅 2026-11-12 - Shorten URLs using invisible spaces.
 * [gh-pages-url-shortener](https://github.com/nelsontky/gh-pages-url-shortener) ⭐ 1,415 | 🐛 18 | 🌐 HTML | 📅 2024-06-26 - Minimal URL shortener that can be entirely hosted on GitHub pages.
 * [UrlHum](https://github.com/urlhum/UrlHum) ⭐ 688 | 🐛 33 | 🌐 PHP | 📅 2023-02-12 - The modern, privacy-aware URL Shortener built in PHP.
 * [YOURLS](https://yourls.org/) - Your Own URL Shortener
-  * [YOURLS](https://github.com/YOURLS/YOURLS) ⭐ 12,305 | 🐛 56 | 🌐 PHP | 📅 2026-11-11
+  * [YOURLS](https://github.com/YOURLS/YOURLS) ⭐ 12,306 | 🐛 56 | 🌐 PHP | 📅 2026-11-11
 
 ## Utilities
 
-* [Etcher](https://www.balena.io/etcher/) - 往 U 盘写入镜像的工具，[开源](https://github.com/balena-io/etcher) ⭐ 34,683 | 🐛 703 | 🌐 TypeScript | 📅 2026-10-23。
-* [PicGo](https://molunerfinn.com/PicGo/) - 支持各种图床的上传工具，基于 Electron，[开源](https://github.com/Molunerfinn/PicGo) ⭐ 27,481 | 🐛 30 | 🌐 TypeScript | 📅 2026-11-11。
+* [Etcher](https://www.balena.io/etcher/) - 往 U 盘写入镜像的工具，[开源](https://github.com/balena-io/etcher) ⭐ 34,694 | 🐛 703 | 🌐 TypeScript | 📅 2026-10-23。
+* [PicGo](https://molunerfinn.com/PicGo/) - 支持各种图床的上传工具，基于 Electron，[开源](https://github.com/Molunerfinn/PicGo) ⭐ 27,488 | 🐛 31 | 🌐 TypeScript | 📅 2026-11-11。
 * [Background Music](https://github.com/kyleneideck/BackgroundMusic) ⭐ 19,388 | 🐛 543 | 🌐 C++ | 📅 2026-06-10 - macOS 下独立控制各应用的声音。
 * [Quick Look plugins](https://github.com/sindresorhus/quick-look-plugins) ⭐ 18,804 | 🐛 5 | 📅 2026-07-25 - 一系列 Quick Look 插件。
-* [Hidden Bar](https://github.com/dwarvesf/hidden/) ⭐ 15,384 | 🐛 141 | 🌐 Swift | 📅 2026-10-31 - 开源的 Menu Bar 图标管理工具，类似 [Bartender](https://www.macbartender.com/)。
-* [KeyCastr](https://github.com/keycastr/keycastr) ⭐ 15,207 | 🐛 94 | 🌐 Objective-C | 📅 2026-09-07 - 显示当前按键。
+* [Hidden Bar](https://github.com/dwarvesf/hidden/) ⭐ 15,394 | 🐛 141 | 🌐 Swift | 📅 2026-10-31 - 开源的 Menu Bar 图标管理工具，类似 [Bartender](https://www.macbartender.com/)。
+* [KeyCastr](https://github.com/keycastr/keycastr) ⭐ 15,208 | 🐛 94 | 🌐 Objective-C | 📅 2026-09-07 - 显示当前按键。
 * [Pock](https://pock.dev/) - 让 Touch Bar 更有用的工具，[开源](https://github.com/pigigaldi/Pock) ⭐ 10,171 | 🐛 75 | 🌐 Swift | 📅 2022-11-12。
-* [Bob](https://github.com/ripperhe/Bob) ⭐ 9,758 | 🐛 108 | 📅 2025-12-30 - macOS 下的翻译软件。
+* [Bob](https://github.com/ripperhe/Bob) ⭐ 9,759 | 🐛 108 | 📅 2025-12-30 - macOS 下的翻译软件。
 * [Dozer](https://github.com/Mortennn/Dozer) ⭐ 8,718 | 🐛 102 | 🌐 Swift | 📅 2023-11-30 - 开源的 Menu Bar 图标管理工具，类似 [Bartender](https://www.macbartender.com/)。
 * [Latest](https://max.codes/latest) - 软件更新检查工具，[开源](https://github.com/mangerlahn/latest) ⭐ 4,853 | 🐛 159 | 🌐 Swift | 📅 2026-07-18。
 * [uPic](https://blog.svend.cc/upic/) - 支持各种图床的上传工具，用起来更舒服一些，[开源](https://github.com/gee1k/uPic) ⭐ 3,726 | 🐛 3 | 🌐 Swift | 📅 2026-06-12。
@@ -1772,27 +1772,27 @@ TODO: 待补充。
 
 ## UUID Like
 
-* [ai/nanoid](https://github.com/ai/nanoid) ⭐ 27,132 | 🐛 1 | 🌐 JavaScript | 📅 2026-11-05 - A tiny (130 bytes), secure, URL-friendly, unique string ID generator for JavaScript
-* [ulid/spec](https://github.com/ulid/spec) ⭐ 10,856 | 🐛 74 | 📅 2024-07-20 - The canonical spec for ulid
+* [ai/nanoid](https://github.com/ai/nanoid) ⭐ 27,132 | 🐛 2 | 🌐 JavaScript | 📅 2026-11-05 - A tiny (130 bytes), secure, URL-friendly, unique string ID generator for JavaScript
+* [ulid/spec](https://github.com/ulid/spec) ⭐ 10,858 | 🐛 74 | 📅 2024-07-20 - The canonical spec for ulid
 * [dylang/shortid](https://github.com/dylang/shortid) ⭐ 5,708 | 🐛 16 | 🌐 JavaScript | 📅 2025-01-23 - Short id generator. Url-friendly. Non-predictable. Cluster-compatible.
 * [segmentio/ksuid](https://github.com/segmentio/ksuid) ⭐ 5,273 | 🐛 29 | 🌐 Go | 📅 2026-06-25 - K-Sortable Globally Unique IDs
-* [paralleldrive/cuid](https://github.com/paralleldrive/cuid) ⭐ 3,504 | 🐛 25 | 🌐 JavaScript | 📅 2026-10-30 - Collision-resistant ids optimized for horizontal scaling and performance.
+* [paralleldrive/cuid](https://github.com/paralleldrive/cuid) ⭐ 3,503 | 🐛 25 | 🌐 JavaScript | 📅 2026-11-11 - Collision-resistant ids optimized for horizontal scaling and performance.
 * [skorokithakis/shortuuid](https://github.com/skorokithakis/shortuuid) ⭐ 2,196 | 🐛 0 | 🌐 Python | 📅 2026-10-26 - A generator library for concise, unambiguous and URL-safe UUIDs.
 * [oculus42/short-uuid](https://github.com/oculus42/short-uuid) ⭐ 523 | 🐛 3 | 🌐 JavaScript | 📅 2025-12-01 - Translate standard UUIDs into shorter formats and back.
 * [taskcluster/slugid](https://github.com/taskcluster/slugid) ⭐ 96 | 🐛 3 | 🌐 JavaScript | 📅 2026-10-29 - URL-safe base64 UUID encoder for generating 22 character slugs
 
 ## Visualization
 
-* [plotly/plotly.py](https://github.com/plotly/plotly.py) ⭐ 18,893 | 🐛 753 | 🌐 Python | 📅 2026-11-06 - The interactive graphing library for Python (includes Plotly Express)
-* [python-visualization/folium](https://github.com/python-visualization/folium) ⭐ 7,420 | 🐛 81 | 🌐 Python | 📅 2026-11-10 - Python Data. Leaflet.js Maps.
-* [tidyverse/ggplot2](https://github.com/tidyverse/ggplot2) ⭐ 7,026 | 🐛 120 | 🌐 R | 📅 2026-11-11 - An implementation of the Grammar of Graphics in R
-* [has2k1/plotnine](https://github.com/has2k1/plotnine) ⭐ 4,781 | 🐛 84 | 🌐 Python | 📅 2026-11-03 - based on ggplot2
+* [plotly/plotly.py](https://github.com/plotly/plotly.py) ⭐ 18,898 | 🐛 753 | 🌐 Python | 📅 2026-11-06 - The interactive graphing library for Python (includes Plotly Express)
+* [python-visualization/folium](https://github.com/python-visualization/folium) ⭐ 7,420 | 🐛 80 | 🌐 Python | 📅 2026-11-10 - Python Data. Leaflet.js Maps.
+* [tidyverse/ggplot2](https://github.com/tidyverse/ggplot2) ⭐ 7,025 | 🐛 120 | 🌐 R | 📅 2026-11-11 - An implementation of the Grammar of Graphics in R
+* [has2k1/plotnine](https://github.com/has2k1/plotnine) ⭐ 4,783 | 🐛 84 | 🌐 Python | 📅 2026-11-03 - based on ggplot2
 * [ResidentMario/missingno](https://github.com/ResidentMario/missingno) ⭐ 4,212 | 🐛 15 | 🌐 Python | 📅 2024-05-14 - Missing data visualization module for Python.
-* [vispy/vispy](https://github.com/vispy/vispy) ⭐ 3,610 | 🐛 400 | 🌐 Python | 📅 2026-11-10 - Main repository for Vispy
-* [holoviz/holoviews](https://github.com/holoviz/holoviews) ⭐ 2,919 | 🐛 1,040 | 🌐 Python | 📅 2026-11-10 - With Holoviews, your data visualizes itself.
+* [vispy/vispy](https://github.com/vispy/vispy) ⭐ 3,610 | 🐛 399 | 🌐 Python | 📅 2026-11-12 - Main repository for Vispy
+* [holoviz/holoviews](https://github.com/holoviz/holoviews) ⭐ 2,919 | 🐛 1,040 | 🌐 Python | 📅 2026-11-12 - With Holoviews, your data visualizes itself.
 * [Kozea/pygal](https://github.com/Kozea/pygal) ⭐ 2,773 | 🐛 201 | 🌐 Python | 📅 2026-07-21 - PYthon svg GrAph plotting Library
 * [JetBrains/lets-plot](https://github.com/JetBrains/lets-plot) ⭐ 1,782 | 🐛 147 | 🌐 Kotlin | 📅 2026-07-02 - An open-source plotting library for statistical data.
-* [holoviz/hvplot](https://github.com/holoviz/hvplot) ⭐ 1,363 | 🐛 393 | 🌐 Python | 📅 2026-11-10 - A high-level plotting API for pandas, dask, xarray, and networkx built on HoloViews
+* [holoviz/hvplot](https://github.com/holoviz/hvplot) ⭐ 1,363 | 🐛 394 | 🌐 Python | 📅 2026-11-10 - A high-level plotting API for pandas, dask, xarray, and networkx built on HoloViews
 * [wireservice/leather](https://github.com/wireservice/leather) ⭐ 339 | 🐛 7 | 🌐 Python | 📅 2026-09-21 - Python charting for 80% of humans.
 * [Bokeh](https://bokeh.org/)
 * [Data Viz Project](https://datavizproject.com/) - Collection of data visualizations to get inspired and finding the right type.
@@ -1873,8 +1873,8 @@ TODO: 待补充说明。
 
 ## Web Analytics
 
-* [umami](https://github.com/umami-software/umami) ⭐ 40,066 | 🐛 155 | 🌐 TypeScript | 📅 2026-11-11 - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
-* [arp242/goatcounter](https://github.com/arp242/goatcounter) ⭐ 6,155 | 🐛 59 | 🌐 Go | 📅 2026-09-27 - Easy web analytics. No tracking of personal data.
+* [umami](https://github.com/umami-software/umami) ⭐ 40,094 | 🐛 121 | 🌐 TypeScript | 📅 2026-11-12 - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
+* [arp242/goatcounter](https://github.com/arp242/goatcounter) ⭐ 6,157 | 🐛 60 | 🌐 Go | 📅 2026-09-27 - Easy web analytics. No tracking of personal data.
 * [milesmcc/shynet](https://github.com/milesmcc/shynet) ⭐ 3,158 | 🐛 65 | 🌐 Python | 📅 2026-03-15 - Modern, privacy-friendly, and detailed web analytics that works without cookies or JS.
 * [AWStats](http://www.awstats.org/) - Open Source Log File Analyzer for advanced statistics (GNU GPL)
 * [Countly](https://count.ly/web-analytics) - Secure Web Analytics
@@ -1886,7 +1886,7 @@ TODO: 待补充说明。
 
 ## Window Management
 
-* [yabai](https://github.com/koekeishiya/yabai) ⭐ 29,831 | 🐛 275 | 🌐 C | 📅 2026-06-14 - A tiling window manager for macOS based on binary space partitioning
+* [yabai](https://github.com/koekeishiya/yabai) ⭐ 29,831 | 🐛 275 | 🌐 C | 📅 2026-11-11 - A tiling window manager for macOS based on binary space partitioning
 * [Phoenix](https://github.com/kasper/phoenix/) ⭐ 4,544 | 🐛 48 | 🌐 Objective-C | 📅 2025-08-31
 * [Contexts](https://contexts.co/) - Command-Tab 增强工具。
 * [Magnet](https://magnet.crowdcafe.com/)
@@ -1897,11 +1897,11 @@ TODO: 待补充说明。
 
 IFTTT 的同类。
 
-* [n8n](https://github.com/n8n-io/n8n) ⭐ 210,159 | 🐛 1,215 | 🌐 TypeScript | 📅 2026-11-11 - 支持的 [服务](https://n8n.io/integrations)。
-* [Huginn](https://github.com/huginn/huginn) ⭐ 50,503 | 🐛 695 | 🌐 Ruby | 📅 2026-11-09
-* [windmill-labs/windmill](https://github.com/windmill-labs/windmill) ⭐ 18,530 | 🐛 878 | 🌐 Rust | 📅 2026-11-11 - Open-source developer platform to turn scripts into workflows and UIs. Fastest workflow engine (5x vs Airflow). Open-source alternative to Airplane and Retool.
-* [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) ⭐ 11,783 | 🐛 4,686 | 🌐 JavaScript | 📅 2026-11-11 - Connect APIs, remarkably fast. Free for developers.
-* [Beehive](https://github.com/muesli/beehive) ⭐ 6,489 | 🐛 119 | 🌐 Go | 📅 2023-02-25 - 支持的 [服务](https://github.com/muesli/beehive/wiki/Available-Hives) ⭐ 6,489 | 🐛 119 | 🌐 Go | 📅 2023-02-25。
+* [n8n](https://github.com/n8n-io/n8n) ⭐ 210,310 | 🐛 1,217 | 🌐 TypeScript | 📅 2026-11-12 - 支持的 [服务](https://n8n.io/integrations)。
+* [Huginn](https://github.com/huginn/huginn) ⭐ 50,520 | 🐛 695 | 🌐 Ruby | 📅 2026-11-09
+* [windmill-labs/windmill](https://github.com/windmill-labs/windmill) ⭐ 18,550 | 🐛 882 | 🌐 Rust | 📅 2026-11-12 - Open-source developer platform to turn scripts into workflows and UIs. Fastest workflow engine (5x vs Airflow). Open-source alternative to Airplane and Retool.
+* [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) ⭐ 11,783 | 🐛 4,691 | 🌐 JavaScript | 📅 2026-11-12 - Connect APIs, remarkably fast. Free for developers.
+* [Beehive](https://github.com/muesli/beehive) ⭐ 6,488 | 🐛 119 | 🌐 Go | 📅 2023-02-25 - 支持的 [服务](https://github.com/muesli/beehive/wiki/Available-Hives) ⭐ 6,488 | 🐛 119 | 🌐 Go | 📅 2023-02-25。
 * [Actionsflow](https://github.com/actionsflow/actionsflow) ⭐ 3,374 | 🐛 11 | 🌐 TypeScript | 📅 2025-10-21 - 可以用 Github actions 来跑，支持的 [服务](https://actionsflow.github.io/docs/triggers/)。
 * [DataFire](https://github.com/DataFire/DataFire) ⭐ 575 | 🐛 25 | 🌐 JavaScript | 📅 2022-12-30 - 支持的 [服务](https://app.datafire.io/integrations)。
 * [Apache NiFi](https://nifi.apache.org/) - 放到这个分类有点牵强。
@@ -1921,16 +1921,16 @@ IFTTT 的同类。
 
 ## Zsh plugin
 
-* [Powerlevel10k](https://github.com/romkatv/powerlevel10k) ⭐ 55,359 | 🐛 152 | 🌐 Shell | 📅 2026-11-09 - zsh theme，很好用，特别是`Instant prompt`这个特性，我从 [starship](https://starship.rs/) 转过来的。
-* [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) ⭐ 36,197 | 🐛 206 | 🌐 Shell | 📅 2025-06-24
-* [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) ⭐ 23,087 | 🐛 218 | 🌐 Shell | 📅 2026-10-09
+* [Powerlevel10k](https://github.com/romkatv/powerlevel10k) ⭐ 55,368 | 🐛 152 | 🌐 Shell | 📅 2026-11-09 - zsh theme，很好用，特别是`Instant prompt`这个特性，我从 [starship](https://starship.rs/) 转过来的。
+* [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) ⭐ 36,201 | 🐛 206 | 🌐 Shell | 📅 2025-06-24
+* [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) ⭐ 23,089 | 🐛 218 | 🌐 Shell | 📅 2026-10-09
 * [Antigen](https://github.com/zsh-users/antigen) ⭐ 8,365 | 🐛 98 | 🌐 Shell | 📅 2026-10-09 - zsh 插件管理工具。
 * [zsh-completions](https://github.com/zsh-users/zsh-completions) ⭐ 7,912 | 🐛 9 | 🌐 Shell | 📅 2026-10-16
-* [Zinit](https://github.com/zdharma-continuum/zinit) ⭐ 4,899 | 🐛 115 | 🌐 Shell | 📅 2026-11-11 - zsh 插件管理工具，很好用，特别是`Turbo Mode`这个特性，[Antibody](https://github.com/getantibody/antibody) ⚠️ Archived 转过来的。
-* [zsh-history-substring-search](https://github.com/zsh-users/zsh-history-substring-search) ⭐ 3,118 | 🐛 44 | 🌐 Shell | 📅 2026-09-18
-* [Antibody](https://github.com/getantibody/antibody) ⚠️ Archived - zsh 插件管理工具，用过一段时间，后来换 [Zinit](https://github.com/zdharma-continuum/zinit) ⭐ 4,899 | 🐛 115 | 🌐 Shell | 📅 2026-11-11 了。
+* [Zinit](https://github.com/zdharma-continuum/zinit) ⭐ 4,899 | 🐛 114 | 🌐 Shell | 📅 2026-11-12 - zsh 插件管理工具，很好用，特别是`Turbo Mode`这个特性，[Antibody](https://github.com/getantibody/antibody) ⚠️ Archived 转过来的。
+* [zsh-history-substring-search](https://github.com/zsh-users/zsh-history-substring-search) ⭐ 3,117 | 🐛 44 | 🌐 Shell | 📅 2026-09-18
+* [Antibody](https://github.com/getantibody/antibody) ⚠️ Archived - zsh 插件管理工具，用过一段时间，后来换 [Zinit](https://github.com/zdharma-continuum/zinit) ⭐ 4,899 | 🐛 114 | 🌐 Shell | 📅 2026-11-12 了。
 * [zsh-ssh](https://github.com/sunlei/zsh-ssh) ⭐ 223 | 🐛 0 | 🌐 Shell | 📅 2026-11-10 - 自己写的一个 zsh 下通过 fzf 增强 ssh 命令的工具，日常高频使用，[演示](https://asciinema.org/a/381405)。
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
